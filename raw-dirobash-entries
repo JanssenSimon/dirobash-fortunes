@@ -1,0 +1,3197 @@
+  From Person 1 to Everyone:  04:31 PM<br />
+genre nos neurones fonctionnent par pseudo-d&eacute;mocracie<br />
+mais quand on y pense c'est un peu comme une MT ND<br />
+<br />
+From Person 2 to Everyone:  04:31 PM<br />
+Est-ce qu'une MT est d&eacute;mocratique?<br />
+<br />
+From Person 3 to Everyone:  04:31 PM<br />
+non <br />
+<br />
+From Person 1 to Everyone:  04:31 PM<br />
+c'est une tyrannie<br />
+
+  &quot;Un langage n'est pas un mendiant, il n'accepte rien&quot;<br />
+- Gena Hahn<br />
+
+  16:42 &lt; dagothig&gt; bon, j'en ai une autre de saucy &quot;next = *(++(*end))&quot;<br />
+16:42 &lt; adelrune&gt; o/<br />
+16:42 &lt; adelrune&gt; calice<br />
+16:42 &lt; NotBatman&gt; kw&eacute;<br />
+16:42 &lt; adelrune&gt; tu sors &ccedil;a d'o&ugrave; %<br />
+16:42 &lt; dagothig&gt; c'est une adresse d'un string, pis je veux avancer dans le string pis avoir le prochain caract&egrave;re<br />
+                  en m&ecirc;me temps<br />
+16:42 &lt; dagothig&gt; c'est foolproof<br />
+16:42 &lt; NotBatman&gt; fucking hell<br />
+16:43 &lt; dagothig&gt; mon code va &ecirc;tre autant compr&eacute;hensible que l'&eacute;nonc&eacute;<br />
+16:46 &lt; adelrune&gt; c'est pire que tous les oneliners python que j'ai post&eacute;s ici r&eacute;eunis<br />
+16:47 &lt; __316k__&gt; dagothig: le truc pour &eacute;crire du code clair, c'est de mettre des commentaires<br />
+16:47 &lt; __316k__&gt;    /* c'est une adresse d'un string, pis je veux avancer dans le<br />
+16:47 &lt; __316k__&gt;       string pis avoir le prochain caract&egrave;re en m&ecirc;me temps */<br />
+16:47 &lt; __316k__&gt;    next = *(++(*end))<br />
+16:47 &lt; adelrune&gt; o/o/o/<br />
+16:47 &lt; __316k__&gt; L&agrave; c'est 100% foolproof<br />
+16:47 &lt; adelrune&gt; 100% foolproof<br />
+16:47 &lt; __316k__&gt; Beaucoup plus clair tout d'un coup!<br />
+16:47 &lt; adelrune&gt;  _  ___   ___ _  __   __             _                        __<br />
+16:47 &lt; adelrune&gt; |/ _  / _ (_)/ /  / _| ___   ___ | |_ __  _ __ ___   ___  / _|<br />
+16:47 &lt; adelrune&gt; | | | | | | | |/ /  | |_ / _  / _ | | '_ | '__/ _  / _ | |_<br />
+16:47 &lt; adelrune&gt; | | |_| | |_| / /_  |  _| (_) | (_) | | |_) | | | (_) | (_) |  _|<br />
+16:47 &lt; adelrune&gt; |_|___/ ___/_/(_) |_|  ___/ ___/|_| .__/|_|  ___/ ___/|_|<br />
+16:47 &lt; adelrune&gt;                                       |_|<br />
+16:48 &lt; __316k__&gt; Soit &ccedil;a, soit // Deep magick happens blow<br />
+16:48 &lt; __316k__&gt; *below<br />
+16:48 &lt; NotBatman&gt; *(++(*below))<br />
+16:49 &lt; __316k__&gt; En fait, le mieux c'est d'&eacute;crire du code qui s'auto-documente<br />
+16:49 &lt; __316k__&gt; next =<br />
+                  *(++(*cestuneadressedestringpisjeveuxavancerdanslestringpisavoirleprochaincaractereenmemetemps));<br />
+16:49 &lt; NotBatman&gt; kek<br />
+16:49 &lt; dagothig&gt; oooo/<br />
+16:49 &lt; dagothig&gt; ooooooooooo/<br />
+16:49 &lt; __316k__&gt; ooo<br />
+16:49 &lt; __316k__&gt; /o/o/o/<br />
+16:49 &lt; dagothig&gt; __316k__: t'as strat est excellente<br />
+16:49 &lt; dagothig&gt; elle invalide tout besoin futur de commentaire<br />
+16:50 &lt; dagothig&gt; aucune explication requise<br />
+16:50 &lt; __316k__&gt; Self-documenting code<br />
+16:50 &lt; __316k__&gt; C'est explicite :vD<br />
+16:51 &lt; adelrune&gt; #litterateprogramming<br />
+16:51 &lt; NotBatman&gt; __316k__: non mais faut mettre des underscore<br />
+16:51 &lt; NotBatman&gt; sinon c'est pas lisible<br />
+16:51 &lt; NotBatman&gt; pis c'est pas auto-document&eacute;<br />
+16:51 &lt; __316k__&gt; NotBatman: __next__ =<br />
+*(++(*__cestuneadressedestringpisjeveuxavancerdanslestringpisavoirleprochaincaractereenmemetemps__));<br />
+16:51 &lt; NotBatman&gt; calisse<br />
+16:51 &lt; NotBatman&gt; o/<br />
+16:51 &lt; __316k__&gt; o/<br />
+16:52 &lt; dagothig&gt; je pourrais d&eacute;finir une macro aussi, genre ADVANCE_STRING_PTR_AND_RECEIVE_HEAD(ptr, head)<br />
+16:52 &lt; __316k__&gt; o/<br />
+16:52 &lt; __316k__&gt; &Ccedil;a marche aussi<br />
+16:52 &lt; dagothig&gt; &agrave; ce qui parait au travail y faut pas qu'on abbr&eacute;vie culture en cul, ou assignment en ass<br />
+16:52 &lt; dagothig&gt; j'&eacute;tais vrm triste<br />
+16:52 &lt; NotBatman&gt; o/<br />
+16:52 &lt; NotBatman&gt; assCul as fuck<br />
+16:55 &lt; __316k__&gt; dagothig: la fa&ccedil;on la plus claire d'&eacute;crire ta macro, tho, c'est de la faire la plus explicite<br />
+                  possible<br />
+16:55 &lt; __316k__&gt; #define ASSIGN =<br />
+16:55 &lt; __316k__&gt; #define DEREFERENCE *<br />
+16:55 &lt; __316k__&gt; #define VARIABLE next<br />
+16:55 &lt; __316k__&gt; #define LPAR (<br />
+16:55 &lt; __316k__&gt; #define RPAR )<br />
+16:55 &lt; __316k__&gt; #define INCREMENT ++<br />
+16:55 &lt; __316k__&gt; #define STRING end<br />
+16:55 &lt; __316k__&gt; #define RIGHT_EXPR DEREFERENCE##LPAR##INCREMENT##LPAR##DEREFERENCE##STRING##RPAR##RPAR<br />
+16:55 &lt; __316k__&gt; #define ADVANCE_STRING_PTR_AND_RECEIVE_HEAD VARIABLE ASSIGN RIGHT_EXPR<br />
+16:56 &lt; __316k__&gt; s/##/ /g, pardon<br />
+
+  10:57 &lt; dagothig&gt; ok mais l'exam avec juste 12 questions &agrave; choix<br />
+                  de r&eacute;ponses c'&eacute;tait trivial<br />
+10:57 &lt; gabc&gt; o/<br />
+10:57 &lt; gabc&gt; Le plus dur &ccedil;a a &eacute;t&eacute; de trouver le local?<br />
+10:58 &lt; dagothig&gt; pour vrai oui<br />
+10:58 &lt; gabc&gt; o/<br />
+10:59 &lt; NotBatman&gt; o/<br />
+
+  dirobash be like:<br />
+&lt;h2&gt;Ajout d'une citation:&lt;/h2&gt;<br />
+&lt;input type=&quot;submit&quot; value=&quot;Add Quote&quot;&gt;<br />
+
+  13:26 &lt; NotBatman&gt; esti que c'est bon l'indien<br />
+13:32 &lt; adelrune&gt; la bouffe indienne c'est top tier<br />
+13:32 &lt; adelrune&gt; tout le reste c'est fade et sans saveur<br />
+13:33 &lt; __316k__&gt; +1<br />
+13:34 &lt; __316k__&gt; Sauf les pois au wasabi, &agrave; condition que t'en<br />
+                  mettes &gt; 30 dans ta yeule d'un coup<br />
+13:34 &lt; NotBatman&gt; kw&eacute;<br />
+13:34 &lt; __316k__&gt; C'est tout ce qui r&eacute;ussi &agrave; me faire sentir<br />
+                  vivant<br />
+13:34 &lt; NotBatman&gt; pis quand tu vas aux chiottes aussi tu te sens<br />
+                   vivant?<br />
+
+  09:59 &lt; gabc&gt; Calice Codingame &quot;This puzzle teaches you how to compare values using a simple condition.&quot;<br />
+09:59 &lt; gabc&gt; erf<br />
+09:59 &lt; dagothig&gt; waf<br />
+10:01 &lt; NotBatman&gt; if (a &lt; ta_mere)<br />
+10:01 &lt; NotBatman&gt; ?<br />
+10:01 &lt; gabc&gt; Ouais mais non parce que c'est plus chiant que &ccedil;a<br />
+10:01 &lt; gabc&gt; Mais ouais<br />
+10:01 &lt; gabc&gt; Enfin le contexte rend &ccedil;a gossant<br />
+10:04 &lt; dagothig&gt; NotBatman: a &lt; ta_mere c'est pas une expression constante vraie?<br />
+10:05 &lt; NotBatman&gt; o/<br />
+10:05 &lt; NotBatman&gt; pas si a == ta_mere<br />
+10:07 &lt; dagothig&gt; tu penses qu'une petite variable &agrave; une lettre peut contenir autant?<br />
+10:09 &lt; gabc&gt; T'assumes qu'une adresse m&eacute;moire peut contenir ta_mere<br />
+10:10 &lt; gabc&gt; ta_mere est tellement grosse qu'a page fault<br />
+
+  Les nazis &eacute;taient socialistes, c'est dans leur nom &quot;le partie socialiste nationaliste&quot;, dis non-ironiquement.<br />
+
+  09:25 &lt; gabc&gt; okokok j'ai une id&eacute;e<br />
+09:25 &lt; gabc&gt; on fait un diner de cons<br />
+09:25 &lt; gabc&gt; et chacun apporte un car pis un cdr<br />
+09:26 &lt; gabc&gt; ou genre, on se splitte, pis 50% apportent des car et les autres des cdr<br />
+09:26 &lt; gabc&gt; Pis c'est genre un matching game<br />
+09:26 &lt; gabc&gt; omg speed dating pour cons o/<br />
+09:27 &lt; NotBatman&gt; gabc: calisse<br />
+
+  13:49 -!- vora [~vora@23.233.134.71] has joined #diroum<br />
+13:50 &lt; vora&gt; Cet endroit existe vraiment. Neat.<br />
+13:51 -!- vora [~vora@23.233.134.71] has left #diroum []<br />
+14:07 &lt; NotBatman&gt; cest qui vora?<br />
+14:08 &lt; dagothig&gt; &macr;_(?)_/&macr;<br />
+14:11 &lt; must_ache&gt; j'ai l'impression que ya un mythe qui s'est cr&eacute;&eacute; au DIROUM<br />
+14:14 &lt; NotBatman&gt; la l&eacute;gende de #diroum, le channel des anciens?<br />
+14:14 &lt; must_ache&gt; #diroum, maison du charg&eacute; de cours le plus wack du DIRO et de ses compatriotes d'antan<br />
+14:15 &lt; NotBatman&gt; o/<br />
+14:16 &lt; dagothig&gt; o/<br />
+
+  Kiang: Comment on like un post sur DIROBash<br />
+
+  Samuel: Moi je dab toujours vers la Mecque<br />
+
+  &laquo;&nbsp;Mathematics and sex are not spectator sports. You need to pratice them to understand.&nbsp;&raquo;<br />
+-Gena Hahn 2019<br />
+
+  &laquo;&nbsp;Terminer une preuve, c?est quelque chose d?orgasmique&nbsp;&raquo;<br />
+-Gena Hahn 2019<br />
+
+  &quot;Je ne serai pas l&agrave; &agrave; l'examen, c'est Baptiste qui va vous administrer votre examen.&quot;<br />
+-Marc Feeley<br />
+
+  13:39 &lt; __316k__&gt; dagothig: 13 mai, mets &ccedil;a &agrave; ton agenda, &quot;Le Gol<br />
+                  &agrave; Travers les &Acirc;ges : Analyse des P&eacute;riodes<br />
+                  &Eacute;volutives d'un Gol&quot;<br />
+13:39 &lt; dagothig&gt; gg<br />
+13:39 &lt; dagothig&gt; quel local?<br />
+13:40 &lt; dagothig&gt; en tout cas s'est fait, je viens de le mettre &agrave;<br />
+                  mon horaire<br />
+13:40 &lt; __316k__&gt; Ma th&eacute;orie : embrygol (dans l'ut&eacute;rus), minigol<br />
+                  (0-9 ans), moyengol (10-15 ans), jeune gol<br />
+                  (16-22 ans), monsieur gol (23- ans)<br />
+13:41 &lt; __316k__&gt; Tout &ccedil;a peut &ecirc;tre affect&eacute; par les dipl&ocirc;mes et<br />
+                  titres honorifiques<br />
+13:41 &lt; dagothig&gt; y'a pas genre 25 ans atm?<br />
+13:41 &lt; __316k__&gt; Sir Gol quand il se fait d&eacute;corer par la reine<br />
+                  d'angleterre<br />
+13:41 &lt; dagothig&gt; xD<br />
+13:41 &lt; __316k__&gt; Goru-chan si il va vivre au Japon<br />
+13:42 &lt; must_ache&gt; hahaha<br />
+13:42 &lt; __316k__&gt; Ou sensei goru<br />
+13:42 &lt; adelrune&gt; monseigneur gol quand il va s'&ecirc;tre tann&eacute; des<br />
+                  jeux vid&eacute;os pis qu'il va avoir fini sa formation<br />
+                  en th&eacute;ologie<br />
+
+  &quot;Je suis aussi motiv&eacute; qu'une patate frite&quot; -Twink.<br />
+
+  Gilles Brassard est un magicien parce qu'il fait disparaitre ta gpa.<br />
+
+  Je n'ai pas l'&eacute;nonc&eacute; du TP2, je vais d'abord m'assurer que le travail est faisable. Si je r&eacute;ussi &agrave; le faire on dira que c'est faisable. -Marc Feeley annoncant que le TP de concept est un autre compilateur.<br />
+
+  &quot;Je suis tout &agrave; fait conscient qu'il faut bootstrapper vos connaissances.&quot;<br />
+       -Marc Feeley, 2018<br />
+
+  Corn: Jean a l'air d'un gars qu'une fille de 17 ans appelerait Daddy<br />
+
+  Si tu prends &quot;alcoolis&eacute;e&quot; et t'enl&egrave;ve le &quot;cool&quot; t'obtiens Aliz&eacute;e<br />
+
+  Information pour les programmeurs d'os : le modulo n'est pas juste pour les poulets.<br />
+
+  (un dude (vous savez qui)): j'ai fait un 69 sur la table de l'asso<br />
+Karine: oui mais tu l'a fait toute seul<br />
+
+  Abdel (en parlant d'Aliz&eacute;e): la derni&egrave;re fois que je lui ai mis de la sauce dans face, c'&eacute;tait de la sauce Alfredo<br />
+
+  Twink, qui nous montre une vid&eacute;o de lui: &quot;J'avais quinze ans ici. Crisse, j'avais l'air d'avoir 11 ans!&quot;<br />
+Andr&eacute;:&quot;I'd tap that&quot;<br />
+
+  Emacs est le meilleur OS ............. pour rouler vim.<br />
+
+  St&eacute;phane: &quot;Boyer si t'inverse les syllabes &ccedil;a fait ye boii&quot;<br />
+
+  Du forum de 1025, AKA programmation orient&eacute;e spam: &quot;Tiens, c'est bien la premi&egrave;re fois que des mecs jouent &agrave; celui qui a la plus petite taille... o.O&quot;<br />
+
+  (Charles): Les bananes que je mange sont plus grosses que &ccedil;a.<br />
+
+
+  11:07 &lt; NotBatman&gt; aaaalz: dis aux jeunes que dirobash c'est pas pour les conversations louches de groupe sur facebook<br />
+11:08 &lt; aaaalz&gt; wwwn: je t'ai crois&eacute; dans le m&eacute;tro vendredi matin pis tu m'as pas vue pis j'ai pas dit allo :3<br />
+11:08 &lt; aaaalz&gt; aaaalz: why are you like this<br />
+11:08 &lt; adelrune&gt; NotBatman: c'est juste pour les conversations louches de groupes IRC<br />
+11:08 &lt; NotBatman&gt; voil&agrave;<br />
+11:08 &lt; aaaalz&gt; ou IRL<br />
+
+  Une kid en IFT 1015 mardi soir a 23:25 la premiere semaine :<br />
+Camarades,<br />
+<br />
+Apr&egrave;s des jours de souffrances continues &agrave; essayer de ''trouver l'expression la plus petites possible ayant pour r&eacute;sultat 889 en utilisant les nombres 2 3 5 10 30 une et une seule fois chacun, les op&eacute;rateurs +, - et * (autant que n&eacute;cessaire) et des parenth&egrave;ses au besoin'', &agrave; avoir &eacute;cout&eacute; la proph&eacute;tie d'un professeur magicien m'assurant que la r&eacute;ponse m'appara&icirc;tra un jour, &agrave; avoir braver le froid d'enfer pour demander l'aide d'un math&eacute;maticien sage, h&eacute;las, la solution m'&eacute;chappe et court toujours quelque part, sans se soucier du mal que me cause son absence.<br />
+<br />
+Gents et courageux &eacute;tudiants,  aurait-il, parmi vous, quelqu'un qui aurait braver cette &eacute;preuve du m&ecirc;me nombre sacr&eacute; 889 duquel la pr&eacute;diction me nuit telle une mal&eacute;diction et qui aurait , dans son coeur, quelque part la grandeur d'&acirc;me de me guider vers le droit chemin, ou bien , qui voudrait unir ses tentatives aux miennes, car &agrave; deux aujourd'hui, nous serons toujours plus forts que nous l'&eacute;tions hier, et au moins, dans le d&eacute;sespoir de la poursuite de la solution maudite, nous pourrions trouver r&eacute;confort dans l'&acirc;me de l'un l'autre et dans l'espoir que nous avons port&eacute; &agrave; sauver le monde car les 12 coups fatidiques de minuit approchent et il faudrait peut-&ecirc;tre partager des moments enchant&eacute;s avant la grande noirceur.<br />
+<br />
+ moi: merci pour cette lecture d&eacute;lectable . btw , la reponse existe. KEEP BELIEVIN . NEVER SAY NEVER<br />
+
+  au gars qui a ecrit aux joueurs de smash hier : Lana t'appuie dans tes engagements<br />
+
+  Joueurs de smash: Fucking anal je vais te tuer!<br />
+
+  &quot;Le plagiat c'est bien mais il faut que ca soit fait de facon subtile&quot; - Philippe Langlais, Prof<br />
+
+  ECN 1005 ... quelqu'un va lui dire un petit con qui arr&ecirc;te pas de s'ostiner avec le professeur qu'il enerve tout le monde . plu capable . il faut le mettre sur la BLACKLIST ! wombo wombo wombo wombo<br />
+
+  Oui la question de l'examen est difficile, c'est pour s&eacute;parer les hommes des enfants.<br />
+<br />
+- Guy Lapalme<br />
+
+  &lt;NotBatman&gt; bmt<br />
+&lt;__316k__&gt; GABWAVE<br />
+&lt;arteymixbo&gt; GABWAVE: Gousses d'ail Ananas Bacon Wombo Ananas Vitriole Emmenthal <br />
+&lt;NotBatman&gt; 316KWAVE<br />
+&lt;arteymixbo&gt; KWAVE: Kamenbert Wombo Ananas Vitriole Emmenthal <br />
+&lt;__316k__&gt; Kamenbert Wombo<br />
+&lt;__316k__&gt; Bon, ok, j'aurais peut-&ecirc;tre pu me forcer un peu plus pour certaines lettres o<br />
+&lt;NotBatman&gt; o/<br />
+&lt;NotBatman&gt; K =&gt; Koala<br />
+&lt;NotBatman&gt; W =&gt; Wasabi<br />
+&lt;__316k__&gt; Wasabi c'est d&eacute;j&agrave; plus cr&eacute;dible que Wombo<br />
+&lt;__316k__&gt; Le d&eacute;licieux Wombo<br />
+&lt;NotBatman&gt; WWW<br />
+&lt;arteymixbo&gt; WWW: Wombo Wombo Wombo <br />
+&lt;NotBatman&gt; __316k__: fix it<br />
+&lt;__316k__&gt; NotBatman: https://www.youtube.com/watch?v=--hsVknT1c0<br />
+&lt;NotBatman&gt; WWW<br />
+&lt;arteymixbo&gt; WWW: Wombo Wombo Wombo <br />
+&lt;NotBatman&gt; still no wasabi<br />
+&lt;__316k__&gt; no wasabi<br />
+&lt;__316k__&gt; only wombo<br />
+* arteymix[t] (~arteymixt@45.74.162.230) has joined<br />
+* arteymix[t] has quit (Quit: arteymix[t])<br />
+* arteymix (~arteymix@45.74.162.230) has joined<br />
+* arteymix has quit (Ping timeout: 264 seconds)<br />
+&lt;wwwn&gt; bmt<br />
+&lt;adelrune&gt; MBT<br />
+&lt;arteymixbo&gt; MBT: Wombo Wombo Wombo <br />
+&lt;adelrune&gt; xD<br />
+&lt;adelrune&gt; ONLYWOMBONOW<br />
+&lt;arteymixbo&gt; ONLYWOMBONOW: Wombo Wombo Wombo Wombo Wombo Wombo Wombo Wombo Wombo Wombo Wombo Wombo<br />
+
+  Vaut mieux avoir finit un recto qu'avoir le recto fini<br />
+
+  D'une personne en design web qui d&eacute;sire probablement conserver l'anonymat :<br />
+<br />
+&quot;Allo, dans la section design il est indiqu&eacute; de pr&eacute;voir une version de notre site pour tablette et telephone. <br />
+<br />
+Faut-il cr&eacute;er une telle version aussi et l'impl&eacute;menter &agrave; notre site web. ou on ne fait que d&eacute;crire textuellement ce que nous aurions fait.&quot;<br />
+<br />
+Comme on dit, il faut de tout pour faire un monde...<br />
+
+  *Autour d'un jeu de cartes*<br />
+Charles: Je te colle, il n'y a pas de raison, c'est juste une question d'orientation.<br />
+L: ...<br />
+Charles: C'est juste une question d'orientation.<br />
+
+  L: ...Finalement, Il &eacute;tait trop tard pour que je revienne chez moi..<br />
+J: Donc t'as pass&eacute; une super soir&eacute;e avec moi?<br />
+L: Oui...Mais je n'ai pas dormi.<br />
+*Silence*<br />
+Les autres autour: OOOOOoooooooOOOOOHHHHHHHHHHHH!!!!<br />
+L:*facepalm; soupir; espoirEnHumanit&eacute; = 0;*<br />
+
+  Jean: Voir que l'on n'est pas all&eacute; &agrave; la place o&ugrave; il y a des filles &agrave; poil.<br />
+
+  X: C'est peut-&ecirc;tre parce que j'avais jamais utilis&eacute; &ccedil;a avant mais je surligne tout mon texte avec mon highlighter...<br />
+Y: Heu...?<br />
+X: Ben quoi! J'avais jamais achet&eacute; de surligneur avant.<br />
+
+  Twink: Ah, le gardien de s&eacute;curit&eacute; [...], &agrave; chaque fois que je le vois, j'ai le go&ucirc;t de lui donner un quick ;)<br />
+
+  Twink: Je me tape le gagnants.<br />
+
+  Audrey: Moi mon trip dans la vie c'est de voir des gens se faire rape par Mario<br />
+
+  Brassard: Il n'y en a pas beaucoup des solipsistes... en fait il y en a juste un<br />
+
+  Lauranne (&agrave; Jean): Je sais pas comment tu fais pour avoir des bonnes notes.<br />
+Fabian Bastin: Parce qu'il paie les profs.<br />
+
+  Stefan Monnier aime les types; c'est son dada.<br />
+
+  Mackenzie: Bonjour (hic), j'ai le hoquet depuis maintenant dix-huit heures...<br />
+
+  F: Je sais pas quelle carte jouer.<br />
+Aldo: Si tu joues un 6, &ccedil;a veut dire que t'es gay.<br />
+
+  Dans le forum de IFT1015, &agrave; propos du TP de g&eacute;n&eacute;ration de labyrinthe:<br />
+<br />
+Un kid: &quot;Par contre &ccedil;a me fait penser, nous avons probablement tous et toutes omis d'inclure une interpr&eacute;tation du programme pour des valeurs de nx et ny n&eacute;gative, ce qui est bien l&eacute;gitime puisque ces variables repr&eacute;sente le nombre de cellule et qu'un nombre de cellule n&eacute;gatif n'est tout simplement pas 'tangible'. Mais qu?arrive t'il pour la valeur 0? On pourrait facilement argumenter, et en convaincre tout le monde, que dans un univers unidimensionnelle, le concept de labyrinthe n'est tout simplement pas tangible ainsi, nous pouvons omettre une interpr&eacute;tation du programme pour  la valeur 0. Du coup, pour des nx ou ny portant la valeur 1, le r&eacute;sultats du programme peut-il &ecirc;tre consid&eacute;rer comme un labyrinthe? Le programme cr&eacute;e simplement un corridor reliant l'entr&eacute; et la sortie de fa&ccedil;on directe, il n'y as aucun obstacle, aucun embranchement et pas d'impasse, ceci n'est &eacute;videmment pas un labyrinthe. Ne devient t'il pas alors un peu paradoxal d'inclure dans notre programme les cas ou nx ou ny ont la valeur 1? Ainsi en traitant ce cas, notre programme qui  doit cr&eacute;e des labyrinthes obtient la capacit&eacute; d'engendr&eacute; quelque chose qui n'est pas un labyrinthe....<br />
+<br />
+Sur ce, pour le moment je conserve dans mon programme la capacit&eacute; de traiter le cas de la valeur 1 mais, j'aimerais bien avoir le commentaire d'un correcteur/professeur sur cela.&quot;<br />
+<br />
+Marc Feeley: &quot;Une maison peut-elle avoir une seule pi&egrave;ce? Un po&egrave;me peut-il avoir un seul mot? Un repas peut-il avoir un seul met? Un orchestre peut-il avoir un seul musicien? Une m&eacute;lodie peut-elle avoir une seule note? Un escalier peut-il avoir une seule marche? Un labyrinthe peut-il avoir un seul corridor?<br />
+<br />
+Ce sont des profondes questions philosophiques qui m&eacute;riteraient une th&egrave;se en 3 volumes incluant un traitement complet de la question &quot;est-ce que z&eacute;ro est un nombre positif ou n&eacute;gatif?&quot;. Pour les besoins de ce travail on prendra la position qu'un labyrinthe peut &ecirc;tre un simple corridor.&quot;<br />
+
+  Je vais sugg&eacute;rer qu'on se torture pendant une minute!<br />
+    Gena Hahn, 26/02/2013<br />
+
+  12:54 &lt; mixbo&gt; J'ai mute les connect/disconnect ici<br />
+12:55 &lt; NotBatman&gt; mixbo: o/<br />
+12:55 &lt; NotBatman&gt; same<br />
+12:56 &lt; __316k__&gt; o/<br />
+13:12 &lt; must_ache&gt; pas moi, j'aime shooter des co/d&eacute;co d'Arteymixbo &agrave; dirobash<br />
+                   des fois<br />
+13:14 &lt; __316k__&gt; Genre, http://dirobash.tolarian.com/quote/883.html ?<br />
+13:15 &lt; __316k__&gt; God damn cette quote<br />
+13:15 &lt; __316k__&gt; arteymix starred systemd/systemd 2 hours ago<br />
+13:15 &lt; __316k__&gt; Je commence &agrave; penser qu'on devrait lui enlever la garde de<br />
+                  son enfant<br />
+13:15 &lt; __316k__&gt; Il est pas apte<br />
+13:18 &lt; must_ache&gt; __316k__, ouais, c'est moi qui l'a mis celle-l&agrave;<br />
+
+  William: Je prends un cours cette session o&ugrave; je dois dessiner des gens nus<br />
+Nicolas: Int&eacute;ressant &ccedil;a, je peux tu venir ?<br />
+Yan: Tu peux y aller, mais tu peux pas venir<br />
+
+  &lt;NotBatman&gt; les gens capotent parce que starcraft remastered sors 6h plus tard que pr&eacute;vu<br />
+&lt;__316k__&gt; o/<br />
+&lt;adelrune&gt; omg<br />
+&lt;adelrune&gt; je vais faire une crise d'apoplexie, c'est ben trop tragique<br />
+&lt;NotBatman&gt; fucking<br />
+&lt;__316k__&gt; Hey... T'es tu en train d'&ecirc;tre sarcastique, l&agrave; ? Je sens du sarcasme. Comme si le 6h de d&eacute;lai de la sortie de Starcraft remastered te d&eacute;rangeait pas pour de vrai.<br />
+&lt;NotBatman&gt; les forums de blizzard c'est une mine de sel en ce moment<br />
+&lt;__316k__&gt; butlerian: you finally found a home<br />
+
+  &lt;__316k__&gt; Je pensais &agrave; &ccedil;a, pour se rendre &agrave; Hull, Gatineau, faut prendre la 20<br />
+&lt;__316k__&gt; Donc techniquement, la 20, c'est la Highway to Hull :D<br />
+
+  * LeYiable (~g316k@159.203.8.35) has joined<br />
+&lt;LeYiable&gt; must_ache !<br />
+&lt;must_ache&gt; LeYiable, !<br />
+&lt;LeYiable&gt; Je viens pour t'emporter vers les Enfers !<br />
+&lt;must_ache&gt; o/<br />
+&lt;LeYiable&gt; Ton nombre de tickets a atteint le 666, ton heure est venue<br />
+&lt;must_ache&gt; Mais yen a 516 de fixed dude<br />
+&lt;__316k__&gt; must_ache: kek les 1900 rapports...<br />
+&lt;LeYiable&gt; oh<br />
+&lt;LeYiable&gt; must_ache !<br />
+&lt;LeYiable&gt; Quand les 516 tickets pas ferm&eacute;s frapperont<br />
+&lt;LeYiable&gt; Je serai de retour<br />
+&lt;LeYiable&gt; DE RETOUR !<br />
+* LeYiable has quit (Client Quit)<br />
+
+  * arteymix_ has quit (Read error: Connection reset by peer)<br />
+* arteymix_ (~arteymix@x-132-204-243-254.xtpr.umontreal.ca) has joined<br />
+&lt;butlerian&gt; arteymix starred systemd/systemd 2 hours ago<br />
+&lt;butlerian&gt; arteymix_: plz<br />
+&lt;butlerian&gt; T'es pas bien<br />
+* arteymix (~arteymix_@45.74.162.230) has joined<br />
+* arteymix_ has quit (Ping timeout: 246 seconds)<br />
+
+
+  &lt;dagothig&gt; sup<br />
+&lt;adelrune&gt; o/<br />
+&lt;adelrune&gt; ahhh le silence<br />
+&lt;gabc&gt; o/<br />
+&lt;NotBatman&gt; dagothig: bjr<br />
+&lt;NotBatman&gt; adelrune: o/<br />
+&lt;dagothig&gt; adelrune: tout les matins je me l&egrave;ve, je me mets en boule, et je pleure dans le silence<br />
+&lt;must_ache&gt; dagothig, tous les matins je me l&egrave;ve et je.. fais du caf&eacute;.<br />
+&lt;dagothig&gt; mmmh<br />
+&lt;dagothig&gt; je devrais pe essayer<br />
+&lt;__316k__&gt; dagothig: le caf&eacute; c'est fuck plus legit que se mettre en boule et pleurer<br />
+&lt;__316k__&gt; Pis tu peux mettre du sucre dans le caf&eacute;<br />
+&lt;__316k__&gt; Mais tu peux pas mettre de sucre sur toi en boule<br />
+&lt;__316k__&gt; Ou alors oui, mais fais pas &ccedil;a<br />
+
+  * arteymix_ (~arteymix_@45.74.162.230) has joined<br />
+* arteymix (~arteymix@45.74.162.230) has joined<br />
+* arteymix_ has quit (Quit: arteymix_)<br />
+* arteymix has quit (Read error: Connection reset by peer)<br />
+* arteymix (~arteymix@45.74.162.230) has joined<br />
+* arteymix has quit (Ping timeout: 276 seconds)<br />
+* arteymix_ (~arteymix_@45.74.162.230) has joined<br />
+* arteymix_ has quit (Quit: arteymix_)<br />
+* arteymix (~arteymix_@45.74.162.230) has joined<br />
+* arteymix has quit (Remote host closed the connection)<br />
+* arteymix (~arteymix_@45.74.162.230) has joined<br />
+* arteymix has quit (Read error: Connection reset by peer)<br />
+* arteymix (~arteymix_@45.74.162.230) has joined<br />
+* arteymix has quit (Quit: arteymix)<br />
+
+  19:11 &lt; __316k__&gt; wwwn: merci<br />
+19:15 &lt; wwwn&gt; Q    @:           ,&amp;&amp;&amp;&amp;&amp;&amp;        ,,$$$$$$$$$,<br />
+19:15 &lt; wwwn&gt; Q   @:        @+  &amp;&amp;:..  ''      ;$'      '$$$:<br />
+19:15 &lt; wwwn&gt; Q   @%        @:   ''&amp;&amp;&amp;&amp;&amp;..     $:        $$$:<br />
+19:15 &lt; wwwn&gt; Q  .%        %@          '&amp;&amp;&amp;,   $     ,,,,,$$:<br />
+19:15 &lt; wwwn&gt; Q  @%.       ,%.  |       ,&amp;&amp;.   ;$::&quot;&quot;   '$$:'<br />
+19:15 &lt; wwwn&gt; Q  .%.     ,%:.   &amp;.     ,&amp;&amp;...   $'       ,::<br />
+19:15 &lt; wwwn&gt; Q   ''%%%%%:''     '&amp;&amp;&amp;&amp;&amp;&amp;&amp;..'    |       ,$'<br />
+19:15 &lt; wwwn&gt; Q                    ~~~~~~'<br />
+19:15 &lt; wwwn&gt;                   //* * * * * * #####################################<br />
+19:16 &lt; wwwn&gt;                  //* * * * * * ###############<br />
+19:16 &lt; wwwn&gt;                 //* * * * * * ##############################<br />
+19:16 &lt; wwwn&gt;                //* * * * * * ###&amp;######<br />
+19:16 &lt; wwwn&gt;               //##################################<br />
+19:16 &lt; wwwn&gt;              //###&amp;##################<br />
+19:16 &lt; wwwn&gt;             //##############################<br />
+19:16 &lt; wwwn&gt;            //<br />
+19:16 &lt; wwwn&gt;<br />
+19:16 &lt; __316k__&gt; wtf<br />
+19:16 &lt; __316k__&gt; wwwn: ton drapeau se chie dessus grave<br />
+19:18 &lt; mustache_&gt; __316k__: je dirais m&ecirc;me plus<br />
+19:18 &lt; mustache_&gt; le seul pays que &ccedil;a peut repr&eacute;senter c'est le fucking cancer du pancr&eacute;as<br />
+19:18 &lt; __316k__&gt; xD<br />
+19:18 &lt; wwwn&gt; &gt;:(<br />
+
+  19:18 &lt; notwwwn&gt; microsoft be like<br />
+19:18 &lt; notwwwn&gt; gold please<br />
+19:18 &lt; notwwwn&gt; https://www.polygon.com/e3/2017/6/12/15784996/age-of-empires-definitive-edition-pc-gaming-show<br />
+
+  &lt;__316k__&gt; So, une soir&eacute;e de cette semaine, peut &ecirc;tre kekky<br />
+&lt;__316k__&gt; kameha: dans tous les cas, il va falloir boire comme du monde &agrave; un moment<br />
+&lt;__316k__&gt; C'est pas vrai que je termine mon bac sans d&eacute;gueuler mes trippes<br />
+
+  316k: C'est comme... C'est comme faire l'amour &agrave; l'oc&eacute;an<br />
+
+  Karine : C'est qui le prof d'AI ?<br />
+Anonyme : C'est Kim Jong-Il, ou quelque chose comme &ccedil;a...<br />
+
+  21:24 &lt; __316k__&gt; Oh, R***** nous a trouv&eacute; un slogan cette ann&eacute;e pour IRO<br />
+21:24 &lt; msieurmoustache&gt; __316k__: et c'est?<br />
+21:24 &lt; __316k__&gt; Toutes les autres uni shoutent genre, &quot;E-T E-T-S &Eacute;TUDIANTS TOUJOURS SAOULS&quot;<br />
+21:24 &lt; __316k__&gt; Ou genre &quot;L - AVAL - ALLEZ ALLEZ ALLEZ LAVAL !&quot; (such jeu de mots louche)<br />
+21:24 &lt; __316k__&gt; Mais bon, G***** &eacute;tait pas particuli&egrave;rement down avec l'id&eacute;e de R*****<br />
+21:24 &lt; __316k__&gt; &Ccedil;a fait :<br />
+21:25 &lt; __316k__&gt; IRO ! IRO ! IROSHIMA ! *explosion avec nos mains + effets sonores*<br />
+21:25 &lt; msieurmoustache&gt; calice<br />
+21:25 &lt; __316k__&gt; o/<br />
+21:25 &lt; Dagothig&gt; tabanark<br />
+21:25 &lt; Dagothig&gt; x)<br />
+21:25 &lt; __316k__&gt; o /o/<br />
+21:26 &lt; msieurmoustache&gt; juste pour &ecirc;tre s&ucirc;r de passer pour des freaks<br />
+21:26 &lt; Dagothig&gt; ~o~<br />
+
+  Guillaume : c'est tu le prof des pays bas? Il parlait en bay&eacute;sien?<br />
+
+  (En regardant Zootopia)<br />
+Jean : Est-ce que tu peux checker la d&eacute;finition de &quot;Zoophilie&quot; sur Internet ?<br />
+
+  Jean: Spencer va t'enculer avec sa bite g&eacute;ante<br />
+
+  Apr&egrave;s qu'Andr&eacute; ait rage quit d'une partie de dame<br />
+Youssef : S'il continue de stresser comme &ccedil;a, il va finir par perdre ses cheveux.<br />
+
+  16:14 &lt;butlerian&gt; Tu sais que tu te fais chier, quand tu remarques <br />
+                  que {nom de prof} pose sa main en bas de sa chemise en <br />
+                  levant l'autre<br />
+16:14 &lt;butlerian&gt; pour &eacute;viter qu'on voit sa bedaine<br />
+
+  Hurtubise: Mais qu'est-ce que tu fais l&agrave;? &Ccedil;a &ccedil;a redirige dans un fichier; ce que tu veux c'est un socket.<br />
+William: ???<br />
+Aliz&eacute;e: Tu sais le mot sock? C'est un bas. Alors socket c'est un petit bas. C'est de &ccedil;a que t'as besoin.<br />
+
+  vous etes tellement akward, c'est pas parce que y'a une fille qui rentre dans l'asso qu'il faut l'entourer et commencer a jouer a bang<br />
+
+  Yan: Oh shit ! La moyenne des Foo, c'est foo barre<br />
+
+  [Aliz&eacute;e parle de strat&eacute;gie aux cartes]<br />
+Olivier: Charles, sors de ce corps...<br />
+Vincent: Hmmm... Okay, je vais rien dire.<br />
+
+  I tried SQL injection and failed!<br />
+
+  Jean : M&ecirc;me les poneys veulent que je les chevauchent !<br />
+
+  &lt;wwwn&gt; tu crois que tu connais les reseaux de neuronnes, nomme moi leurs 7 premiers albums<br />
+&lt;__316k__&gt; 1. Meet the Resaux de Neurones<br />
+&lt;__316k__&gt; 2. The White Perceptron<br />
+&lt;__316k__&gt; 3. Let it Train<br />
+&lt;__316k__&gt; 4. Sgt Perceptron's Lonely Heart Club Weights<br />
+&lt;__316k__&gt; 5. (Lineary separable) Revolver<br />
+&lt;__316k__&gt; 6. Gaussian Road<br />
+&lt;__316k__&gt; 7. Yellow Histogram<br />
+
+  (parlant de 3&egrave;me ann&eacute;e Info Th&eacute;orique)<br />
+Charles : Toi aussi c'&eacute;tait le seul truc qui fittait dans ton horaire ou... T'aimais &ccedil;a ?<br />
+
+  Yan: j'ai une amie qui s'est googl&eacute; pis le premier r&eacute;sultat, c'&eacute;tait &quot;Sexe avec un mulet&quot;<br />
+Andr&eacute; : Tu me la pr&eacute;senteras<br />
+
+  Si tu fais &ccedil;a, je prends ton tip... Et je parle pas de l'argent !<br />
+- Yan<br />
+
+  J'aime les patates.<br />
+
+  Message &agrave; tous, objet perdu: un sac d'herbe. Vous pouvez venir le r&eacute;cup&eacute;rer au karaoke. Merci.<br />
+ -Maxime au micro<br />
+
+  Guillaume: &Ccedil;a manque de filles, faudrait aller dans une &eacute;cole primaire.<br />
+
+  Yan: Tu peux jouer avec mon big data si tu veux.<br />
+
+  Anonyme : dans le fond, les nazis c'est &ccedil;a qu'ils faisaient, du Garbage Collection<br />
+
+  Charles: Jpourrais gagner tout gagner tout de suite mais je veux faire perdre de mani&egrave;re plus p&eacute;dagogique, vous allez apprendre plein de choses, vous allez voir.<br />
+
+  20:01 &lt; NotCharlizee&gt; j'ai &eacute;chapp&eacute; de la pizza dans mon clavier :(<br />
+20:01 &lt; gabc&gt; ...<br />
+20:01 &lt; gabc&gt; Bravo<br />
+20:03 &lt; NotCharlizee&gt; bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<br />
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv  <br />
+20:03 &lt; NotCharlizee&gt; bon c r&eacute;par&eacute;<br />
+20:03 &lt; NotCharlizee&gt; guess la pizza &eacute;tait entre quelles touches<br />
+20:03 &lt; gabc&gt; b pis v?<br />
+20:03 &lt; NotCharlizee&gt; genius<br />
+
+
+  [David essayant de prendre le sandwich au poulet thai de Karine]<br />
+Karine : Eille, c'est &quot;my&quot; souper gratuit !<br />
+David : C'est &quot;thai&quot; souper gratuit tu veux dire ?<br />
+
+  Vincent Dessalles: Mon but c'est de bang toutes les personnes de l'asso de deux mani&egrave;res diff&eacute;rentes.<br />
+
+  Fran&ccedil;is parlant du party du 2e &eacute;tage: ... ils vident compl&egrave;tement le deuxi&egrave;me &eacute;tage de gens brillant...<br />
+Alex l'air incr&eacute;dule...<br />
+Alex: AAHHHHH! Jean Brillant!<br />
+
+  &quot;Un observatoire virtuel (OV) est une [base de donn&eacute;e reli&eacute; &agrave;] la toile Internet pour b&acirc;tir un environnement de recherche scientifique.&quot;<br />
+<br />
+Cours de comprendre l'univers.<br />
+
+  Suite de l'&eacute;pop&eacute;e du lapin de Pierre:<br />
+<br />
+Hurtubise: Non mais tu devais y &ecirc;tre attach&eacute; ?<br />
+Pierre: En tout cas je l'ai attach&eacute;. Avec du bacon !<br />
+
+  Guillaume: Scheme n'est pas un langage purement fonctionnel car il poss&egrave;de des fonctions d'entr&eacute;e/sortie ...<br />
+Alex: Haskell est purement fonctionnel et supporte les I/O.<br />
+Guillaume: Ouais mais tu trouves pas que c'est un peu comme les filles protestantes aux &Eacute;-U qui font juste de l'anal pour rester &quot;vierges&quot; ?<br />
+Alex: Ouais mais elles &eacute;vitent les effets de bord: elles tombent pas enceinte !<br />
+
+  Quelqu'un : T'as ton lapin dans ton cong&eacute;lateur ? Pour vrai ?<br />
+Pierre : Ben oui. Tu peux manger tes animaux de compagnie quand t'es tann&eacute; de les avoir.<br />
+
+  Alex: On a trouv&eacute; notre nouvelle CVE, &ccedil;a va &ecirc;tre Olga.<br />
+Maxime: C'est bien, je vais pouvoir m'asseoir sur le divan pis chialer toute la journ&eacute;e<br />
+
+  Karine : Pourquoi il y a un condom sur la table ?<br />
+Yan : Ben pour jouer &agrave; quick-Bang!<br />
+
+  &quot;On devrait partir une compagnie de condoms sans Latex, &ccedil;a s'appellerait Markdown&quot;<br />
+
+  Nick : J'ai oubli&eacute; ma poche de th&eacute;, maintenant je suis dans l'eau chaude.<br />
+
+  Nouveau slang de l'asso : Poche de th&eacute; = condom<br />
+
+  Nic: Est-ce que Boyer est gros boutiste ?<br />
+
+  Fran&ccedil;ois : Hitler, c'&eacute;tait lui qui cachait des juifs, non?<br />
+Olga : Ouais, il les cachait dans des douches!<br />
+
+  Hurtubise: La difficult&eacute; du jeu r&eacute;side en le fait que les cartes sont vieilles et collantes<br />
+Aliz&eacute;e: (sur un ton enjou&eacute;) Comme ta m&egrave;re !<br />
+
+  [Aliz&eacute;e essaie d'enlever le coussin de la main de Ola]<br />
+Olga: Mais ta bave, il va le lacher.<br />
+Charles 1er:[&agrave; Aliz&eacute;e] Non, mais ma bave &agrave; la place, c'est encore plus nocif.<br />
+Toto: Non, si tu mets ta bave, je vais aller me crosser dans le coin.<br />
+Charles 1er : tant qu'&agrave; pogner la mononucl&eacute;ose, autant faire &ccedil;a le fun..<br />
+
+  Un &eacute;tudiant qui dit des r&eacute;ponses absurdes depuis le d&eacute;but de cours: &quot;blablabla&quot;<br />
+Prof : &quot;Essaye de penser un peu avant de r&eacute;pondre&quot;<br />
+
+  &quot;Dans l'asso, y a pus de filles. On leur plante une graine de p&eacute;nis dans le vagin pis il finit par leur en pousser un.&quot;<br />
+<br />
+- Luc<br />
+
+  Mais le trou est tellement accueillant !<br />
+<br />
+- Nick<br />
+
+  Olga: Plus c'est hairy plus c'est halal<br />
+
+  C'est rendu hipster de pas prendre le cours de japonais <br />
+- Charles<br />
+
+  Pierre : Les brocolis et les homards, c'est dans ma famille<br />
+
+  &quot;Entre 50 cennes pis une grosse paire de boules, je prendrais le 50 cennes&quot;<br />
+-Charles<br />
+
+  (Au sujet du fait que plein de monde ont leur f&ecirc;te en juillet et que 9 mois avant, c'est octobre)<br />
+Hurtubise : L'Halloween, c'est crissement aphrodisiaque<br />
+Aliz&eacute;e : Bah, &ccedil;a d&eacute;pend du costume da ta m&egrave;re...<br />
+
+  Microsoft guy: &quot;Moi jpense que yen a pas d'aust&eacute;rit&eacute;&quot;<br />
+
+  Charles qui se plaint de son exam de statistique: [blah blah blah] j'ai fait une erreur irrationnelle ...<br />
+<br />
+Alex: Quoi? T'as &eacute;crit ? o&ugrave; il fallait pas?<br />
+
+  Luc-A. : Fuck les enfants!<br />
+<br />
+Audrey : Ouais c'est vrai, si c'est des petits gar&ccedil;ons, ils risquent pas de tomber enceinte!<br />
+
+  Prof : ** Bla bla bla assembleur MIPS ... **<br />
+&Eacute;l&egrave;ve (en coupant le prof dans le milieu de sa phrase pour la 54i&egrave;me fois dans le cours)<br />
+ : &quot;C'est hardcod&eacute; &ccedil;a ?&quot;<br />
+<br />
+Prof : &quot;Non, c'est une discipline pour les programmeurs, comme la discipline de ne pas parler en m&ecirc;me temps que moi.&quot;<br />
+
+  Myriam : Donc t'as la testicule...<br />
+Hurtubise : C'est pas *un* testicule ?<br />
+Charles : Non, je suis pas mal s&ucirc;r qu'y en a deux.<br />
+
+  Patrice dit &agrave; Luc<br />
+&quot; t'as fait concept. anal. donc tu n'est plus vierge&quot;<br />
+
+
+  Vincent : &quot;Donc c'est comme &ccedil;a qu'on peut savoir la profondeur maximale des enfants.&quot;<br />
+
+  Le premier th&eacute;or&egrave;me d'Ola:<br />
+<br />
+Plus &ccedil;a dure, plus &ccedil;a a de chance d'&ecirc;tre consentant.<br />
+
+  Luc : C'est quoi l'inverse d'un cercle vicieux ?<br />
+Alex : Un carr&eacute; prude ?<br />
+
+  Derri&egrave;re le comptoir du caf&eacute;.<br />
+<br />
+Antaki : Hey diego, check ce morceau de carton. On pourrait faire une mini-&eacute;tag&egrave;re ghetto avec &ccedil;a!<br />
+Diego : une &eacute;tag&egrave;re &agrave; g&acirc;teaux?<br />
+Antaki *facepalm*<br />
+
+  public InputStreamDecorator(InputStream sparta) {<br />
+    //Terrible naming but I couldn't help it...<br />
+    this.is = sparta;<br />
+}<br />
+
+  Anonymous: en IRO on sait optimiser nos co&iuml;ts<br />
+
+  En cours d'optimisation1:<br />
+Un gars random J - vous allez trop vite <br />
+Potvin - bah c'est toujours la m&ecirc;me chose que je fais<br />
+J - mais on a pas le temps d'&ecirc;tre d'accord avec vous<br />
+
+  Ola &agrave; Yannick en soir&eacute;e:  traite tes chaussettes commen ton cale&ccedil;on.<br />
+
+  Nic qui montre &agrave; Yannick comment faire des squats<br />
+Nic: Alors tu pr&eacute;sentes ton anus....<br />
+
+  Salvail : Pac-man est un jeu NP-Complet.<br />
+&Eacute;tudiant : Et mario bros?<br />
+Salvail : Mmmh... j'y ai jamais jou&eacute;. C'est le jeu un peu &eacute;trange o&ugrave; le personnage brise des briques avec sa t&ecirc;te?<br />
+
+  Alex qui parle de calcul 1<br />
+<br />
+Alex: Les s&eacute;ries c'est ridicules....<br />
+Hurtubise [avec un grand sourire]: Les s&eacute;ries s&eacute;rie-dicule?<br />
+
+  Luc &agrave; Alex: t'aimes pas &ccedil;a voir des teutons?( avec une voix de mononcle)<br />
+
+  Nicolas &agrave; Ola : Tu peux faire une ligne de poudre entre mes fesses, mais je te garanti pas que tu snifferas pas des poils.<br />
+
+  Hurtubise : ...pis l&agrave; tu peux voir que la fonction r&eacute;curzive est &eacute;quivalente.<br />
+Antaki : On dit r&eacute;cursive.<br />
+Hurtubise : Ouais c'est ce que j'ai dit, r&eacute;curzive.<br />
+Antaki : R&eacute;cursssssssssive. avec un S.<br />
+Hurtubise : HOLY FUCK MA VIE EST UN MENSONGE.<br />
+
+  Guillaume : T'imagines ? Un coat qui a des poches dans lesquelles tu mets de l'isolant l'hiver pis des icepacks l'&eacute;t&eacute;.<br />
+Vincent : Eh, c'est une bonne id&eacute;e !<br />
+Guillaume : Ouais, mais je veux pas prendre tout le m&eacute;rite. J'ai lu &ccedil;a dans les D&eacute;brouillards quand j'&eacute;tais kid...<br />
+
+  (En codant sur les genous de Charles.)<br />
+Nicolas: Je vais mettre mon python entre tes jambes.<br />
+
+  (Nicolas au camps de formation de la faecum)<br />
+La Bud Platinum c'est tellement degueux que quand tu la sacre &agrave; terre le sol te la recrache &agrave; la gueule...<br />
+
+  Yannick: C'est cool les petites filles!<br />
+Olga: Elles font para&icirc;tre ton p&eacute;nis plus grand?<br />
+
+  (Luc, parlant de bagues de fiancailles Kinder Surprise?)<br />
+<br />
+Luc : &quot;Ts&eacute; asteur, les filles de 8 ans font l'amour...&quot;<br />
+
+  Olga: Si t'as un pot de 450ml, &ccedil;a va prendre 45 &eacute;jaculations pour le remplir...<br />
+
+  Yannick: &quot;C'est facile: t'as juste besoin d'une grosse saucisse et de la mettre dans un gros morceau de pain&quot;<br />
+
+  Jc au t&eacute;l&eacute;phone: &quot;... tu peux me transf&eacute;rer?&quot;<br />
+Alex: &quot;Quoi?! Ya-tu tellement de monde chez toi que vous avez des d&eacute;partements?!&quot;<br />
+
+  Ali: C'est qui le monsieur &agrave; c&ocirc;t&eacute;? Ah c'est juste Robin...<br />
+
+  Audrey: Haha, get down you bitch, y m'a rentrer tout les doigts.<br />
+
+  Luc: c'est juste que mon trou est vraiment slack (parlant de son JACK de laptop)<br />
+
+  Ali: &quot;Tu t'es fait violer, mais moi j'ai pas l'trou slack. Moi ca fai pas *ouuuhhhh* (exhale) quand j'pet.&quot;<br />
+
+  Ali : &quot;C'pas grave, Charles aime &ccedil;a serr&eacute;&quot;<br />
+Dave: &quot;Ouais, en parlant du trou de Fred...&quot;<br />
+
+  Dave: &quot;Moi quand je finis mon bac, j'vous envoie toute chier, pis je chie dans le trou de Fred.&quot;<br />
+<br />
+(parlant du trou dans la table....)<br />
+
+  Alex: Non, mais &ccedil;a pourrait marcher avec des p&eacute;nis... Tu as juste &agrave; prendre un paquet de p&eacute;nis dans tes mains et puis...<br />
+*En parlant des applications du tri spaghetti*<br />
+
+  Alex: Tu sais ce qu'on devrait ouvrir?!<br />
+Fred: Ta m&egrave;re.<br />
+Alex: Non... heu WHAT?!<br />
+
+
+  Charles qui veut savoir &ccedil;a ressemble &agrave; quoi l'&eacute;bola<br />
+&Eacute;tienne qui montre sont laptop: &quot;Regarde, mais c'est des cadavres.&quot;<br />
+
+  Nic: (sarcastiquement) Ouais, c'est cool mettre ses doigts dans un singe?!<br />
+Audrey: Pourquoi tu penses que j'appelle Bengio mon gros babouin!<br />
+Bengio: ark<br />
+
+  Yannick: &quot;Le seul p&eacute;nis que j'aime, c'est le mien&quot;<br />
+
+  Charles qui montre &agrave; Olga comment jouer aux cartes:<br />
+C: &quot;Fak l&agrave; on est comme en couple: toi t'es l'homme et moi je suis la femme. Tu sais ce que &ccedil;a veut dire?&quot;<br />
+O: &quot;Que je te bats?&quot;<br />
+
+  Luc : S&eacute;rieux, la fille dans The Ring est vraiment cute.<br />
+<br />
+24/03/2014<br />
+
+  Fred qui regarde des photos des csgames (banquet final)<br />
+&laquo;Criss qu'on faisait dur. Ts&eacute; c'est JC qui a l'air le plus propre de la gang&raquo;<br />
+
+  Patrick : Pi() de GLM, c'est en Degr&eacute; ou en Radian?<br />
+Fred : j'pas sur, attend je vais chercher sur google<br />
+<br />
+(Apr&egrave;s 10 minutes on se rend compte que Pi est une constante)<br />
+
+  Alex : Jusqu'&agrave; pr&eacute;sent ma blonde n'a pas de p&eacute;nis.<br />
+
+  (Alex qui se plaint du fait qu'&eacute;crire une accolade avec un clavier CA-FR c'est chiant)<br />
+Simon : y'a beaucoup d'accolades en programmation?!<br />
+
+  DIROBash is back!<br />
+
+  Simon &agrave; Fred: Comment t'as fait pour survivre (Fred a &eacute;t&eacute; victime d'une fracture de la clavicule)?<br />
+Audrey: C'est parce que c'&eacute;tait pas une femme qui l'a op&eacute;r&eacute;.<br />
+
+  Blonde de Bengio : &quot;Apr&egrave;s on explose des geules, le lancer du d&eacute;c&eacute;d&eacute;!&quot;<br />
+
+  La blonde de bengio: &quot;C'est fou comme on explose des gueules quand on veut pas &eacute;tudier!&quot;<br />
+
+  Fabien : Tu veux mettre ton doigt dans mes plaies?<br />
+Fredmir : Non, je veux pas mettre mon doigt nul part dans toi.<br />
+Alex St-Louis : Moi &ccedil;a me d&eacute;range pas, j'pense qu'on s'est vu hier.<br />
+
+  Fred: &quot;De toutes fa&ccedil;on, la blonde a bengio est toujours willing&quot;<br />
+
+  Alex: Apr&egrave;s le huiti&egrave;me gangbang de *NAME REDACTED*, on a pas mal fait le tour.<br />
+
+  Fabien: &quot;[...] Bengio-Kazooie [...]&quot;<br />
+
+  Fab: J'parie que Bengio quand il arrive chez lui il part winrar pour d&eacute;compresser.<br />
+
+  CH : Bengio a le tour avec moi, y sait comment me prendre.<br />
+
+  Fredmir : Si t'as une ma&icirc;trise en Pokemon, t'es un ma&icirc;tre Pokemon!<br />
+
+  CSJ &gt; &quot;Ca irait pas mieux si t'allais travailler dans un endroit tranquille?&quot;<br />
+Mathi &gt; &quot;Non je risquerais de lire pour vrai.&quot;<br />
+
+  &quot;Hier il s'est endormi en se l&eacute;chant les balls.&quot; &copy; AMS<br />
+
+  en cours des musique en python :<br />
+<br />
+un &eacute;l&egrave;ve : alors html c'est quel sorte de langage?<br />
+prof : un langage barbare<br />
+
+  (Long Silence)<br />
+<br />
+Charles: Oh shit. Julien a des couilles!?<br />
+
+  *en jouant &agrave; Q.U.B.E.*<br />
+<br />
+Laurent : Jaune et bleu... &ccedil;a donne quoi &ccedil;a... VERT ???<br />
+*&eacute;clat de rire hyst&eacute;rique*<br />
+<br />
+(Apparemment que Q.U.B.E. est un bon jeu pour apprendre les couleurs !)<br />
+
+  Lavoiecs : Je crois que j'ai dormi avec tous les profs du DIRO.<br />
+
+  (Lors d'une discussion passionn&eacute;e sur le statut professionnel d'Euler)<br />
+Fabien: Ah, il &eacute;tait physicien? Alors il s'envoyait bien moins en l'air que ce que je pensais!<br />
+Nicolas: Il s'envoyait... Euler.<br />
+
+  david_h: T'es pas all&eacute; &agrave; la manif de roux?<br />
+Bighouse: Chu pas roux, OK?<br />
+
+  Alex St-Louis Fortier: On est &agrave; l'UdeM, on devrait dire Th&eacute;oriquement, pas Techniquement!<br />
+
+  Luc : Moi quand c'est gros de m&ecirc;me, je prend pour acquis que c'est dur !<br />
+
+
+  Bengio : Si t'es une plante cannibale, t'es v&eacute;g&eacute;tarien.<br />
+
+  Fredmir: Arr&ecirc;te de jouer dans mon trou!<br />
+
+  Kim : J'en veux pas une grosse de m&ecirc;me!<br />
+
+  *lu dans le livre d'alg&egrave;bre lin*<br />
+<br />
+&quot;Les graines math&eacute;matiques sem&eacute;es dans les chapitres 1 et 2 ont germ&eacute; et commencent &agrave; fleurir dans ce chapitre.&quot;<br />
+
+  Pour le lolz (trouv&eacute; dans le code source d'un projet reconnu) :<br />
+<br />
+bool InputType::CanIGetFromAToB(size_t /*start*/, size_t /*end*/) const<br />
+{                                              <br />
+     return true;<br />
+}<br />
+
+  Reb : Tant que t'&eacute;jacule dans le vagin, c'est chill.<br />
+
+  David Milaenen : j'ai rencontr&eacute; un gars ce matin et il m'a proposer./<br />
+JC : QUOI!? J'suis ben en retard sur les nouvelles!<br />
+
+  Nick (au CS Games) : l'an prochain pour gagner le 'most naked award', on am&egrave;ne Chantal avec deux d&eacute;s &agrave; coudre et un cup.<br />
+
+  Fred : Frappe moi pas!..... ah comme &ccedil;a c'est correct.<br />
+
+  Nick : Je vais mettre des affaires dans ton trou<br />
+
+  F&eacute;lix, coupant un silence : &quot;En parlant de J-C, j'vais aller me laver les mains.&quot;<br />
+
+  Parlant de Cuba et de sexualit&eacute;<br />
+Reb : Ouais donc je partagais ma grand-m&egrave;re...<br />
+
+  [13:37:59] Fredmir: Seb LAVOIE courchesne<br />
+                    Chantal-H&eacute;l&egrave;ne DRAPEAU<br />
+                    Nicolas LAVOIE DRAPEAU<br />
+[13:38:04] Fredmir: c'est votre fils du futur!!!<br />
+                    alors aller vous mettre au travail<br />
+[13:40:03] ka3p0ra: LOL no way<br />
+[13:40:19] Fredmir: sinon nick va arr&ecirc;ter d'exister!?!<br />
+[13:41:29] ka3p0ra: mais non, c'est une timeline parall&egrave;le !!<br />
+[13:41:43] ka3p0ra: t'as jamais lu dragonball !?!?!?<br />
+[13:41:48] Fredmir: no care<br />
+[13:41:53] Fredmir: you need to create Nick<br />
+[13:47:57] ka3p0ra: quand tu disais que Seb &eacute;tait enceinte...<br />
+[13:44:09] ka3p0ra: kes tu penses que c'&eacute;tait ? :P<br />
+
+  Gena Hahn: Je vais sugg&eacute;rer qu'on se torture pendant une minute!<br />
+
+  Cadilhac : (en AG) C'est m&ecirc;me pas mon pays pis je fous la merde.<br />
+
+  Jo: Seb ma toucher le cul au 5@7 ...<br />
+Fred: Et depuis Seb est enceinte.<br />
+Jo: Qu'est-ce que tu veux je fais cet effet l&agrave;.<br />
+Chantal: Oh god!<br />
+Fred: Plein toi pas C-H, c'est peut-&ecirc;tre pas toi le p&egrave;re!<br />
+
+  Jonathan: J'ai quelquechose &agrave; ajouter sur Dirobash, mais je sais pas comment l'&eacute;crire...<br />
+Cadhillac: Essaye avec ton clavier?<br />
+
+  S&eacute;bastien Roy: Mint s'est d&eacute;barass&eacute; des packages les plus atroces d'Ubuntu, mais ce n'est pas assez... Ils auraient d&ucirc; les br&ucirc;ler en enfer!!!<br />
+
+  Laurent : ben t'as juste &agrave; sucer...<br />
+<br />
+*en parlant d'une bi&egrave;re glac&eacute;e*<br />
+
+  Pierre Poulin : avant de me faire d&eacute;clarer &agrave; la DPJ, je pense que je vais passer &agrave; la prochiane slide.<br />
+
+  Pierre Poulin : tr&egrave;s utile dans le cas ou un parent veux tuer un enfant... j'ai pas parl&eacute; de prof encore.<br />
+
+  Dans le local Windows lors d'un 5&agrave;7 : <br />
+<br />
+Lavoiecs : WTF! y a plus de monde ici &agrave; jouer au bonhomme pendu qu'en bas sur le dance floor!<br />
+
+  *en cours de structures de donn&eacute;es*<br />
+&Eacute;tudiant : elle est trop petite<br />
+F. Major : je vais la grossir ce soir<br />
+
+  David &agrave; Kim : On fait &ccedil;a ici ou sur une table?<br />
+
+  Marc Feeley : Alors, on va parler de sexe aujourd'hui, si &ccedil;a vous d&eacute;range pas?<br />
+
+  Jean-Philippe : Je suis bin autonome...<br />
+Pascale : K, bin go pour la masturbation.<br />
+
+  *En introduisant une preuve par dessin*<br />
+<br />
+Marc Feeley : Dans le monde il y a deux types de personnes : les dessins et les sans-dessins<br />
+
+  Pascale : Bon... faut que je m'arr&ecirc;te pour aller faire pipi.<br />
+David : Pas le temps! Pisse dans tes culottes!<br />
+Pascale : Ouin, &ccedil;a serait chaud et humide... POUR UNE FOIS!<br />
+
+  L-P &agrave; Chantal: Qu'est-ce qu'il faut faire pour que tu viennes?!<br />
+Chantal: Peut importe ce que tu va faire tu y arriveras pas!!<br />
+
+  JC : ah oui c'est vrai, Vieux monsieur rentre dans enfant!<br />
+
+
+  Lamine &agrave; Pierre : t'attend JC pour le sexe?<br />
+
+  &quot;American pushes bottle up Germans&quot;. Jian-Yun Nie, ift3335<br />
+
+  David M. : Que dit mon langage corporel quand Blondin est l&agrave;?<br />
+
+  Fredmir: c'est NP-complet.<br />
+Thibault: Ta M&Egrave;RE est NP-complet!<br />
+Nicolas: Quand ta m&egrave;re est NP-complet moi &ccedil;a me rends NP-hard.<br />
+
+  David: Pourquoi Kim ne veut pas jouer sans son linge?!<br />
+
+  Seb choisit Chantal H&eacute;l&egrave;ne comme partenaire <br />
+Seb est le pr&eacute;sident <br />
+donc<br />
+Chantal H&eacute;l&egrave;ne est 'President's Choice'<br />
+
+  Fred : On est quand m&ecirc;me beaucoup chez nous. Mais pas autant que chez JC.<br />
+Chantal H&eacute;l&egrave;ne: Ouais, mais JC c'est autre chose, prend quelque chose de comparable.<br />
+Fred : Ouin j'avoue, chez JC sont genre tous venus dans une port&eacute;e.<br />
+
+  Bastin : &quot;Les profs sont pervers, mais ils ont des limites.&quot;<br />
+
+  Fabian Bastin : Je suis pervert parfois, mais pas sur &ccedil;a<br />
+
+  Fred : C'est dr&ocirc;le, j'ai juste &agrave; faire *pop*, m&ecirc;me pas de mouvement et elle r&eacute;agit.<br />
+Chantal : Oui, &ccedil;a s'appelle du conditionnement, merci.<br />
+Sam : C'est l'fun, &ccedil;a s'est fait plus vite qu'avec un chien.<br />
+
+  Cynthia : Donne moi tes cochons!<br />
+
+  En AG le 16 Octobre <br />
+<br />
+Pr&eacute;sidente : D&eacute;corum en avant, j'aimerais de pas entendre parler de gingembre pendant la pr&eacute;sentation du candidat.<br />
+
+  Nick: Est-ce qu'ils vendent du viagra pour l'impotence aux cartes?<br />
+
+  Dans un cours de Mikl&oacute;s Cs?r&ouml;s.<br />
+Dude random: Monsieur? Excusez moi monsieur?<br />
+Mikl&oacute;s: Oui?<br />
+Dude random: Pouvez-vous vous appliquer &agrave; l'&eacute;criture? Au tableau?<br />
+Mikl&oacute;s: *Sourire* On dirait un prof de 3e ann&eacute;e.<br />
+
+  Nick: &laquo;Ah &ccedil;a &ccedil;a fait mal au coccyx !<br />
+<br />
+(Apr&egrave;s que Fred lui retire la chaise sur laquelle il s'asseyait. Boum &agrave; terre.)<br />
+
+  Nick : c'est bien, aller, viens dans ma bouche<br />
+<br />
+(En jouant &agrave; Smash avec Kirby)<br />
+
+  Fred : &ccedil;a prend plus d'inceste dans le monde.<br />
+Nick : je suis d'accord.<br />
+Fred : Mais j'ai pas de soeur.<br />
+Nick : t'as des fr&egrave;res.<br />
+Fred : .... yark<br />
+
+  Chantal H&eacute;l&egrave;ne : &quot;Moi j'avale presque jamais.&quot; &quot;... AVEC KIRBY!&quot;<br />
+
+  Entendu en AG :<br />
+Personne2: Qu'est-ce qui va arriver si on continue la gr&egrave;ve?<br />
+Lamontagne (tr&egrave;s s&eacute;rieusement): L'univers va imploser.<br />
+
+  Entendu en AG : <br />
+Personne1: Je propose que l'A&Eacute;DIROUM aille en gr&egrave;ve.<br />
+Blondin: On est d&eacute;j&agrave; en gr&egrave;ve...<br />
+Personne1: Alors je propose que l'A&Eacute;DIROUM arr&ecirc;te la gr&egrave;ve.<br />
+
+  Un groupe de touristes qu&eacute;b&eacute;cois &agrave; Boston croise un &eacute;tudiant du DIRO: &laquo; M&ecirc;me icitte, des carr&eacute;s rouges, osti! &raquo;<br />
+
+  &Agrave; l?AG apr&egrave;s qu?un anti-gr&egrave;ve ait parl&eacute; avec beaucoup de &laquo; moi &raquo;:<br />
+<br />
+Reblapointe: Moi, moi, moi, moi, moi, moi, moi, moi, moi<br />
+Pr&eacute;sident: D&eacute;corum s'il-vous-pla&icirc;t!<br />
+Reblapointe: Pardon; Lapointe, Lapointe, Lapointe, Lapointe, Lapointe, Lapointe<br />
+Lavoiseb: &lt;frowning&gt;<br />
+Reblapointe: Ben quoi ?<br />
+
+  Voix F&eacute;minimine : Ah LP, tu m'en as mis partout!<br />
+<br />
+Se l&egrave;ve la t&ecirc;te pour se rendre compte que c'est LP qui disait &ccedil;a....<br />
+
+  Mathy: Je suces dans les dates.<br />
+
+  Nicolas : il essaie de me tirer des affaires dans la bouche<br />
+
+  Mathi &gt; Le lupus, c'est comme si ton syst&egrave;me immunitaire &eacute;tait le CEGEP du vieux Montr&eacute;al : il fait n'importe quoi, souvent travaille pas et s'attaque lui-m&ecirc;me.<br />
+
+  Prof de JEU: Vous avez votre manette phalique et votre bouton de jouissance.<br />
+<br />
+parlant de la manette de atari-2600<br />
+
+  &Eacute;tienne : Allez, fait juste tout me donner. Tu vois bien que j'ai une main occup&eacute;e...<br />
+<br />
+(parlant &agrave; son ordinateur en mangeant une sandwich)<br />
+
+  &Eacute;tienne &agrave; Cynthia : Tu devrais jouer avec toi m&ecirc;me...<br />
+Cynthia, Lavoiecs et Lavoiseb : ...<br />
+&Eacute;tienne : &agrave; Connect Four...<br />
+
+  &lt;pkhuong&gt; argh, linux... Je veux juste regarder un DVD, et je suis pris pour updater le monde au complet<br />
+
+
+  Un &eacute;tudiant gradu&eacute; dans le cours de S&eacute;curit&eacute; Informatique : &quot;Comment fait-on pour d&eacute;terminer l'&acirc;ge de l'univers?  Le carbone 14?&quot;<br />
+
+  &lt;+Reblapointe&gt; ohay pkhuong<br />
+&lt;+Reblapointe&gt; on a fait peur &agrave; marius<br />
+&lt;+Reblapointe&gt; mais j'ai tout mis sur ta faute<br />
+
+  J'ai un cousin de 8 ans, mais avant il &eacute;tait plus jeune. &copy; CSJ<br />
+
+  &lt;+Axioplase_&gt; Tu aimes te branler beaucoup, si j'ai bien compris :)<br />
+&lt;+pkhuong&gt; quand j'echoue a trouver la motivation pour rediger.<br />
+
+  &lt;+heinz1&gt; pkhuong: le cr&eacute;ateur de lisp est mort il semblerait<br />
+&lt;+pkhuong&gt; oui.<br />
+&lt;+heinz1&gt; on ferme une parenth&egrave;se sur un grand moment de l'informatique<br />
+&lt;+heinz1&gt; :-(((((((((((((((((<br />
+&lt;+heinz1&gt; (je me trouve dr&ocirc;le)<br />
+&lt;+pkhuong&gt; c'est ouvrir des parentheses ca<br />
+
+  &quot;C'est pas une joke, c'est sur reddit!&quot; &copy; Tolarian<br />
+
+  Marcel: Qu'est-ce que vous &eacute;coutez comme musique?<br />
+Maude: De la musique f&acirc;ch&eacute;e.<br />
+David: Du m&eacute;tal?<br />
+Maude: Non, pas aussi f&acirc;ch&eacute; que &ccedil;a.<br />
+
+  Marius, acc&eacute;l&eacute;rant comme une brute dans un chemin rocailleux: J'm'en fous, c'est pas ma caisse!<br />
+
+  Heinz : L'avantage avec une fille de 20 ans, c'est que peu importe ton &acirc;ge, elle a toujours 20 ans<br />
+
+  Conversation &agrave; un souper: Bla bla bla ... forte odeur.<br />
+Une reverse-R&eacute;becca, docteur en m&eacute;decine: Oui, &ccedil;a s'appelle une vaginose, et maintenant est-ce qu'on peut parler d'autre chose?<br />
+
+  Heinz : je suis plus en retard dans ma recherche que la cor&eacute;e du nord sur les droits de l'homme<br />
+
+  David: Pourquoi tu dis pas bonjour &agrave; Paul dans sa langue?<br />
+Marius: ??????<br />
+
+  Heinz : Tu sais dans bash, cossaille.<br />
+Reb : De quoi?<br />
+Heinz : Cossaille! Tu sais la vache!<br />
+Reb : Aaaaah, cow say...<br />
+
+  (Reb sort deux romans de Tolsto&iuml; de son sac)<br />
+Lamontagne : C'est bizarre &ccedil;a, deux romans avec le m&ecirc;me titre.<br />
+
+  Reblapointe : Don't ask, don't flame.<br />
+
+  postamar: Des seins plus gros, c'est pas possible.<br />
+
+  CSJ : Mes voisins avaient un gros berger allemand.<br />
+R&eacute;b : Ca fait de la bonne porn &ccedil;a!<br />
+
+  Heinz : David_h est une fabrication de notre esprit.<br />
+
+  pkhuong: Larose: on se pogne une chambre pis tout?<br />
+
+  \m/<br />
+
+  Heinz: Dude, 30$ &ccedil;a fait une demi-pipe.<br />
+R&eacute;becca, le plus s&eacute;rieusement du monde: Les pipes, c'est 80.<br />
+
+  Salvail qui donne son cours : &quot;Comprenez-vous?&quot; -gros silence- &quot;Non? Parfait!&quot;<br />
+
+  R&eacute;blapointe &gt; Y que les noirs qui p&egrave;tent! (en concassant des grains de poivre)<br />
+
+  R&eacute;blapointe &gt; Les couilles, c'est des organes g&eacute;nitaux?<br />
+
+  Heinzf : Il y a quelque chose de chaud et excitant entre mes jambes.<br />
+Tout le monde dans l'asso sauf R&eacute;becca : Quoi??!?<br />
+R&eacute;becca : Ben oui, il a un caf&eacute;...<br />
+
+  Mati: comment on &eacute;crit hyme?<br />
+Mati: comme un chant?<br />
+Mati: le correcteur de firefox me sugg&egrave;re hymen<br />
+
+  &lt;+Axioplase_&gt; Ph'nglui mglw'nafh Larose R'lyeh wgah'nagl fhtagn<br />
+* pkhuong imagine un larose a tentacules<br />
+* Axioplase_ imagine un larose &agrave; tentacules attaquer une infirmi&egrave;re japonaise qui a des grosses boules.<br />
+
+  Reblapointe: Ark&nbsp;! &Ccedil;a sent la vieille noune.<br />
+
+  Heinzf: J'aime ca en avoir plein le cul<br />
+
+  Marius: Ouais, tiens, donne-moi du Sprite juif.<br />
+
+
+  Reblapointe &agrave; la d&eacute;mo d'algo : Bon matin, on aura une d&eacute;mo int&eacute;ressante ce matin, entre autres parce que j'ai oubli&eacute; de mettre des pantalons.<br />
+
+  Reblapointe: Heinz etant un zoologue hors pair...<br />
+David_h : Je crois que le terme correct est &quot;zoophile&quot;<br />
+
+  &Eacute;rick: Les bananes liquides, c'est intense.<br />
+
+  Roxane (en parlant de Cynthia) : C'est la femme &agrave; battre.<br />
+
+  Dans un moment de lyrisme romantique.<br />
+(01:59:19) Mathieu: Reb veux-tu m'&eacute;pousseter?<br />
+(01:59:48) Mathieu: Reb marine-moi!<br />
+
+  Mathy42: J'ai fait un pipe adj &agrave; la job!<br />
+Mathy42: C'est genre la premi&egrave;re fois que je fais &ccedil;a dans une situation de la vie de tous les jours... J'ai eu un petit moment de fiert&eacute;!<br />
+
+  Heinz &agrave; Reb : C'est pas parce que t'appartiens &agrave; co-PUTE que tu appartiens pas &agrave; PUTE.<br />
+
+  Reblapointe, &agrave; maman Seblavoie: &quot;Le vagin pis l'ur&egrave;tre, c'est tellement proche...&quot;<br />
+
+  Sylvain: En campagne, ils ne savent m&ecirc;me pas encore que le World Trade Center est tomb&eacute;.<br />
+JC: QUOI!!!!!!<br />
+
+  Reb : moi, j'ai perdu ma virginit&eacute; avec un cheval.<br />
+
+  Reb : &eacute;tends ton mucus dans mon visage.<br />
+Heinz : frotte ton ecz&eacute;ma sur mon anus.<br />
+
+  Mathy au 5@7 : Le coloc de mon chum travailles au m&ecirc;me sexshop o&ugrave; mon p&egrave;re loues ses films.<br />
+Lamontagne en ce tournant : Euh quoi? Tout ce que j'ai entendu c'est sexshop o&ugrave; mon p&egrave;re loues ses films.<br />
+Mathy : Oui, tu as tr&egrave;s bien entendu, le coloc de mon chum y travailles...<br />
+
+  Animateur du Bols &amp; Bolles: Compl&eacute;tez la phrase suivante: &quot;Avec des si...&quot;<br />
+Dom (coloc &agrave; lavoiseb): On mange des raies.<br />
+
+  Entendu &agrave; la job de Tolarian et Mathy: <br />
+&quot;Moi je suis vraiment shaft&eacute; l&agrave; !!!&quot;<br />
+
+  /* Lamontagne vraiment pact&eacute; &agrave; la Maisonn&eacute;e vient de remarquer une fille qu'il a embrass&eacute; deux jours plus t&ocirc;t */<br />
+Lamontagne (&agrave; la fille): Tabarnac, j'pense que j'me souviens d'to&eacute;!<br />
+
+  Une Fran&ccedil;aise &agrave; la Maisonn&eacute;e: Imagine que t'es une fille et moi un gar&ccedil;on<br />
+Lamontagne: Criss, &ccedil;a veut dire que j'ai des seins pis que j'ai pu besoin d'to&eacute;!<br />
+
+  Reb, dans la d&eacute;mo de maths discr&egrave;tes, parlant de g&eacute;n&eacute;rateurs pseudoal&eacute;atoires : Rappelez-vous, la grosseur de la graine n'a que tr&egrave;s peu d'importance.<br />
+
+  Paul-pas-Khuong: Dans le monde r&eacute;el, il n'y a pas de triangles.<br />
+
+  Sylvain, allant s'assoir sur un divan :<br />
+- Excuse moi, mais j'ai besoin de mo&euml;lleux.<br />
+Roxanne : <br />
+- Ah moi j'aime &ccedil;a dur!<br />
+
+  Frank au LTP, en train de tripoter le pingouin gonflable qui s'y trouve: Osti que vous &ecirc;tes communistes.<br />
+
+  &lt;DoubleV&gt; Il suce comment? et pourquoi?<br />
+&lt;lamblinp&gt; parce qu'il aime &ccedil;a, probablement<br />
+&lt;lamblinp&gt; comment, je peux pas dire, j'ai pas test&eacute;<br />
+
+  En utilisant des graphiques Wolfram Alpha:<br />
+lavoiecs: Je vais plotter les deux petites!<br />
+Sylvain: Tu ne plotteras pas ma fille, p&eacute;dophile!!<br />
+
+  Reblapointe: Je vais le clitslaper dans la face.<br />
+
+  Jeff, le cousin de J&eacute;r&eacute;mie: Peut-on aller sur Facebook avec l'astronaute? [Il parle de Konqueror.]<br />
+
+  Reblapointe: J'ai achet&eacute; un livre &agrave; colorier &quot;cunt-coloring&quot;.<br />
+
+  CSJ: As-tu vu le vid&eacute;o?<br />
+Reblapointe: Arr&ecirc;te de parler de vulve!<br />
+
+  Phil: Tous les Romains que j'ai vus sont en pierre.<br />
+Seb Lavoie: C'est pour &ccedil;a que &ccedil;a a pris mille ans de les vaincre.<br />
+
+  &lt;+DoubleV&gt; wow, je pensais que Ray Caster c'&eacute;tait le nom du gars :P<br />
+
+  &lt;+DoubleV&gt; Sinon personne d'autre connait des destinations excitantes au quebec? :P<br />
+&lt;+Axioplase&gt; DoubleV: Les bars &agrave; danseuses, c'est excitant.<br />
+&lt;+DoubleV&gt; ce n'est pas vraiment le genre d'excitation que je recherche<br />
+&lt;+Reblapointe&gt; Les bars de danseurs aussi!<br />
+&lt;+DoubleV&gt; encore moins<br />
+
+  Entendu &agrave; la job de Tolarian et Mathy:<br />
+&quot;La mienne est vraiment plus grosse...! Et &ccedil;a se sent!&quot;<br />
+
+
+  &lt;Reblapointe&gt; david_h: il y a une quote &agrave; accepter<br />
+-!- Reblapointe [~Reblapoin@modemcable141.32-81-70.mc.videotron.ca] has quit [Quit: Leaving.]<br />
+&lt;+david_h&gt; Reblapointe: Je ne suis pas admin sur dirobash, et tu n'es pas l&agrave;.<br />
+
+  &laquo;Quand la masturbation va, tout va!&raquo; - Reb Lapointe<br />
+
+  Heinz dit quelque chose d'intelligent<br />
+Reblapointe : T'es dont ben brillant.<br />
+Reblapointe : &Ccedil;a parait que t'es moi.<br />
+
+  Reb: J'ai faim maintenant!<br />
+Micha&euml;l Cadilhac: Mange le contenu de ta Diva Cup!<br />
+
+  lamontagne (en regardant une BD de Paul): Fuck y'ont fait une BD avec la mascotte de Ma sant&eacute; au sommet!<br />
+
+  mblondin : Quand est-ce qu'on mange des beignes? Je suis pas venu ici pour non-procrastiner.<br />
+
+  &lt;lemoinem&gt; Sur le tableau de bord, &ccedil;a suce mal.<br />
+
+  &lt;Mathy42&gt; Pok&eacute;mon, c'est une de mes activit&eacute;s de couple<br />
+
+  &lt;+DoubleV&gt; Un &eacute;cran de iPad, je vois pas qui peut voir avec au soleil<br />
+&lt;+lamblinp&gt; DoubleV: superman<br />
+&lt;+DoubleV&gt; mais lui regarde son iPad _sur_ le soleil<br />
+&lt;+pkhuong&gt; bah, superman peut siffler du 3G<br />
+
+  DoubleV: Mathy42: si tu cherches une job, j'ai entendu dire qu'il y a au moins 10 postes disponible chez Foxxconn en Chine<br />
+Mathy42: DoubleV: merci!<br />
+Mathy42: oh wait, Chine...j'ai lu, Lachine!<br />
+
+  &lt;lemoinem&gt; c'est le correcteur grammaticale dont j'ai besoin...<br />
+
+  La poire, parlant &agrave; l'&eacute;tudiant roux: Tu te d&eacute;guises souvent en fille?<br />
+
+  &lt;+Reblapointe&gt; ne t'en fait pas ma&icirc;tre Axioplase, je le reprend toujours!<br />
+&lt;+Reblapointe&gt; fais<br />
+&lt;+Reblapointe&gt; wow pourquoi je fais des fautes quand il faut pas<br />
+
+  Reblapointe: I accidentally my whole d&eacute;collet&eacute;.<br />
+
+  Entendu &agrave; la caf&eacute;t&eacute;ria : <br />
+- Tu prends du caf&eacute;? <br />
+- Oui, j'ai pas dormi pendant le cours.<br />
+
+  Reblapointe : Est trop longue, je suis pas capable...<br />
+
+  bighouse: Bon alors la p&eacute;riode d'examen est officiellement lanc&eacute;e. Je vous souhaite un bon renoncement aux plaisirs de la vie, on se rattrappera en mai !<br />
+bighouse: Amen.<br />
+Mathy42: Que la rigueur soit avec toi bighouse<br />
+bighouse: Rigueur pour les maths, vigueur pour l'info<br />
+bighouse: et puis heinzf enculera ses &eacute;lectrons<br />
+
+  Reblapointe : C'est plate les seins<br />
+David_h : Parle pour toi.<br />
+
+  La Poire lors de sa pr&eacute;sentation de son site Wiki...<br />
+Prof: Je parle avant.<br />
+Poire: Bon, c'est votre classe, vos r&egrave;gles, c'est vous le roi...<br />
+Prof: Quoi? ... <br />
+
+  lavoiecs (au babyfoot, oui encore) : Change de Trou!<br />
+
+  Fran&ccedil;ois: Vous &ecirc;tes en train de parler du p&eacute;nis de ma soeur?<br />
+
+  Nicolas: Si tu viens &agrave; une de mes soir&eacute;e, je vais te la mettre !<br />
+<br />
+(Bon, il parlait d'une chanson)<br />
+
+  A la cabane &agrave; sucre:<br />
+david_h: Est-ce que le sirop d'&eacute;rable est un bon lubrifiant pour les pr&eacute;servatifs ?<br />
+Arthur: En tout cas, &ccedil;a doit &ecirc;tre mieux apr&egrave;s quand on rim.<br />
+david_h: Ouais mais ca risque de caram&eacute;liser...<br />
+
+  &lt;+philippelamont-1&gt; i like big balls and  cannot lie<br />
+&lt;+Axioplase_&gt; Donc il aime le sexe debout avec d'autres hommes. C'est bon a savoir?<br />
+
+  En cours de IFT3912 - D&eacute;veloppement des logiciel...<br />
+<br />
+Pendant la classe, Multimedia boy l&egrave;ve la main pour poser une question.<br />
+<br />
+Multimedia boy: Qu'est-ce que tu manges pour &ecirc;tre beau de m&ecirc;me?<br />
+Professeur: Quoi? Je crois que il y a quelque chose que j'ai mal compris...<br />
+Multimedia boy: non non, t'as bien compris<br />
+<br />
+* Classe confuse et professeur pissed off *<br />
+
+  R&eacute;becca: Je joue avec et &ccedil;a rentre.<br />
+
+  &lt;fsaintjacques&gt; j'veux voir des tits moi aussi!<br />
+
+  &lt;+Marius&gt; Regarde comment j'y vais avec les mains, trois doigts que j'y met !<br />
+
+  Phil, &agrave; Reb: Mets-nous &ccedil;a, stupid blonde bitch.<br />
+
+  Aussi entendu au babyfoot :<br />
+<br />
+&lt;+lemoinem&gt; &Ccedil;a va mal &agrave; deux dans le m&ecirc;me trou.<br />
+
+
+  Phil Lamontagne : Les Grecs sont reconnus pour avoir des gros pains.<br />
+
+  &lt;+Reblapointe&gt; fsaintjacques: tu peux d&eacute;j&agrave; fourrer avec une fille propre<br />
+
+  &lt;+Reblapointe&gt; ouais, ratelle va parler comme un homme civilis&eacute; et moi je parle pas de p&eacute;nis<br />
+
+  &lt;+ratelle&gt; Ciboire jlui ai fait faire le saut dans la salle de bain et il s'est vomi dessus...<br />
+
+  &lt;+DoubleV&gt; wtf, pourquoi Marissa veut du sperme...<br />
+
+  &lt;+fsaintjacques&gt; ya d&eacute; meuf chode issi?<br />
+&lt;+Jean-Cristoph&gt; hi<br />
+
+  &lt;Xavian&gt; Si on n'a pas de discours, on va avoir l'air total jambon !<br />
+
+  lavoiecs compte un but au babyfoot avec un sandwich dans la bouche :<br />
+<br />
+Sylvain : Mouais, &ccedil;a t'inspires d'avoir quelquechose de long et rond dans ta bouche toi...<br />
+
+  J&eacute;r&eacute;mie: J'aime mieux les calembours que la Fa&eacute;cum.<br />
+
+  &lt;RebLapointe&gt; Nous, par en arri&egrave;re, on mouillait nos shorts !<br />
+
+  Aussi entendu aux CS Games<br />
+<br />
+Inconnu: Son code &eacute;tait plein de if, c'&eacute;tait un code intelligent man<br />
+
+  Entendu au CS Games..<br />
+<br />
+Inconnu: Moi un jour je veux faire &ccedil;a avec une mascotte<br />
+
+  Pendant une soir&eacute; alcoolis&eacute; pendant les CS Games...<br />
+<br />
+Mathy: Je touche pas &agrave; &ccedil;a un vagin<br />
+Lamontagne: Qu'est-ce que t'en sais? On est peut-&ecirc;tre tous dans un vagin! La &quot;matrix&quot;!<br />
+
+  Mathy qui tente de plugger un cable usb dans le portable de lavoiecs<br />
+<br />
+&lt;Mathy&gt; Je suis dedans?<br />
+&lt;lavoiecs&gt; Euh non, c'est mon port ethernet<br />
+&lt;Mathy&gt; Ah m'essemblait que c'&eacute;tait slack aussi.. je suis pas habitu&eacute; &agrave; plusieurs trous moi<br />
+
+  &lt;lavoiecs&gt; C'est mon baton qu'est trop raide...<br />
+
+  &lt;lavoiecs&gt; Mon baton se rend pas...<br />
+
+  J&eacute;r&eacute;mie: J'comprends pas comment un gars peut &ecirc;tre triste en fourrant une fille diff&eacute;rente chaque jour.<br />
+
+  En jouant au babyfoot:<br />
+<br />
+&lt;SebLC&gt; dit a son co&eacute;quipier: Ok. On switch de place. On va voir comment bon je suis en arri&egrave;re.<br />
+
+  &lt;+Tolarian&gt; pkhuong: Dude, tu finger cynthia<br />
+
+  &lt;Arnaud&gt; I like my girls like I like my rum: twelve years old and mixed with Coke...<br />
+
+  &lt;+DoubleV&gt; Moi facebook me dit d'&eacute;crire sur mon mur pour avoir l'air moins seul<br />
+
+  &lt;+Mathy42&gt; nice, ts&eacute; sur facebook, sur le cot&eacute; o&ugrave; il sugg&egrave;re des trucs.. ben aujourd'hui il me dit d'envoyer un message &agrave; mon chum pour ne pas perdre le contact<br />
+&lt;+Axioplase_&gt; Moi il me dit d'&eacute;crire &agrave; mon ex pour pas perdre le con. Quel tact&nbsp;!<br />
+
+  (Dans une conf&eacute;rence du LITQ)<br />
+Paul: So it accepts a four-letter word?<br />
+Tous: *rire g&eacute;n&eacute;ral*<br />
+
+  (Dans une conf&eacute;rence du LITQ)<br />
+Samuel: But, what's the point?<br />
+Tous: *malaise g&eacute;n&eacute;ral*<br />
+Samuel: *pointe l'&eacute;cran*<br />
+Pierre: Oh, it's concatenation!<br />
+Tous: *rire g&eacute;n&eacute;ral*<br />
+
+  R&eacute;becca : Le secret pour avoir l'air d'avoir un gros p&eacute;nis, c'est d'&ecirc;tre tr&egrave;s maigre et d'&ecirc;tre peu poilu.<br />
+J&eacute;r&eacute;mie : Ou d'avoir un gros p&eacute;nis.<br />
+
+  Paul, &agrave; J&eacute;r&eacute;mie: &Ccedil;a, c'est ce que tu penses!<br />
+
+  Jean-Yves Potvin: ~&quot;Aux cycles sup&eacute;rieurs, il est interdit d'abandonner un cours, sauf dans le cas d'un d&eacute;c&egrave;s.&quot;<br />
+
+  J&eacute;remie: Ben moi, mon foutre, c'est pas des d&eacute;chets.<br />
+
+  (01:34:54) Axioplase_: La religion est le php du peuple.<br />
+
+  &lt;+ratelle&gt; away zzz<br />
+&lt;+ratelle&gt; calice<br />
+&lt;+ratelle&gt; j'oublie tjrs mon slash sti<br />
+&lt;+Axioplase_&gt; 11:59 -!- Irssi: Unknown command: sti<br />
+
+
+  &lt;+networkdump&gt; AH FUCK<br />
+&lt;+networkdump&gt; &eacute;crasement de l'h&eacute;licopt&egrave;re TIVI-A<br />
+&lt;+pkhuong&gt; oui :D<br />
+&lt;+pkhuong&gt; aucun blesse grave ou mort<br />
+&lt;+networkdump&gt; c'est un signe du destin, Dieu m'a offert un cadeau pour ma f&ecirc;te.<br />
+
+  (21:20:11) bighouse: ?(09:13:45 PM) philippelamontag: lol le party de mats est sold out donc nvm pour earlier<br />
+(21:20:19) mblondin: oh<br />
+(21:20:21) mblondin: d&eacute;sol&eacute;<br />
+(21:20:39) philippelamontag: non<br />
+(21:21:04) philippelamontag: comment tu quote qqun?<br />
+(21:21:33) bighouse: ... copy paste?<br />
+
+  Entendu au caf&eacute; de bio: &laquo; L'affaire du sperme, c'est quoi ? &raquo;<br />
+
+  &lt;lemoinem&gt; live long and prosper<br />
+&lt;seblavoie&gt; i shall<br />
+&lt;lemoinem&gt; _\\//<br />
+&lt;lemoinem&gt; (salut vulcain)<br />
+
+  &lt;Tolarian&gt; networkdump: Ouais, je le fais des fois avec mes parents<br />
+&lt;Tolarian&gt; Je vais le faire plus souvent<br />
+
+  David H.: Je te prendrai quand tu seras une fille.<br />
+
+  &lt;postamar&gt; je suis assis sur un matelas &agrave; ressorts: quand je p&egrave;te,<br />
+           le matelas entier r&eacute;sonne, c'est fabuleux<br />
+
+  Reblapointe: Tu fais une boule dure avec puis tu mords dedans, c'est tellement bon!<br />
+
+  Vincent: Se noyer dans un bol de toilette est plus dur que &ccedil;a en a l'air.<br />
+
+  &lt;+mblondin&gt; y'a une &eacute;tape dans le verlan qui m'&eacute;chappe<br />
+&lt;+mblondin&gt; quand vous rabouttez le mot &agrave; l'envers<br />
+&lt;+mblondin&gt; je sais pas quelle transformation vous faites<br />
+&lt;+mblondin&gt; mais &ccedil;a me confusionne<br />
+&lt;+Axioplase&gt; mblondin: quel mot&nbsp;par exemple&nbsp;?<br />
+&lt;+mblondin&gt; fourbe == ?<br />
+&lt;+Axioplase&gt; J'ai pas fait de verlan<br />
+&lt;+Axioplase&gt; fourbe == fourbe<br />
+&lt;+mblondin&gt; oh lol.<br />
+
+  *Je le savais !*<br />
+<br />
+&lt;+pkhuong&gt; ben... en fait, si tu prend 2 quebecois randoms<br />
+&lt;+pkhuong&gt; il y a 98% de chances qu'ils aient un ancetre commun<br />
+
+  En parlant d'orthographe :<br />
+<br />
+Mathieu Lemoine writes:<br />
+<br />
+&gt; Il y a vraiment des fautes que j'aurais pas d&ucirc;t faire :(<br />
+
+  Rahman (Apr&egrave;s qu'une &eacute;tudiante lui ait pos&eacute; une question parce qu'elle n'&eacute;tait pas capable de lire au tableau) : <br />
+Si vous n'avez rien d'autre &agrave; apprendre de moi, vous devez apprendre comment j'&eacute;cris.<br />
+
+  12:19 &lt;+bighouse&gt; Real programmers confuse Halloween and Christmas ? because dec(25) = oct(31)<br />
+
+  Adrien, entrant dans le lab: J'ai envie de k&egrave;ne.<br />
+David, confus: ...C'est qui, Ken?<br />
+
+  Tolarian: Ah shit, ma baguette est devenue dure vraiment vite<br />
+
+  &lt;pkhuong&gt; mes balls ont tellement fait de l'alpinisme<br />
+&lt;Reblapointe&gt; C'est quoi qui se passe avec tes balls pkhuong<br />
+
+  &lt;+bighouse&gt; bon j'ai fini d'&eacute;crire Ackermann(4,4). C'est 4294967295 digits en binaire<br />
+&lt;+DoubleV&gt; o_O<br />
+&lt;+DoubleV&gt; ca ta pris combien de temps calculer &ccedil;a?<br />
+&lt;+bighouse&gt; bah non je l'ai pas fait, je l'ai sous une autre forme et j'ai pris le log Ack(4,4) -1 :P<br />
+&lt;+DoubleV&gt; oh<br />
+
+  &lt;Reb&gt; J'aime cette sensation dans ma bouche<br />
+&lt;Paul&gt; T'aime beaucoup de choses dans ta bouche<br />
+&lt;Reb&gt; Paul, t'as de la mayo sur le bord de ta bouche<br />
+&lt;Paul&gt; C'est pas de la mayo en fait...<br />
+
+  &Agrave; la caf&eacute; :<br />
+<br />
+Gabrielle : Hey j'ai un cours d'info la session prochaine!<br />
+Dario &amp; Seb : Ah ouais? lequel?<br />
+Gabrielle : IFT!<br />
+Dario: IFT quoi?<br />
+Gabrielle : comment &ccedil;a ift quoi?<br />
+<br />
+***<br />
+<br />
+Seb: Bon qu'est-ce que tu fais dans ton cours? Tu vas programmer?<br />
+Gab: Ouais! C'est &ccedil;a! je crois qu'il y avait programmation dans le nom! J'aime &ccedil;a moi programmer du genre installer Word....<br />
+<br />
+Dario &amp; Seb : Uhm....<br />
+<br />
+***<br />
+<br />
+Dario : Seb montre-y on peu ce qu'on fait :)<br />
+Seb : Attend.<br />
+(Gabrielle, en regardant l'ordinateur portable &agrave; seb)<br />
+Gab : Ah ouais! c'est du code! j'aime full &ccedil;a!<br />
+Seb: euh.. En fait.. c'est mes notes de cours..<br />
+<br />
+Et c'est alors que Dario pouffa de rire devant un client.<br />
+
+  RebLapointe : J'ai un gros bleu sur mon tibia...<br />
+Mathy42 : Comment t'as fait ca?<br />
+RebLapointe : J'ai saut&eacute; sur Marius pi y &eacute;tait dur...<br />
+
+  &lt;+Reblapointe&gt; Cette nuit, j'ai r&ecirc;v&eacute; que networkdump avait pas d'os.<br />
+&lt;+Reblapointe&gt; Et je lui ai cri&eacute;<br />
+&lt;+mblondin&gt; wtf<br />
+&lt;+Axioplase&gt; networkdump: ATTENTTION&nbsp;!! T'AS PAS D'OS&nbsp;!<br />
+&lt;+Reblapointe&gt; Il essayait de m'empoigner avec ses membres mous!<br />
+&lt;+Reblapointe&gt; j'avais si peur<br />
+
+  &lt;+networkdump&gt; it's like porn, some one must rate those vids. gosh.<br />
+...<br />
+&lt;+Tolarian&gt; networkdump s'y conna&icirc;t en pr0n<br />
+&lt;+CimminoD&gt; qui s'y connais pas?<br />
+&lt;+CimminoD&gt; on a tous eu 13 ans ts&eacute;.<br />
+...<br />
+&lt;+networkdump&gt; non, j'ai vraiment d&eacute;j&agrave; rat&eacute; de la porn.<br />
+
+  &lt;+Axioplase&gt; Apr&egrave;s Rebecca qui aime les graines, vla Mathy42 qui &quot;aime les gaines c'est tout&quot;.<br />
+&lt;+Mathy42&gt; j'ai tjrs aim&eacute; les graines Axioplase<br />
+&lt;+Mathy42&gt; jme fais juste moins quoter que RebLapointe<br />
+
+  Marius: ...il y a des raisons pour lesquelles le sperme go&ucirc;te mauvais.<br />
+Paul-Math: Moi j'aime &ccedil;a. (...)<br />
+
+  Arnaud: C'est quoi, le trip avec les moules?<br />
+
+  Rahman (en parlant de l'examen Intra a venir) : Je ne vous dirais pas ce qu'il y aura mais je vous dis qu'il y aura quelque chose.<br />
+
+  &lt;+Tolarian&gt; Fsck j'ai pas de batterie 9V<br />
+&lt;+DoubleVTF&gt; une chose de moins a licher<br />
+
+  &lt;Tolarian&gt; j'en ai un huge sac<br />
+&lt;DoubleVTF&gt; nice, tu vas pouvoir attirer les enfants<br />
+
+  &lt;philippelamontag&gt; dude jcomprend pas<br />
+&lt;philippelamontag&gt; ya des filles trop bonnes en math<br />
+
+
+  &lt;+DaxInvader&gt;  pendant une bonne demiheure, jme demandais pkoi le mec au bout de la rue restait plant&eacute; l&agrave; avec un imperm&eacute;able jaune....<br />
+&lt;+DaxInvader&gt; c'&eacute;tait un poteau.<br />
+&lt;+lavoiecs&gt; ...<br />
+&lt;+lavoiecs&gt; lol<br />
+&lt;+DaxInvader&gt; ma vue est pourtant pas si terrible..<br />
+
+  &lt;+Axioplase&gt; ha oui, &laquo;&nbsp;ftw&nbsp;&raquo; c'est autoris&eacute; aussi. Mais l'dit pas trop, sinon on va te confondre avec pkhuong<br />
+&lt;+networkdump&gt; Axioplase, pkhuong utilise au moins un flag de gcc par phrase, oublie pas.<br />
+
+  En parlant du Suedois et du Finnois...<br />
+<br />
+Mathy42: pkoi apprendre des langues si obscure?<br />
+Reblapointe: parce que c'est beau<br />
+Reblapointe: pis je veux habiter l&agrave; quand je serai grande<br />
+Mathy42: les gens sont beau, pas n&eacute;cessairement leur langue<br />
+Reblapointe: les deux<br />
+Mathy42: remarque, s'ils ont une langue harcore et arrivent &agrave; la manier, c'est peut-&ecirc;tre indicateur de leurs performances au lit<br />
+philippelamont-1: lol<br />
+***Reblapointe imagine les cunnilingus scandinaves<br />
+***Mathy42 imagine autre chose mais qui reste tout aussi int&eacute;ressant<br />
+
+  En d&eacute;mo de structure (arborescence): <br />
+<br />
+D&eacute;mo: Alors qu'est-ce qui, pour une m&ecirc;me descendence, a plusieurs parents?<br />
+<br />
+Dario: Une erreur de la nature?<br />
+<br />
+Fred : Le monde du lac St-jean!<br />
+
+  Fred : Pour une raison inexplicable, mon CD-drive se met a tourner pour rien...<br />
+Seb : La est ta reponse... (pointe le signe de Windows dans la barre de menu)<br />
+
+  &lt;+Tolarian&gt; La nouvelle saveur est bofd<br />
+&lt;+Tolarian&gt; bof<br />
+???<br />
+&lt;+Axioplase&gt; bofd&nbsp;?<br />
+???<br />
+&lt;+Axioplase&gt; Bastard Operator From Diro&nbsp;?<br />
+
+  Durant le cours de structure, alors que le professeur parlait de &quot;piles&quot;.<br />
+<br />
+Prof : Alors on peu comparer les piles avec un programme java...<br />
+Dario (&agrave; Cynthia): Voir... Java, moi je trouve qui a chercher ca loin.<br />
+Cynthia: Ah bon? Moi j'avais pens&eacute; &agrave; &ccedil;a..<br />
+Dario: Moi j'avais plut&ocirc;t pens&eacute; &agrave; la pile de linge dans ma chambre: Le dernier chandail que je fou dessus et le premier que je vais remettre...<br />
+
+  Neil Stewart, parlant d'arborescence:<br />
+<br />
+&laquo; [...] Donc, si vous avez que des enfants gauches, vous n'&ecirc;tes pas chanceux, m&ecirc;me avec beaucoup d'insertions et de retraits... &raquo;<br />
+<br />
+Bien que c'&eacute;tait le silence dans la classe, Dario avait le fou rire dans son &acirc;me...<br />
+
+  &lt;Marie&gt;Dario[8][14] : C'est quoi le 14?<br />
+&lt;Dario[8][14]&gt; c'est le nombre d'&eacute;pais qui me demandais ce que le 8 voulait dire....<br />
+*Dario[8][14] is now known as Dario[8][14][1].<br />
+
+  Compilateur LaTeX : &shy;With luck, this will get me unwedged. But if you really didn't forget anything, try typing `2' now; then my insertion and my current dilemma will both disappear.<br />
+ &shy;The `$' that I just saw supposedly matches a previous `$$'. So I shall assume that you typed `$$' both times.<br />
+lavoiecs {decidemment je suis pas doue avec LaTeX...}<br />
+
+  Apr&egrave;s avoir fait 4 it&eacute;rations du tableau du simplexe....<br />
+<br />
+Dario : Hey seb... On lui dit, au d&eacute;mo, qu'il a fait une erreur dans le premier tableau?<br />
+Seb: Nah, attend qu'il finisse...<br />
+
+  &lt;pkhuong&gt; Il me reste deux jours d'enfers pour remplir les papiers des bourses.<br />
+&lt;david_h&gt; Tu vas &ecirc;tre plein d'argent, tu pourras mettre Marissa dehors!<br />
+
+  &lt;Reblapointe&gt;Je suis un homme gai dans un corps de femme<br />
+
+  &lt;Reblapointe&gt; j'aurais pas envie de laver le sperme de mon chien<br />
+
+  Rahman (apr&egrave;s avoir rempli un immense tableau de dessins et d'&eacute;quations complexes) : &Ccedil;a &agrave; l'air compliqu&eacute;, mais &ccedil;a l'est pas tant que &ccedil;a...<br />
+
+  Compilateur LaTeX : I suspect you've forgotten a `}', causing me to apply this control sequence to too much text. How can we recover? My plan is to forget the whole thing and hope for the best.<br />
+slavoiecourchesne : WTF!?! C'est quoi ca?<br />
+Compilateur LaTeX : I've inserted a begin-math/end-math symbol since I think you left one out. Proceed, with fingers crossed.<br />
+slavoiecourchesne : WTF!!! Le compilateur me niaise tu ou quoi?<br />
+
+  Rami: C'est quoi Bixi?<br />
+
+  J&eacute;r&eacute;mie: Allez donc chier, je vous ha&iuml;s tellement.<br />
+         Je m'ennuie du temps que Rami &eacute;tait l&agrave;.<br />
+David#2: Comment on fait push dans git?<br />
+
+  Reb: Je me souviens seulement des choses inutiles. Comme la teneur en fer des &eacute;pinards. Mais demande-moi la pas, je l'ai oubli&eacute;e.<br />
+
+  J&eacute;r&eacute;mie: J'ai pas la gueule de bois.<br />
+
+  J&eacute;r&eacute;mie: Mais oui elle est majeure!<br />
+
+  D&Atilde;&copy;mo de AI: Une p&egrave;re de lunette dans un &eacute;tui noir a &eacute;t&eacute; oubli&eacute; dans le 1340<br />
+
+  Marc, &agrave; J&eacute;r&eacute;mie: Comment va ta vie sexuelle?<br />
+
+  LOLTAPIR!!!<br />
+
+  Paul-Math pr&eacute;sente Reblapointe &agrave; des gar&ccedil;ons &agrave; qui elle n'a jamais adress&eacute; la parole :<br />
+Paul-Math : Vous aurez de la difficult&eacute; &agrave; me croire, mais elle ne parle pas que de sexe.<br />
+
+  &lt;bergeret&gt; J'&eacute;tais &agrave; 1 minute 30, mais quand c'est bien lubrifi&eacute; je descends &agrave; environ 40 secondes.<br />
+
+  J&eacute;r&eacute;mie: ...je vais devenir le Paul Khuong de Gambit.<br />
+
+  &lt;+mblondin&gt; on est pas mal beau dans les t-shirts d'initiations<br />
+&lt;+Tolarian_&gt; +1<br />
+&lt;+mblondin&gt; surtout phil, il a de beaux muscles<br />
+[join event] (bighouse(n=bighouse@x-132-204-254-138.xtpr.umontreal.ca)) Joined (#diro)<br />
+&lt;+bighouse&gt; oh merci mic<br />
+
+  (En parlant des filles au bacc en info)<br />
+Cynthia: Il y a si peu de filles que vous pouvez les compter ?<br />
+Phil: Comme il y a toujours un nombre fini d'&eacute;tudiants au bacc, oui.<br />
+
+  &lt;+bighouse&gt; 'The Carboniferous period (~300 million years ago) had notoriously high oxygen levels, almost enough to allow spontaneous combustion[65]' euh pas nice<br />
+&lt;+bighouse&gt; mais genre tu peux courir infini<br />
+&lt;+lamblinp&gt; bighouse: mais au bout d'un moment, t'es compl&egrave;tement br&ucirc;l&eacute;<br />
+
+
+  J&eacute;r&eacute;mie: C't'une activit&eacute; fun, tuer des animaux.<br />
+
+  J&eacute;r&eacute;mie (parlant de webdesign): J'aime pas la beaut&eacute;. Si je voulais voir quelque chose de beau, j'irais voir des photos de filles nues.<br />
+
+  Vincent: Sur ces sages paroles...<br />
+Marissa: Oublie pas la ch&egrave;vre!<br />
+
+  Sam, &agrave; Vincent: C't'important le car et le cdr, c'est la base de Scheme.<br />
+
+  David en train d'utiliser le compte d'une idiote ayant oublie de se deloguer<br />
+<br />
+Jeremie : Alors qui a laisse son compte ouvert<br />
+David : Une fille<br />
+Jeremie : Finger la!<br />
+
+  (Reb et Gab parlent d'optimisation et de dating)<br />
+<br />
+Reb: Mais elle est semi-d&eacute;finie positive!<br />
+Gab: Ah, j'en suis certain<br />
+Gab: Ca m'a l'air d'une fille semi-d&eacute;finie positive<br />
+Reb: je parlais de ma fonction objectif<br />
+Reb: mais on peut parler de la tienne aussi<br />
+
+  Rami&nbsp;: c'est quoi une signature PGP?<br />
+
+  (David vient d'utiliser comme tr&eacute;pied un lampadaire du jardin des Tuileries)<br />
+Caroline&nbsp;: Tu crois pas que les gens vont trouver &ccedil;a bizarre&nbsp;?<br />
+David&nbsp;: Oui, la derni&egrave;re fois, je me suis fait arr&ecirc;ter pour comportement obsc&egrave;ne avec du mobilier urbain.<br />
+Caroline&nbsp;: Vraiment&nbsp;?<br />
+David&nbsp;: ...<br />
+
+  J&eacute;r&eacute;mie, lisant dirobash&nbsp;: Eille, networkdump, c'est-tu un bot&nbsp;?<br />
+
+  &lt;+networkdump&gt; Axioplase, alors les japs, elles sont chaudes?<br />
+&lt;+Axioplase&gt; networkdump: j'en sais rien. Mais mon si&egrave;ge au lab, ouais. 37&deg;C, comme mes fesses.<br />
+
+  &lt;+networkdump&gt; il doit y avoir pleins de spermes de poissons au fond de l'oc&eacute;an :S<br />
+&lt;+Axioplase&gt; zut, j'ai bu la tasse :/<br />
+&lt;+Reblapointe&gt; ca fait tomber les polonaise enceinte<br />
+
+  &lt;+DoubleV&gt; Mon historique est vierge, je vais pas sur les sites de pr0n<br />
+&lt;+Reblapointe&gt; DoubleV: pour vrai?<br />
+&lt;+Reblapointe&gt; ton historique est vierge soit<br />
+&lt;+Axioplase&gt; Reblapointe: non, il a effac&eacute; son historique seulement.<br />
+&lt;+Reblapointe&gt; mais tu consommes pas de pron?<br />
+&lt;+Axioplase&gt; pas vu pas pris<br />
+&lt;+networkdump&gt; hoho<br />
+&lt;+Mathy42&gt; &ccedil;a rend les gens plus difficile &agrave; exciter.. &ccedil;a augmente le niveau de sexualit&eacute; requis pour les ...<br />
+&lt;+Reblapointe&gt; Axioplase: historic or it didn't happen<br />
+&lt;+networkdump&gt; UNTIL THE SYSADMIN POINT OUT THE DNS RESOLVER LOGS<br />
+
+  [22:33] &lt;+Reblapointe&gt; vous faites quoi avec vos selles ... :S<br />
+[22:33] &lt;+networkdump&gt; sur youporn [...]<br />
+
+  &lt;+Mathy42&gt; coudonc.. c'est pas normal j'entends le b&eacute;b&eacute; du voisin [de l'autre cot&eacute; de la rue] pleurer genre 7 fois par jours [dont la nuit &agrave; 3h] depuis comme une semaines<br />
+&lt;+Reblapointe&gt; il est peut-&ecirc;tre nouveau<br />
+&lt;+Reblapointe&gt; ou il fait des colliques<br />
+&lt;+Reblapointe&gt; ou il est malade<br />
+&lt;+DoubleV&gt; ou qu'il est un b&eacute;b&eacute;<br />
+&lt;+Reblapointe&gt; ou sa m&egrave;re est morte et il a faim<br />
+
+  &lt;Mathy42&gt; DoubleV: haha je consomme rien, j'&eacute;vite m&ecirc;me la caf&eacute;ine.. je suppose que c'est le sex suivit de l'alcool<br />
+&lt;networkdump&gt; butsaiks<br />
+&lt;networkdump&gt; lawls<br />
+
+  Mathy42: Je pourrais t&ecirc;ter de l'argent &agrave; maman et papa cette ann&eacute;e en me fesant passer pour un gentil fils h&eacute;t&eacute;ro qui fait plein de b&eacute;b&eacute;s partout<br />
+Axioplase: Si tu t&ecirc;tes papa, t'auras du mal &agrave; te faire passer pour un h&eacute;t&eacute;ro?<br />
+
+  Vincent &agrave; Rami:<br />
+L'&eacute;t&eacute; dernier on a flash&eacute; les robots, c'est la pire chose imaginable!!<br />
+<br />
+2 semaines plus tard...<br />
+<br />
+Vincent &agrave; Marc, devant Rami:<br />
+S&eacute;bastien Roy a besoin de main d'oeuvre &quot;cheap&quot; pour flasher les robots, peut &ecirc;tre que vous pourriez lui envoyer Rami demain!<br />
+
+  Marissa: C'est plate l'anatomie... dans les livres.<br />
+
+  &lt;+pkhuong&gt; &lt;- douche<br />
+&lt;+pkhuong&gt; is this rain I'm hearing? &lt;3<br />
+&lt;+Tolarian&gt; It sure is<br />
+&lt;+Axioplase_&gt; nan, c'est ta douche !<br />
+
+  &lt;+networkdump&gt; OML<br />
+&lt;+Kingo&gt; il bug tu lui !? chaque demi heure il dit OML<br />
+&lt;+DoubleV&gt; non, c'est pas un bug<br />
+&lt;+DoubleV&gt; C'est un special feature<br />
+
+  &lt;+bighouse&gt; dsl j'ai bcp trop de plaisir seul dans mon placard<br />
+
+  &lt;+Reblapointe&gt; moi j'ai le chien le plus aaaadorable chez moi<br />
+&lt;+Reblapointe&gt; il est vraiment tr&egrave;s con, tr&egrave;s laid, tr&egrave;s maladroit<br />
+&lt;+Reblapointe&gt; mais il est si affectueux<br />
+&lt;+Reblapointe&gt; c'est comme &ccedil;a que je les aime! (sans offense networkdump)<br />
+
+  
+  Jeremie, entrant dans le lab en riant:<br />
+&quot;J'ai comme rot&eacute; l&agrave; et j'ai de la sauce &eacute;pic&eacute;e du portugais qui m'est remont&eacute;e dans la gorge&quot;<br />
+(Grand sourire et rire b&ecirc;te, puis il ajoute)<br />
+&quot;C'est vraiment d&eacute;sagr&eacute;able!&quot;<br />
+
+  Jeremie, a David: J'aime mieux tes photos en noir et blanc, on dirait plus qu'on est a la guerre.<br />
+
+  &lt;+david_h&gt; NOTRE PEUPLE VAINCRA!<br />
+&lt;+david_h&gt; np: Britney Spears - Shoot Your Love All Over Me [ 3.19mb / 3:24 ]<br />
+
+  Rami: Viens, j'ai un truc &agrave; te montrer.<br />
+J&eacute;r&eacute;mie: Pas encore un vid&eacute;o avec des putes?<br />
+
+  J&eacute;r&eacute;mie, lisant la #449: Parce que les Syriens sont vraiment mieux?<br />
+
+  Vincent, en train de gosser avec sa nouvelle cam&eacute;ra: Le connecteur est vraiment petit.<br />
+Rami: &Ccedil;a doit &ecirc;tre japonais. Les Japonais ont des petites bites.<br />
+
+  &lt;Vincent&gt; Tu regardes ta bite, et tu te dis, il me semble qu'elle est plus longue que &ccedil;a.<br />
+
+
+  (Apr&egrave;s avoir regard&eacute; un vid&eacute;o de musique isra&eacute;lien de go&ucirc;t douteux)<br />
+David: Vous avez aussi des vid&eacute;os du genre en Syrie?<br />
+Rami: Nan, dans les clips, y a que des putes.<br />
+
+  Jeremie a David: Calice t'as marque ma quote en ecrivant &quot;si&quot; au lieu de &quot;oui&quot;. J'ai l'air d'un criss de francais.<br />
+Vincent: Non juste d'un fif<br />
+
+  (En revenant de d&icirc;ner)<br />
+J&eacute;r&eacute;mie: Ah, j'ai pas le go&ucirc;t de travailler.<br />
+Vincent: Alors travaille pas.<br />
+J&eacute;r&eacute;mie: Si! Faut que je travaille. Faut toujours faire ce qu'on a pas envie de faire.<br />
+David: As-tu envie de te faire violer par un poney?<br />
+J&eacute;r&eacute;mie: Non. Ah ben tabarnak, je vais devoir le faire, c'est comme &ccedil;a qu'on se forge le caract&egrave;re.<br />
+
+  Vincent: Aussi surprenant que &ccedil;a puisse para&icirc;tre, je n'ai jamais assist&eacute; &agrave; une &eacute;lection de Miss Chinatown.<br />
+
+  &lt;Tolarian&gt; Tabarnak qu'elles sont chaudes<br />
+
+  Marius, regardant une photo en noir et blanc: Est-ce que c'est une photo en noir et blanc?<br />
+
+  J&eacute;r&eacute;mie: La Suisse, c'est *pourri*!<br />
+
+  Rami: Comment tu peux fourrer du caf&eacute;?<br />
+David: Wow, t'es un moulin &agrave; quotes.<br />
+
+  (Apr&egrave;s avoir fait fuire la moiti&eacute; de la population du lab (LTP) &agrave; force de dire des conneries)<br />
+Rami: Ils ont l'air de s'ennuyer &agrave; c&ocirc;t&eacute; (au LISA).<br />
+Vincent: Ouais, quoique si je faisais du machine learning je pense que je m'ennuyerais aussi...<br />
+Rami: Haha je vais mettre &ccedil;a sur dirobash, tu penses qu'ils regardent?<br />
+Vincent: Non, ils sont bien trop platte.<br />
+
+  Rami: C'est quoi, de la guidoune?<br />
+
+  Rami, apr&egrave;s avoir vu le tubgirl que J&eacute;r&eacute;mie lui a envoy&eacute;: En plus, c'est jaune, quoi!<br />
+
+  Rami : C'est quoi un sphincter?<br />
+Jeremie : Ce qui t'empeche de faire caca quand tu forces au gym.<br />
+
+  Marius von Troll: Votre pays, c'est le Canada, que vous le vouliez ou pas.<br />
+Vincent, offens&eacute;: ...Naon.<br />
+
+  Rami: Une graine, c'est...?<br />
+Vincent: David, ajoute &ccedil;a.<br />
+Rami: Je voulais pas dire &laquo; c'est quoi, une graine &raquo;<br />
+Les autres: ...<br />
+Rami: Non mais, s&eacute;rieusement?<br />
+J&eacute;r&eacute;mie: Une qu&eacute;quette!<br />
+
+  Rami: C'est qui, DoubleV?<br />
+
+  J&eacute;r&eacute;mie, juste revenu de la p&ecirc;che: J'&eacute;tais dans le bateau, et je m'imaginais avec des mitraillettes au lieu de cannes &agrave; p&ecirc;che.<br />
+
+  Vincent: Du c&ocirc;t&eacute; de mon grand-p&egrave;re, on est content si on a un grand de m&ecirc;me [il montre la distance entre son pouce et son auriculaire].<br />
+
+  &lt;mblondin&gt; les rednecks canadiens l&agrave; ...<br />
+&lt;Reblapointe&gt; ark, c'est pire que des chinois<br />
+&lt;pkhuong&gt; ...<br />
+
+  &lt;+DoubleV&gt; monter des meubles IKEA pour un ami &ccedil;a suce<br />
+
+  &lt;DoubleV`&gt; o_O<br />
+-:- Reblapointe has left #diro<br />
+&lt;DoubleV`&gt; Mes smiley eyes sont puissant, ils font partir le monde<br />
+&lt;DoubleV`&gt; voyons si avec ca elle va revenir<br />
+&lt;DoubleV`&gt; 8=====D<br />
+&lt;DoubleV`&gt; nope, gnight all<br />
+-:- SignOff DoubleV`: #diro<br />
+
+  Axioplase d&eacute;couvre un verbe fran&ccedil;ais<br />
+&lt;Axioplase&gt; &quot;L&eacute;nifier&quot;<br />
+&lt;Axioplase&gt; qui ne signifie pas &quot;faire pousser un petit goatsie et une moustache, puis massacrer des millions de russes&quot;<br />
+&lt;Axioplase&gt; (c'est &quot;l&eacute;ninifier&quot;, &ccedil;a)<br />
+
+  Quote Not Found.<br />
+
+  Rami: Goatse, c'est quoi ca ?<br />
+
+  Vincent: Bah, suffit que &ccedil;a aie des yeux brid&eacute;s et une paire de boules et il saute dessus.<br />
+Rami: Une paire de quoi?<br />
+
+  Rami: C'est quoi, du teabagging ?<br />
+
+  Rami, regardant un rouleau de film vide: C'est vide?<br />
+David: Oui.<br />
+Rami: Comment tu l'as vid&eacute;?<br />
+David: En tirant la languette.<br />
+Rami: Quelle languette? Y a pas de languette.<br />
+David: C'est normal, je l'ai vid&eacute;!<br />
+
+  (Devant le pavillon Coutu)<br />
+Marc: J'avais milit&eacute; pour que cette place devienne un terrain de volley-ball plut&ocirc;t que juste des marches.<br />
+Rami: Ouais, ou un terrain de basket.<br />
+Marc: Non, de volley.<br />
+Rami: Le volley, c'est un sport de filles.<br />
+Marc: (Offens&eacute;)<br />
+
+  Tolarian: Mes exp&eacute;riences avec des ATi &eacute;taient toujours tr&egrave;s chaudes<br />
+
+  &lt;pkhuong&gt; juste pour toi, GCC-only:<br />
+&lt;pkhuong&gt; #define map_bit_indices(VAR, EXPR)                              \<br />
+&lt;pkhuong&gt;         ({                                                      \<br />
+&lt;pkhuong&gt;         uint32_t __ret__ = 0;                                   \<br />
+&lt;pkhuong&gt;         for (uint32_t VAR = 0, __bit__ = 1; VAR &lt; 32; VAR++, *= 2) \<br />
+&lt;pkhuong&gt;                 if (EXPR) __ret__ |= __bit__;                   \<br />
+&lt;pkhuong&gt;         __ret__;                                                \<br />
+&lt;pkhuong&gt;         })<br />
+&lt;mblondin&gt; wtf<br />
+&lt;networkdump&gt; __unroll_my_penis_so_it_goes_faster__<br />
+
+  Rami: Marc devrait recruter des filles pour le lab.<br />
+Vincent: Ben, l'ann&eacute;e derni&egrave;re, y avait Cath.<br />
+Rami: Y en avait quatre!?!<br />
+
+
+  Marc, en cours: [quelque chose &agrave; propos des protocoles internet]... comme &ccedil;a on peut jouer avec plus de bits<br />
+
+  Rami: Futurama? C'est quoi, &ccedil;a?<br />
+
+  &lt;DoubleV&gt; tu peux pisser sur le monde<br />
+&lt;DoubleV&gt; et te pisser dessus si tu es en feu<br />
+
+  (On cherche la brocheuse du LTP)<br />
+David: Tiens, la v'l&agrave;.<br />
+Rami: Ah ouais, l'autre jour, il [J&eacute;r&eacute;mie] voulait me frapper avec.<br />
+
+  Rami: C'est quoi, dirobash?<br />
+
+  Rami: Les tortues qui baisent, c'est fascinant. Aucun autre animal ne fait ce bruit-l&agrave;, je te jure !<br />
+
+  J&eacute;r&eacute;mie: Elle a une grosse graine, pour sa grosseur.<br />
+
+  &lt;+Axioplase_&gt; Cette nuit, j'ai r&ecirc;v&eacute; que j'&eacute;tais avec pkhuong &agrave; un cours de judo de d&eacute;veloppeurs NetBSD, qu'on allait faire un karaok&eacute; apr&egrave;s le cours, et que Paul me provoquait en duel &agrave; un jeu sur nintendo DS.<br />
+&lt;+Axioplase_&gt; Mais je me suis r&eacute;veill&eacute; avant le d&eacute;but de la partie<br />
+&lt;+Axioplase_&gt; pkhuong: tu perds rien pour attendre. Je te mettrai la pat&eacute;e dans mon prochain r&ecirc;ve de judokas netbsdistes :)<br />
+&lt;+pkhuong&gt; :D<br />
+
+  Marc, &agrave; un de ses &eacute;tudiants: J'ai un plus gros canon que toi.<br />
+
+  Conversation sur TF2 entre DoubleV, Tolarian et mblondin<br />
+Blonde de Tolly: &Agrave; qui parles-tu?<br />
+Tolarian: &Agrave; mes amis, mes amis sur Internet<br />
+Blonde: Peux-tu &ecirc;tre un peu moins geek...<br />
+Tolarian: C'est parce qu'ils peuvent t'entendre<br />
+mblondin: pwned<br />
+
+  &lt;+xsimo&gt; devrait &ecirc;tre sur dirobash : &quot;une version &quot;ok, vas-y, fait tes IOs pendant des heures, je m'en calice&quot; &quot;<br />
+&lt;+Axioplase&gt; xsimo: rajoute-le !<br />
+&lt;+xsimo&gt; bonne id&eacute;e<br />
+&lt;+xsimo&gt; trop tard, j'ai d&eacute;j&agrave; post&eacute;<br />
+&lt;+Axioplase&gt; xsimo: pas trop tard. Internet n'a pas oubli&eacute;!<br />
+
+  Axioplase: ... une version &quot;ok, vas-y, fait tes IOs pendant des heures, je m'en calice&quot;<br />
+
+  &lt;Reblapointe&gt; Tolarian: ping<br />
+&lt;Reblapointe&gt; c'est o&ugrave; pour voir un travesti mettre une t&ecirc;te de cheval?<br />
+&lt;Tolarian&gt; www.putridsexobject.com<br />
+&lt;Reblapointe&gt; merci<br />
+
+  Christian et J&eacute;r&eacute;mie, au &laquo;t&eacute;l&eacute;phone&raquo;: Hey, we can see you. Can you see us? I hope not!<br />
+
+  bighouse: bah dude il va se tanner pendant neuf mois apr&egrave;s et il y a des diminishing returns<br />
+Reblapointe: 9 mois a pas d'autres repr&eacute;sentations pour moi qu'une grossesse<br />
+DoubleV: Toutes mes f&eacute;licitations, c'est un... PYRO<br />
+DoubleV: et reblapointe de crier<br />
+DoubleV: MEEEEEEEDICCCCCCCC<br />
+bighouse: (imitation louche d'un pyro)<br />
+
+  David: Mais c'est ici, non? Pas dans une de ces universit&eacute;s lointaines comme... Concordia?<br />
+
+  &lt;pkhuong&gt; NEVAR USE NAMESPACE!<br />
+&lt;pkhuong&gt; je doute que t'aie gros besoin de strings pour ton truc.<br />
+&lt;pkhuong&gt; (si c'est pour RO) oublie pas que les strings c'est SLOW a<br />
+  comparer. Si t'utilises ca t'es probably mieux d'interner tes<br />
+  strings dans une map (std::map ou ext::hash_map)<br />
+&lt;networkdump&gt; et de compiler avec -f-unroll-my-penis<br />
+
+  &lt;Reblapointe&gt; egegegeg<br />
+&lt;Reblapointe&gt; je viens de voir une photo de piq&ucirc;re d'araign&eacute;e<br />
+&lt;Reblapointe&gt; avec une araign&eacute;e dedans<br />
+&lt;Reblapointe&gt; haaaaaaaaaaa je peux plus regarder fukung<br />
+&lt;DoubleV&gt; PIC!<br />
+&lt;DoubleV&gt; montre-moi<br />
+&lt;Reblapointe&gt; NO WAY je cherche pas ca<br />
+&lt;Reblapointe&gt; OUACHE<br />
+&lt;DoubleV&gt; wtf<br />
+&lt;Reblapointe&gt; je suis toute en sueur<br />
+&lt;Reblapointe&gt; faudrait que tu viennes chez moi et que tu fasses back<br />
+&lt;Reblapointe&gt; moi je touche pas &agrave; &ccedil;a<br />
+&lt;DoubleV&gt; ben<br />
+&lt;DoubleV&gt; ferme tes yeux<br />
+&lt;DoubleV&gt; fais back<br />
+&lt;DoubleV&gt; Ctrl-L<br />
+&lt;DoubleV&gt; Ctrl-C<br />
+&lt;DoubleV&gt; Alt-F4<br />
+&lt;DoubleV&gt; va sur irc<br />
+&lt;DoubleV&gt; Ctrl-V<br />
+
+  David (&agrave; propos de Louis-Julien): Ouah, ce sourire, &ccedil;a ressemblait pas mal au Joker. Je me demande s'il s'en va pas tuer Batman.<br />
+
+  &lt;Reb&gt; J'ai un d&eacute;collet&eacute;... en arri&egrave;re.<br />
+
+  Marius: Pfft, vous avez pas de couilles.<br />
+
+  Reblapointe: Oui, mais Paul, t'&eacute;tais probablement plus f&eacute;minine que moi &agrave; cet &acirc;ge-l&agrave;.<br />
+
+  Tolarian&gt; Ah wow<br />
+Tolarian&gt; Mon clavier fait toujours les m&egrave;me problemes quand je reviens de suspend avec cette version de ubuntu fresh install<br />
+Tolarian&gt; <br />
+Tolarian&gt; C'est plein de lettres louches?<br />
+networkdump&gt; non<br />
+networkdump&gt; juste le m&egrave;me<br />
+networkdump&gt; qui a le mauvais accent<br />
+
+  21:10 &lt;+DoubleVTF&gt; wow je me fais spammer d'account wow<br />
+21:11 &lt;+lemoinem&gt; woah... DoubleVTF tu dois &ecirc;tre une des seules personnes &agrave; avoir une vie sociale et un account WoW...<br />
+21:11 &lt;+DoubleVTF&gt; J'ai ni un ni l'autre<br />
+
+  Vincent, se connectant &agrave; dirobash: J'ai besoin de mon fix de jokes de bisounes.<br />
+
+  (Marissa, Paul, Am&eacute;lie (coloc de JP) et JP sont assis en train d'&eacute;couter un &eacute;pisode des Myst&eacute;rieuses Cit&eacute;s d'Or)<br />
+Am&eacute;lie: Heille!! Regardez!! Paul ressemble tellement &agrave; Tao.<br />
+Paul, Marissa, JP:  ...<br />
+Am&eacute;lie: Bien oui regarde y'ont quasiment les cheveux identiques!<br />
+
+  &lt;Tolarian&gt; Ma m&egrave;re m'a donn&eacute; mon slip<br />
+
+  &lt;Max Mignotte&gt; les math&eacute;matiques c'est des additions, des soustractions, des multiplications et des divisions<br />
+
+  &lt;Hackerman&gt; Epic fail d'ortographe<br />
+
+  &lt;Philippe&gt; *Bruit de laser* I am a vector field<br />
+
+
+  &lt;Mathy42&gt; c'est tjrs bon de parler de GAINES<br />
+
+  Reb: As-tu vu Slumdog Millionaire?<br />
+Vincent: Y a des vraiment belles Indiennes.<br />
+Reb: Y en a des moustachues aussi.<br />
+
+  postamar: omg zerg rush<br />
+pkhuong: Auto flash, n00b!<br />
+postamar: tu prends la quatre-six pour h&egrave;dchauter sa z&egrave;rgue couine avant qu'il te fasse un 4pool<br />
+postamar: sinon ils vont poser la bombe dans dideuste<br />
+postamar: g&eacute;h&egrave;le acheffe laul<br />
+
+  &lt;mblondin&gt; wtf<br />
+&lt;mblondin&gt; Facebook dit que je pourrais &ecirc;tre ami avec South Park<br />
+&lt;mblondin&gt; ..<br />
+
+  &lt;Reblapointe&gt; je comptais les pneux<br />
+&lt;Reblapointe&gt; pneus<br />
+&lt;Tolarian&gt; mais<br />
+&lt;Tolarian&gt; amis<br />
+&lt;Reblapointe&gt; sami<br />
+&lt;Tolarian&gt; misa<br />
+&lt;pkhuong&gt; siam<br />
+&lt;Tolarian&gt; isam<br />
+&lt;pkhuong&gt; y'en a 24<br />
+&lt;pkhuong&gt; on fait vraiment ca?<br />
+
+  &lt;Reblapointe&gt; Qui a saut&eacute; qui ?<br />
+&lt;Marissa&gt; Personne a saut&eacute; personne...<br />
+&lt;Reblapointe&gt; C'est don' ben plate !!<br />
+
+  &lt;Marissa&gt; Arr&ecirc;te d'&ecirc;tre sur Facebook, travaille !<br />
+
+  (En parlant des contributions individuelles pour le Carnaval en assembl&eacute;e g&eacute;n&eacute;rale)<br />
+&lt;R&eacute;becca&gt; Je me suis mise toute nue!<br />
+&lt;Micha&euml;l Cadilhac&gt; Mais &ccedil;a, qui ne l'a pas fait?<br />
+
+  &lt;DoubleV&gt; C'est qui le prez de 1iere ann&eacute;e?<br />
+&lt;pkhuong&gt; bighouse<br />
+&lt;bighouse&gt; pkhuong<br />
+&lt;DoubleV&gt; lamblinp<br />
+
+  Marc: Je m'allume, mangez-moi.<br />
+
+  V. O. : Ce tricot a pass&eacute; le test de Turing.<br />
+
+  Paul-Math : Dirobash c'est de la merde, c'est m&ecirc;me pas dr&ocirc;le.<br />
+
+  Vincent, pendant la d&eacute;mo d'OS: Pour commencer une connexion, on fait un three-way handshake; en fran&ccedil;ais, un serrage de main en trip &agrave; trois.<br />
+
+  Vincent: J'aurais pu te le dire avant que tu te le mettes dans la bouche, que c'&eacute;tait d&eacute;gueulasse.<br />
+
+  (En sortant de Nouilles D&eacute;p&ocirc;t, qui donne des fortune cookies)<br />
+Vincent et David: (En train de lire leur fortune)<br />
+Christian, les rejoignant, la bouche pleine et les mains vides: Where did you get this piece of paper?<br />
+Vincent et David: Hum... seriously?<br />
+
+  Dans l'autobus en revenant de la cabane &agrave; sucre:<br />
+Vincent: Mathy, tu vas jusqu'&agrave; Montmorency? (Vincent d&eacute;signe une fille du bidi) Elle aussi, vous allez pouvoir vous tenir compagnie. <br />
+Lagac&eacute;: Tu as une compagnon de voyage!<br />
+Mathy: Mais c'est pas un cube!<br />
+
+  Doug : Dans notre tete, on a un bon modele pour estimer la taille de quelqu'un a partir de sa voix.<br />
+
+  &lt;Mathy42&gt; je pense que c'est une question de ieganr* [permuttez le mot avec * pour trouver le vrai mot]<br />
+&lt;Mathy42&gt; indince sur la permutation: ce mot apprait vraiment fr&eacute;quemment sur dirobash<br />
+
+  &lt;mblondin&gt; vincent a peur des templates<br />
+
+  &lt;+pkhuong&gt; mm... st-patrick demain<br />
+&lt;+pkhuong&gt; on fait de quoi?<br />
+-!- Mathy42 is now known as Farfadet<br />
+&lt;+Farfadet&gt; d&eacute;j&agrave; register :(<br />
+-!- Farfadet is now known as LeFarfadetGai<br />
+-!- LeFarfadetGai is now known as LeJoyeuxFarfadet<br />
+&lt;+LeJoyeuxFarfadet&gt; c'est moins pire comme &ccedil;a<br />
+
+  14:16 &lt;+postamar&gt; bighouse: bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse bighouse<br />
+14:16 &lt;+bighouse&gt; si tu me d&eacute;sires, ne dis pas un mot de plus<br />
+14:18 &lt;+postamar&gt; linux<br />
+
+  02:25AM &lt;Kingo&gt; comment on fais pour indenter automatiquement avec emacs ?<br />
+
+  Pascal : Yo Doug, I herd you like turtles so I put a turtle on your turtle so you can... Tant pis.<br />
+
+  Douglas, &agrave; Hugo pendant sa soutenance de th&egrave;se:<br />
+&quot;In machine learning, is there a turtle? (...) Take a strong position; yes or no.&quot;<br />
+
+  David H : Graine, graine, graine. Graine.<br />
+
+  David H, &agrave; Vincent : Est-ce que les admins de dirobash se permettent d'ajouter des quotes de graines que les gens n'ont pas r&eacute;ellement dites ? Bien s&ucirc;r que non !<br />
+
+  Doug : C'est quoi ca ? On dirait une alarme pour un clown.<br />
+
+  J&eacute;r&eacute;mie, &agrave; propos de sa charge de surveillance de laptop: J'aime bien &ccedil;a, &ccedil;a donne des occasions de violence.<br />
+
+  &lt;irvan&gt; au fait, la coupe fait tres bien dans mon appart, merci ;)<br />
+&lt;irvan&gt; ca vous derange pas que je la garde quelques mois?<br />
+&lt;AtnNn&gt; 0.074 mois au plus<br />
+&lt;irvan&gt; et tu tire cette fraction de mois d'ou?<br />
+&lt;AtnNn&gt; non, c;est une fraction du mois de mars<br />
+
+  &lt;Mathieu Lemoine&gt; On va leur faire confiance, donc... m&eacute;fiance !<br />
+
+
+  &lt;Reblapointe&gt; Je m'en fous de manger Subway, je veux juste manger Marius !<br />
+
+  &lt;SamDeTrop&gt; Peut-etre que c'est juste moi... mais j'ai longtemps eu un probleme avec la profonde inutilit&eacute; qui englobe tout<br />
+&lt;pkhuong&gt; ca s'appelle l'adolescence.<br />
+
+  &lt;Reblapointe&gt; la meilleure fa&ccedil;on pour se faire ramasser, c'est les hommes<br />
+
+  &lt;Mathy42&gt; merde, ya une quote de moi qui parle de g.r_a^i;n&quot;e sur dirobash<br />
+&lt;Mathy42&gt; &ccedil;a devrait chier le robot les post automatiquement :P<br />
+&lt;DoubleV&gt; david_h n'est pas un robot<br />
+
+  &lt;irvan&gt; ha bon, messemblait que tu trouvait ca cher la derniere fois que j'y suis alle avec toi?<br />
+&lt;cathou&gt; ouais cest cher, mais cest tellement bon :P<br />
+
+  &lt;Mathy42&gt; &agrave; moins que tu aime la cravache..<br />
+&lt;TollyWork&gt; Pas particuli&egrave;rement<br />
+&lt;TollyWork&gt; Pour avoir test&eacute; avec celle de Steph<br />
+&lt;TollyWork&gt; Wow ca sonnait vraiment wrong ca<br />
+[...]<br />
+&lt;TollyWork&gt; Mais ouais, j'avais essay&eacute; de me fouetter avec<br />
+
+  (Simultan&eacute;ment &agrave; une r&eacute;union d'asso)<br />
+&lt;pkhuong&gt; Q: What is Rhode Island? A: The topological closure of Providence.<br />
+&lt;lamblinp&gt; pkhuong: qu'est-ce que tu fous sur irc ? ;)<br />
+&lt;pkhuong&gt; et toi?<br />
+&lt;lamblinp&gt; je te watche :)<br />
+
+  &lt;J&eacute;r&eacute;mie&gt; Les femmes ont-tu le droit de vote en France?<br />
+&lt;David&gt; ...<br />
+
+  * mblondin slaps irvan<br />
+* mblondin slaps irvan2<br />
+&lt;+mblondin&gt; -------^<br />
+&lt;+Reblapointe&gt; Laisse lui le temps de tendre la deuxi&egrave;me joue, au moins!<br />
+
+  &lt;Reblapointe&gt; Pis les lesbiennes sont pires que des gars, elles l&acirc;chent pas<br />
+&lt;pkhuong&gt; ben oui, ces lesbiennes<br />
+&lt;pkhuong&gt; c'est comme les noirs.<br />
+
+  &lt;Mathy42&gt; oh fuck, j'ai dit _graine_ sur irc<br />
+&lt;Mathy42&gt; je vais me faire quoter c'est clair<br />
+
+  (Au restaurant)<br />
+&lt;Vincent&gt; There are some quite pleasant fat ladies.<br />
+
+  A la Maisonn&eacute;e, apr&egrave;s quelques bi&egrave;res, deux &eacute;tudiants en RO regardent le Canadien se prendre un but:<br />
+&lt;Marius&gt; On dirait que Carey Price a jamais r&eacute;ussi &agrave; sortir de l'ombre de son pr&eacute;d&eacute;cesseur...<br />
+&lt;Paul&gt; Oh yeah, c'est bon &ccedil;a, comme jeu de mots! <br />
+&lt;Marius&gt; ???<br />
+&lt;Paul&gt; C'est un shadow price!<br />
+
+  &lt;Reblapointe&gt; J'ai plein de &ccedil;a, moi, des draps souill&eacute;s.<br />
+
+  16:30 &lt;+mblondin&gt; je dois solver en utilisant la m&eacute;thode newton<br />
+16:31 &lt;+lamblinp&gt; en faisant tomber des pommes dessus ?<br />
+
+  (Vincent vient de mettre online des notes de TP)<br />
+&lt;Vincent&gt; Le probl&egrave;me, c'est que les &eacute;tudiants vont me donner des surnoms maintenant.<br />
+&lt;J&eacute;r&eacute;mie&gt; Ouais, ils vont t'appeler Klaus Barbie.<br />
+
+  En s'en venant dans le tunnel entre Andr&eacute;-Aisenstadt et le Pavillon Z, Vincent<br />
+et J&eacute;r&eacute;mie croisent une jolie demoiselle attendant l'ascenseur.<br />
+<br />
+Vincent: Fuck! (Parlant de l'idiotie de prendre l'ascenseur du 0i&egrave;me au 1er)<br />
+J&eacute;r&eacute;mie: Mets-en! ... M&eacute;chant cul! (Parlant du post&eacute;rieur de ladite demoiselle)<br />
+Vincent: ...<br />
+
+  &lt;Vincent&gt; Si j'ai deux bourses, &ccedil;a me va.<br />
+
+  &lt;Marius&gt; Ah fuck, c'est tellement bon, le num&eacute;rique.<br />
+
+  &lt;+lamblinp&gt; [...] je pense que le t&eacute;l&eacute;phone arabe a fait le reste<br />
+&lt;+Kingo&gt; ct pas un telephone cassee ?<br />
+&lt;+Kingo&gt; pkoi il est devenu arabe ?<br />
+
+  &lt;Reblapointe&gt; Je te dis moi &ccedil;a me prend combien de temps atteindre l'orgasme!<br />
+&lt;pkhuong&gt; Reblapointe: ben trop long quand ma porte est ouverte :p<br />
+
+  &lt;Mich&gt; Salope. SAAAAlope!<br />
+&lt;Gab&gt; C'est toi qui remplaces Ayman aujourd'hui?<br />
+
+  &lt;Reblapointe&gt; Le cur&eacute; du village s'en va 't' &agrave; la chasse, il voit un orignal et lui tire dans le <br />
+&lt;Reblapointe&gt; POOOStamar<br />
+&lt;pkhuong&gt; eh?<br />
+
+  &lt;lamblinp&gt; Un porc gratuit, c'est toujours une bonne affaire.<br />
+
+  &lt;lemoinem&gt; arretez de compiler des kernels &agrave; voix haute, &ccedil;a me distrait :P<br />
+&lt;pkhuong&gt; lemoinem: tu devrais savoir de quoi ca a l'air un kernel en compilation<br />
+&lt;lemoinem&gt; o&eacute;, mais pas &agrave; voix haute<br />
+&lt;pkhuong&gt; mais a quoi ca te sert d'avoir plein de trucs defiler a ton ecran si tu peux pas reconnaitre une compilation de kernel?<br />
+&lt;lemoinem&gt; nan, mais c'est que moi je le compile dans ma tete le kernel :P<br />
+
+  &lt;pkhuong&gt; c'est pas vraiment reb, c'est juste moi qui impersonne<br />
+&lt;Reblapointe&gt; Sex p&eacute;nis graine (J'essaie d'avoir l'air de Reblapointe)<br />
+
+  &lt;pkhuong&gt; man. ma chambre sent salement le cafe<br />
+&lt;Reblapointe&gt; t'es venu partout?<br />
+
+  &lt;Mathy&gt; Je veux pas un laptop plus petit, j'en veux juste un plus l&eacute;ger...<br />
+&lt;lagacemat&gt; &Ccedil;a va ensemble d'habitude<br />
+&lt;Mathy&gt; Nan, on pourrait juste le remplir de vide... de non-poids...<br />
+
+  &lt;Reblapointe&gt; moi je me rappelle avoir parl&eacute; &agrave; sa future blonde de la mani&egrave;re suivante : &quot;Steph, tu sais-tu toi si un gars peut pisser band&eacute;?&quot;<br />
+&lt;Reblapointe&gt; (Non Axioplase, je ne parle pas que de sexe)<br />
+
+  Tolarian: C'est lourd huit graines.<br />
+
+
+  Larose: emacs semble avoir de la difficult&eacute; &agrave; g&eacute;rer un fichier assembleur (.s), il indente vraiment de mani&egrave;re laide. Quelqu'un a d&eacute;j&agrave; eu ce probl&egrave;me et l'a r&eacute;gl&eacute;?<br />
+TollyWork: Moi<br />
+TollyWork: J'utilise VIM<br />
+
+  &lt;Reblapointe&gt; les int&eacute;grales ca m'excite<br />
+&lt;pkhuong&gt; Reblapointe: curvilignes (:<br />
+&lt;Reblapointe&gt; exact<br />
+&lt;postamar&gt; il y a surement une joke &agrave; faire avec l'int&eacute;gration par parties, mais aucune qui me vient &agrave; l'esprit<br />
+
+  &lt;Reblapointe&gt; je pr&eacute;f&egrave;re jouer dans les trajectoires de graines<br />
+
+  &lt;lemoinem&gt; DoubleV: herep<br />
+&lt;DoubleV&gt; hein?<br />
+
+  Marissa: Tu confonds les journ&eacute;es... le vendredi j'ai pas bu!!<br />
+<br />
+Micha&euml;l: Tu as tellement bu le samedi que &ccedil;a a cr&eacute;&eacute; un time loop dans ton cycle alcoolique, et qu'une partie de ton &eacute;bri&eacute;t&eacute; s'est retrouv&eacute;e d&eacute;bordant sur le jour pr&eacute;c&eacute;dent. J'ai des &eacute;tudiants en science dans mon labo. Ils confirmeront s&ucirc;rement.<br />
+
+  &lt;Reblapointe&gt; J'aime pas le sexe du tout, mais j'aime en parler.<br />
+
+  &lt;Paul-Math&gt; Si j'&eacute;tais un gros gorille g&eacute;ant...<br />
+
+  &lt;Paul-Math&gt; Il faut avoir de la rigueur pour se branler<br />
+
+  &lt;+Axioplase&gt; Pour un matheux, il a aucune retenue lui<br />
+
+  Reblapointe: je veux pas dire le mot, on va me quoter<br />
+Reblapointe: un indice : je les aime dures!<br />
+
+  &lt;Julie&gt; Je veux pas que &ccedil;a me gicle sur la figure.<br />
+
+  &lt;Axioplase&gt; *fap fap*<br />
+&lt;pkhuong&gt; yup<br />
+&lt;Axioplase&gt; j'ose pas, je suis au taff :)<br />
+
+  &lt;Reb &agrave; bighouse (en parlant de Venne)&gt; Imagine, moi pis elle en bikini sur la plage dans le sud !<br />
+&lt;bighouse&gt; You LOOOSE !!!!<br />
+
+  &lt;Reblapointe&gt; T'as touch&eacute; &agrave; la prostate de Vincent?<br />
+&lt;Mathy42&gt; c'est quoi cette histoire de prostate?<br />
+-:- cathou_ has left #DIRO []<br />
+
+  Marius: La vie c'est comme un kernel linux, on sait jamais quand on aura besoin de tout recompiler<br />
+
+  &lt;bighouse&gt; J'ai trouv&eacute; une technique de preuve super!<br />
+&lt;Paul-Math&gt; Mais est-ce que t'es un barbier?<br />
+
+  &lt;bighouse&gt; c'est clair que les sujets 'L&eacute;gitimit&eacute; d'Israel', 'Pape' sont plus sujets &agrave; diverger<br />
+&lt;lamblinp&gt; et dix verges, c'est &eacute;norme pour un seul homme<br />
+&lt;Reblapointe&gt; moi ca me va, dans les grosses soir&eacute;es<br />
+
+  Mathy42: Reblapointe, je viens de voir que tu as comme le 3/4 des quotes sur toi haha<br />
+Reblapointe: je sais, et c'est des quotes vraiment stupides :(<br />
+Reblapointe: &Ccedil;a parle toujours de g(ins&eacute;rer d'autres lettres ici)es<br />
+
+  Mathy42: nice mes notes sont toutes compos&eacute;es de A et de B,<br />
+Mathy42: B-, A, A+, A-, ABA<br />
+
+  &lt;lamblinp&gt; Des bits peuvent &ecirc;tre remplis d'amour.<br />
+
+  &lt;+Axioplase&gt; pervers !!<br />
+&lt;+Axioplase&gt; Bon, &agrave; table<br />
+
+  &lt;+lamblinp&gt; Reblapointe elle aime les choses bien dress&eacute;es et rigides<br />
+
+  &lt;+Axioplase&gt; Reblapointe: tu aimes les graines ?<br />
+&lt;+Reblapointe&gt; oui, de tournesol, de citrouilles, de lin, etc<br />
+&lt;+pkhuong&gt; wtf?<br />
+
+  &lt;Reblapointe&gt; quelqu'un s'amuse <br />
+&lt;Reblapointe&gt; &agrave; loguer toutes les fois que je parle de graines<br />
+
+  &lt;Reblapointe&gt; mais j'aime les graines, tout le monde est content!<br />
+
+  &lt;RebLapointe&gt; hahaha j'ai un gros pot de cr&egrave;me &agrave; main en pompe, presque vide<br />
+&lt;RebLapointe&gt; je le pompe, pompe, pompe et il me cum shot sur le nez<br />
+&lt;RebLapointe&gt; belle sc&egrave;ne<br />
+
+  &lt;Reblapointe&gt; J'aime &ccedil;a les graines<br />
+&lt;networkdump&gt; I know that<br />
+
+  &lt;Reblapointe&gt; Passe-moi les graines.<br />
+
+  Kingo:  t chez toi ou a la maison ?<br />
+
+  (David St-H. s'appr&ecirc;te &agrave; quitter le lab, vex&eacute; de ne pas avoir de r&eacute;ponse &agrave; sa question.)<br />
+Cath (&agrave; David St-H.): On t'aime quand m&ecirc;me, m&ecirc;me si t'es pas capable d'&eacute;crire un script.<br />
+J&eacute;r&eacute;mie: Moi j't'aime pas.<br />
+
+
+  (Apres une longue discussion sans queue ni tete) :<br />
+lerouxgm:  J'ai absolument rien compris de ce qui vient de se passer... Quelqu'un peut me resumer ?<br />
+DoubleV:   cathou veut un 5/7 strip tease et Reblapointe1 n'a pas dit un mot. C'est ce qui vient de se passer je crois<br />
+
+  postamar: ce que j'ai compris: Reblapointe1 s'est fait cloner par des raeliens mais comme ca coute cher ils ont aussi clone sa carte de debit<br />
+
+  Cath:  Ouais, les poup&eacute;es gonflables, c'est bien.<br />
+David:  (Je vais foutre ta r&eacute;ponse sur dirobash.)<br />
+Cath:  Excellent! Tu peux rajouter que les poup&eacute;es gonflables font d'excellentes amies quand on se sent seule.<br />
+
+  DoubleVTF: tubgirl n'est pas une fille?<br />
+Tolarian: tubgirl est une fille...<br />
+pkhuong: Tolarian: ben non, les filles font pas caca.<br />
+
+  &lt;+mblondin&gt; si j'&eacute;chauffe beaucoup, l'inconv&eacute;nient c'est d'avoir &agrave; simuler plus longtemps, right ?<br />
+
+  &lt;+Aszarsha&gt; networkdump: ta petite vieille de tout &agrave; l'heure m'a donn&eacute; des ailes... c'est pourtant moi qui ai aval&eacute;.<br />
+
+  21:03 &lt;+Aszarsha&gt; je suis chaud ce soir ? :p<br />
+
+  &lt;+lavoiseb&gt; d&eacute;sol&eacute; de ne pas etre guru en langages<br />
+&lt;+Aszarsha&gt; lavoiseb: personne ne te demande &ccedil;a. en fait personne ne demande &agrave; personne de finir comme Vincent... :p<br />
+&lt;+DoubleV&gt; en Viking-Barbie?<br />
+
+  &lt;+lavoiseb&gt; unknown command: fuck<br />
+
+  &lt;+Reblapointe (parlant &agrave; Tom)&gt; On va voir si t'es intouchable!!!<br />
+
+  19:12 &lt;+Reblapointe&gt; strip wormux<br />
+19:14 &lt;+Reblapointe&gt; quand un de tes bonshommes meurre, t'enl&egrave;ve un morceau<br />
+19:14 &lt;+Reblapointe&gt; si t'es trop g&ecirc;n&eacute;, tu bois<br />
+
+  18:34 &lt;+Aszarsha&gt; 'Serious programming is a team sport, brush up on your social skills. The sloppy fat geek computer genius semi-buried in a pile of pizza boxes and cola cans is a mythical creature, best buried deep, never to be seen again.' Stroustrup<br />
+18:34 &lt;+pkhuong&gt; Stroustrup a 0 social skills.<br />
+18:35 &lt;+pkhuong&gt; second pire asshole, apres Dijkstra.<br />
+
+  Un prof: Si jamais je d&eacute;cidais de devenir homosexuel...<br />
+
+  17:52 &lt;+lamblinp&gt; &quot;The best thing about the future is that it comes only one day at a time&quot;<br />
+17:52 &lt;+lamblinp&gt; -- Abraham Lincoln<br />
+
+  11:54 &lt;+Aszarsha&gt; J'ai un rhume de merde... J'ai l'impression de me faire attaquer par Major Mucus toute les 5 minutes :/<br />
+
+  16:12 &lt;+postamar&gt; comme disait un poete inconnu: your mom jumps like JNE / right on to my erection / and i pick up that ho / like straight garbage collection /<br />
+
+  21:06 &lt;+pkhuong&gt; ta mere est turing complete, faque tu peux aussi ben fourrer ta main; ta main aussi l'est surement.<br />
+
+  16:59 &lt;+DoubleV&gt; http://gotnoob.com/NiceChicks.jpg.exe.bat.com.vbs =&gt; regarde Kingo une photo d'une belle fille<br />
+
+  Olivier: Je tiens &agrave; pr&eacute;ciser que j'adore les dildos. Hey, note pas &ccedil;a.<br />
+
+  Isabelle: Tous les gars sont pareils.<br />
+(plus tard) ...Ouais, au LISA, on est pay&eacute;s pour g&eacute;n&eacute;raliser.<br />
+
+  (Marc joue &agrave; Tux Racer)<br />
+David: Il doit avoir froid au couilles.<br />
+Marc: C't'un pingouin, y sont habitu&eacute;s.<br />
+
+  Pascal: Tu lui fais essayer ton gros engin?<br />
+
+  &laquo; C'est facile, publier&nbsp;! &raquo;<br />
+--Un professeur<br />
+
+  J&eacute;r&eacute;mie: L'h&eacute;ro&iuml;ne, c'est un drogue de gauche.<br />
+Micha&euml;l: Ah non! De droite.<br />
+<br />
+(Un d&eacute;bat s'ensuit.)<br />
+<br />
+Micha&euml;l: Bon... mettons-nous d'accord: c'est une drogue centriste<br />
+Fabrice: Oui, mais les Indiens sniffent de l'essence.<br />
+
+  Paul: C'est plus facile pour moi d'&eacute;crire communiste que pour toi de chialer sur le fait que je suis stupide.<br />
+
+  (Durant la soir&eacute;e du 3 d&eacute;c 08 apr&egrave;s le discours &agrave; la nation de Harper &agrave; propos de la coalition)<br />
+Tolarian: J'APPUIE LA COLLATION<br />
+Tolarian: OM NOM NOM<br />
+
+  &lt;Thomas&gt; Mais nan, y'a trop de contexte !<br />
+
+  &lt;Fabian&gt; Je m'en fous compl&egrave;tement, qu'elle soit cute, tant qu'elle est bonne en maths !<br />
+
+  Vincent: Les gars v&eacute;g&eacute;tariens sont majoritairement gais.<br />
+
+  David, accroupi pour photographier des gens assis &agrave; c&ocirc;t&eacute; de Pascal, remarquant qu'il continue &agrave; poser: Non mais on voit juste ta bite, l&agrave;.<br />
+Pascal: Oui, c'est parce que ma jupe est pas assez longue.<br />
+
+
+  Luc: David a de la chance, il en a eu une vraiment grosse.<br />
+Les autres personnes pr&eacute;sentes: (regards perplexes)<br />
+Luc: Je parle de sa pointe de pizza! Le reste, je ne sais pas, et je ne veux pas le savoir.<br />
+
+  David: Es-tu ivre?<br />
+Mathieu: Non, je suis saoul.<br />
+Fabian: Parce qu'il y a une diff&eacute;rence?<br />
+Mathieu: Quand je serai ivre, je me d&eacute;shabillerai... pour la deuxi&egrave;me fois.<br />
+
+  Marius: Scheme sans call/cc c'est comme un pantalon sans bretelles<br />
+
+  Kingo says (10:30 PM): il ne reponds pas<br />
+Slim [o3u] says (10:31 PM): Tu es sur msn?<br />
+Kingo says (10:31 PM): si jte parle sur msn c que je suis sur msn<br />
+
+  Paul: Je vais faire mon lamblinp et spammer l'aeiroum pour qu'ils viennent.<br />
+
+  &lt;Marius&gt; GNU 's Not Useful<br />
+&lt;Arnaud&gt; Whoao... &Ccedil;a, &ccedil;a va sur diro-bash...<br />
+&lt;Thomas&gt; Non, parce que c'est super connu !<br />
+&lt;Arnaud &amp; Mathieu&gt; Non, c'est la premi&egrave;re fois que je l'entends<br />
+&lt;Thomas&gt; C'est la premi&egrave;re fois que je l'entends mais c'est super connu !<br />
+
+  &lt;Marius (parlant de LXDE)&gt; C'est comme LLVM mais c'est open source...<br />
+
+  16:34 &lt;+Reblapointe&gt; DoubleV, tu parles toujours de sex<br />
+
+  &lt;Reblapointe&gt; Quand j'&eacute;tais petite, j'&eacute;tais trop paresseuse pour l'halloween, je restais dans mon lit puis ma m&egrave;re venait m'en mettre directement dans la bouche.<br />
+&lt;Seb&gt; Puis maintenant, t'as gard&eacute; l'habitude sauf que c'est plus ta m&egrave;re ^^<br />
+
+  &lt;postamar&gt; Reiser, si ils l'ont chopp&eacute;, c'est seulement parce qu'il gardait un journal!<br />
+
+  Conversation entre R&eacute;becca et Michael M.<br />
+Reb: Tu es un petit gars de 19 ans, je ne me rappelle plus comment &ccedil;a baise un gars de 19 ans.<br />
+Mic: Veux-tu que je te le montre comment &ccedil;a baise un gars de 19 ans?<br />
+
+  &lt;Tom&gt; Je parle, &ccedil;a me fait bouger la souris !<br />
+
+  &lt;Reblapointe&gt; cyber-sexe en perspective<br />
+&lt;pkhuong&gt; non, trop humoristique.<br />
+&lt;Reblapointe&gt; oh arr&ecirc;te, le sexe, c'est jamais vraiment s&eacute;rieux<br />
+&lt;pkhuong&gt; mais ca, ca bat pas mal tout. Aussi, c'est super awkward si quelqu'un ouvre la porte par accident.<br />
+&lt;pkhuong&gt; (et le nombre de portes critiques est double!)<br />
+&lt;Reblapointe&gt; mais en plus, &ccedil;a fait juste te teaser.  Donc t'es encore plus en manque apr&egrave;s<br />
+&lt;pkhuong&gt; Reblapointe: c'est pour ca que frank vient de fermer sa porte?<br />
+&lt;Reblapointe&gt; bah non on se g&ecirc;ne pas<br />
+
+  &lt;mblondin&gt; J'ai pas de log de la vrai vie, alors j'ai rien &agrave; quoter<br />
+
+  Vincent, allant aux toilettes: Le colosse est triste, on va aller le soulager.<br />
+
+  11:18 &lt;+DoubleV&gt; wow c'est vraiment difficile rouler sur les rouleaux :x<br />
+
+  &lt;pkhuong&gt; c'est mieux sans contexte. Plus surrealiste.<br />
+&lt;pkhuong&gt; c'est comme les sons de la chambre a frank.<br />
+
+  &lt;Aszarsha&gt; C'est comme la sodomie, au d&eacute;but on pr&eacute;tend que &ccedil;a prend trop de place... Mais finalement... :d<br />
+
+  (2008-11-08 13:03:34) irvan: est-ce que j'ai mentionn&eacute; qu'il fallait aussi &ecirc;tre membre de ma secte pour atteindre la sagesse universelle?<br />
+(2008-11-08 13:11:29) irvan left the room (quit: &quot;Leaving&quot;).<br />
+(2008-11-08 13:14:12) DoubleV: La sagesse universelle vient de sacrer l'camps<br />
+
+  09:22 &lt;+mblondin&gt; &quot;You can always count on Americans to do the right thing - after they've tried everything else.&quot; - Winston Chirchill <br />
+09:23 &lt;+pkhuong&gt; mblondin fails at cut and paste. Au moins, on sait qu'il ne cheat pas.<br />
+
+  Joseph, post-doc am&eacute;ricain, le soir des &eacute;lections am&eacute;ricaines :<br />
+&laquo; Forgive me for saying this, but tonight America has finally escaped a terrible local minimum. &raquo;<br />
+
+  &lt;+DoubleVTF&gt; si vous utilisez firefox, vous pouvez utiliser SQLite Manager et enlever les URLs que vous ne voulez plus...<br />
+&lt;+networkdump&gt; un fin connaisseur<br />
+
+  &lt;David H.&gt; Avec du sperme de chameau, c'est pas tr&egrave;s bon.<br />
+
+  &lt;Reblapointe&gt; c'est jamais bon de me laisser le trou vide.<br />
+
+  David: C'est toi qui parles uniquement de sexe sur dirobash?<br />
+Reb: Mais j'ai plein d'autres choses &agrave; dire! J'ai une quote qui parle d'autre chose!<br />
+
+  (9:27:21 PM) networkdump: on s'touche?<br />
+(9:27:27 PM) networkdump: oups wrong windows.<br />
+
+  Cathou: C'est donc ben pas confortable, il y a quelque chose qui me rentre dans le cul.<br />
+
+  &lt;pkhuong&gt; boobs + fesses &gt; fesses<br />
+&lt;pkhuong&gt; (d'ou on conclut que boobs est strictement positif)<br />
+
+  (2008-10-21 14:33:26) mblondin: je me demande comment tu peux n'est plus capable de dormir<br />
+
+  &lt;Larose&gt; Tes touches sont mal plac&eacute;es Mich... Elles sont plus &agrave; gauche...<br />
+&lt;lemoinem&gt; As-tu un clavier communiste ?<br />
+
+
+  &lt;David Pouliot&gt; C'est ferm&eacute; le lundi... mais on n'est pas lundi.<br />
+
+  (2008-10-19 18:05:08) AtnNn: avec boost, les messages d'erreurs sont plus longs que le code<br />
+
+  &lt;Frank (&agrave; Reb')&gt; Je me demande vraiment si c'est possible de te mettre mal &agrave; l'aise...<br />
+
+  Une conne, &agrave; la caf&eacute;t&eacute;ria, &agrave; la fin d'une longue tirade sur les mis&egrave;res du monde et l'humanitaire: J'aimerais bien avoir un palais. Je sais pas.<br />
+
+  Reblapointe: j'ai rien &agrave; manger, j'ai du lait caill&eacute; pis des oeufs pas si frais <br />
+networkdump: Reblapointe, je compatis, moi de m&ecirc;me<br />
+[...]<br />
+Reblapointe: j'ai du beurre pis du pain plate<br />
+Laveuse_32: Moi j'ai plus de papier de toilette ; je me retient<br />
+Laveuse_32: Mais j'ai plein de tofu !<br />
+Reblapointe: torche toi avec<br />
+
+  21:48 &lt;+Kingo&gt; jaime tout ce qui est vulgaire :P<br />
+21:48 &lt;+Tolarian&gt; lol<br />
+21:49 -!- Reblapointe [n=rebecca@modemcable092.206-81-70.mc.videotron.ca] has joined #diro<br />
+
+  J&eacute;r&eacute;mie: Tu vas pas voir les bonnes sources... c'est pas le site du American Nazi Party qu'il faut voir, c'est le Ku Klux Klan.<br />
+
+  (9:28:17 PM) DoubleV: Il fadrait faire des phrases syntaxiquement correct et sans faute d'orthographe (sp)<br />
+(9:28:28 PM) networkdump: correctes<br />
+
+  (9:23:07 PM) bighouse: mais le fait est que nous sommes des singes et que les vieux singes finissent par puer si on les met pas dans des boites ou dans l'espace<br />
+
+  (19:17:25) mblondin: abergeron: &eacute;&eacute; &agrave;&agrave;&uuml; ?? &acirc;&Iuml; ??? ??? ??? &ugrave; ?<br />
+(19:17:50) abergeron: j'ai plein de points d'interrogations, mais c'est tout<br />
+(19:18:17) mblondin: combien sont vrai !<br />
+(19:18:23) DoubleV: mblondin; hahaha<br />
+
+  (&Agrave; Ayman)<br />
+&lt;mblondin&gt; tant&ocirc;t tu essayais d'entrer du LISP dans Hugs et l&agrave; tu veux que je croie que ton eval est enti&egrave;rement bien cod&eacute; ?<br />
+
+  &lt;Etienne&gt; Bah... Je toque &agrave; la porte...<br />
+&lt;Thomas&gt; Il n'y a aucune r&eacute;action...<br />
+&lt;Etienne&gt; Tant pis... Je me retourne, je pars...<br />
+&lt;Mathieu &amp; Arnaud&gt; Ah ! J'aurais pens&eacute; que t'allais te d&eacute;fendre contre la porte...<br />
+
+  Olivier, au beigne et caf&eacute;: Prends-moi!<br />
+
+  Matty, &agrave; Reb : Donc, t'es en train de nous dire que t'es enceinte de l'oreille.<br />
+
+  &lt;Jeremy&gt; Mickael, c'est quoi ton adresse email?<br />
+&lt;Mickael&gt; Ta yeule, je le dis pas.<br />
+&lt;Jeremy&gt; Pourquoi?<br />
+&lt;Jean-Philippe&gt; Parce que c'est alloallo12!!!<br />
+
+  (au local de l'asso)<br />
+&lt;Gab&gt; Vous allez dans quel cours?<br />
+&lt;Mickael&gt; En introduction en informatique.<br />
+&lt;Gab&gt; Ah! Vous allez apprendre &agrave; manipuler des bits.<br />
+&lt;Mickael&gt; Bof... moi je manipule des bites depuis que je suis tout petit...<br />
+
+  Pascal (parlant de vous-savez-quoi): &Ccedil;a d&eacute;pend par quel c&ocirc;t&eacute;.<br />
+
+  [15:04] &lt;+networkdump&gt; 90% de c&eacute;libataire &agrave; l'asso, t'as qu'&agrave; piger<br />
+[15:04] &lt;+Reblapointe&gt; non ils pr&eacute;f&egrave;rent mes amies ;)<br />
+[15:04] &lt;+networkdump&gt; les connards!<br />
+[15:05] &lt;+pkhuong&gt; Reblapointe: par le theoreme du pigeonnier<br />
+
+  &lt;Larose&gt; Comment qu'on appelle le monde qui vivent en Suisse? Les Suissiens?<br />
+&lt;Marius&gt; Les Suisses...<br />
+
+  &lt;Reb&gt; c'est dommage parce que les seules quotes que j'ai l&agrave;-dessus, &ccedil;a parle de sexe... Mais j'ai plein d'autres choses &agrave; dire !!!<br />
+
+  (au local de l'asso)<br />
+Vincent: Qu'est-ce que tu fais ?<br />
+Sam: Je travaille sur l'algorithme<br />
+(moment de silence)<br />
+Michael : _L_'algorithme !<br />
+
+  [01:51] &lt;+Reblapointe&gt; mais je suis heureusement capable de d&eacute;tecter une goute de sperme dans 100 litres d'eau, comme le sang et les requins<br />
+[01:51] &lt;+networkdump&gt; quel feat, tu pourrais jouer dans heroes<br />
+
+  21:26 &lt;+bighouse&gt; on fonde le Parti Uni(x)<br />
+21:27 &lt;+DoubleV&gt; Ca va &ecirc;tre quoi les valeurs?<br />
+21:27 &lt;+bighouse&gt; simplicit&eacute;, rigueur, et les slash du bon bord caliss<br />
+
+  &Agrave; l'asso<br />
+&lt;Maxime&gt; Oui donc ce que je disais, la monnaie en &Eacute;cosse...<br />
+&lt;Maxime&gt; Bah personne ne m'&eacute;coute, c'est pas grave...<br />
+
+  Max : J'ai un rectum dans la tete.<br />
+
+  &lt;bighouse&gt; ChanServ: nous devons croiser le fer un de ces jours<br />
+
+  18:14 &lt;+pkhuong&gt; lemoinem: blargh... maintenant le monde pense qu'avoir une classe dont il ne peut y avoir qu'une seule instance est un but en soit.<br />
+18:15 &lt;+pkhuong&gt; regarde comment le genie lo affecte le monde :'(<br />
+18:19 &lt;+Axioplase&gt; pkhuong: ben oui, c'est normal<br />
+18:20 &lt;+Axioplase&gt; imagine, un gars zoophile, il a qu'un but en soit, c'est de brouter un loup.<br />
+18:20 &lt;+Axioplase&gt; et brouter un loup, c'est bouler un trou<br />
+18:20 &lt;+Axioplase&gt; et bouler un trou, c'est bool&eacute;en True !!<br />
+18:20 &lt;+Axioplase&gt; CQFD.<br />
+18:21 &lt;+Axioplase&gt; la classe BooleanTrue, elle a qu'une seule instance.<br />
+
+  &lt;Tolarian&gt; Je viendrai &agrave; l'universit&eacute; en cravate quand Duke Nukem Forever va sortir<br />
+
+  &lt;Tom&gt; Non, toi, t'es pas une machine de Turing, t'es juste une machine merdique avec des ions potassium et des truc bizarres ... et tu fais des potentiels d'actions et &ccedil;a m'&eacute;nerve !!!<br />
+
+  &lt;Tom&gt; C'&eacute;tait quoi ton but ?<br />
+&lt;Mathieu&gt; Te faire chier...<br />
+&lt;Arnaud&gt; As-tu d&eacute;j&agrave; vu Mathieu avec un autre but ?<br />
+&lt;Tom&gt; Heu... bah oui...<br />
+&lt;Arnaud&gt; !??!!!!?!?<br />
+&lt;Tom&gt; TE faire chier... :-P<br />
+
+
+  &lt;Mathieu&gt; Pourquoi tu regardes dans le vide ?<br />
+&lt;Tom&gt; pour me laver les yeux...<br />
+
+  &lt;Frank&gt; Nooon, Y'a mon pad en bas qui fonctionne plus !<br />
+
+  (2008-09-23 17:45:56) pkhuong: networkdump: je t'amene du cafe si tu veux ;)<br />
+(2008-09-23 17:47:13) pkhuong: /nick lurving_housewife<br />
+
+  &lt;Tom (D&eacute;mo de prog1 &agrave; un &eacute;l&egrave;ve du dit cours)&gt; Il est &agrave; remettre quand le devoir !?<br />
+
+  &lt;J&gt; Par contre, j'ai cherch&eacute; la footnote comme j'ai vu qu'il y en avait une, mais je ne l'ai pas, vraiment pas trouv&eacute;e...<br />
+&lt;S&gt; Elle est dans le r&eacute;sum&eacute;<br />
+&lt;J&gt; Ah oui... Ah bah oui... effectivement... elle est l&agrave;...<br />
+
+  [R&eacute;becca parlant de zoophilie]<br />
+Vincent: En parlant d'animaux, j'ai faim moi<br />
+Pat: C'est s&ucirc;r que &ccedil;a donne un tout autre sens manger des animaux.<br />
+
+  Catherine: Il &eacute;tait le summum de la laideur...<br />
+Jean-Fran&ccedil;ois: C'est pire que Mathieu?<br />
+
+  &lt;Tom&gt; Faut forcer<br />
+&lt;Paul&gt; ... Forcer pour mettre dans le trou, &ccedil;a sonne comme une mauvaise id&eacute;e...<br />
+
+  &lt;Paul&gt; Je suce !<br />
+[...]<br />
+&lt;Paul&gt; Je suce encore, comme d'habitude...<br />
+&lt;Paul&gt; Mais c'est pas bon l&agrave;, faut que j'y touche...<br />
+&lt;Tom&gt; T'es pas d'dans hein<br />
+&lt;Paul&gt; Nan !<br />
+&lt;Tom&gt; Tu veux que je regarde ? [...] c'est suppos&eacute; &ecirc;tre dans un trou<br />
+
+  Paul : Allons jouer avec des batons huiles.<br />
+
+  Reb : Ya tu quelqu'un ici qui sait pas se branler ?<br />
+Phil : Ouais, moi je demande de l'aide a mes parents.<br />
+ &quot;Maman, chui pret, viens m'essuyer !&quot;<br />
+
+  &lt;lamblinp&gt; coin<br />
+&lt;cathou&gt; coin<br />
+&lt;lamblinp&gt; PAN !<br />
+&lt;lamblinp&gt; ha ha, mon appeau marche toujours<br />
+-!- cathou [n=cathou@x-132-204-254-48.xtpr.umontreal.ca] has quit []<br />
+
+  Michael: C'est une &eacute;mission pour les playmobils gays.<br />
+
+  &lt;Tom&gt; Fait gaffe, &quot;Slow&quot;, c'est rapide !<br />
+
+  &lt;Tom&gt; Y'a ma main qui bouge pas assez vite !<br />
+&lt;Paul&gt; Je te pr&ecirc;te ma main si tu veux !<br />
+
+  &lt;Tom&gt; Putain, j'ai les doigts dans le crack !<br />
+
+  &lt;Tom&gt; Putain de rouge !<br />
+
+  &lt;Tom&gt; Pourquoi j'ai ce doigt qui fait &ccedil;a !?<br />
+
+  &lt;Paul&gt; Ton 5 couille !!<br />
+
+  &lt;Tom&gt; Rha ! J'ai les doigts qui partent en couille<br />
+
+  En parlant de l'asso d'ergo:<br />
+(12:12:32 AM) mblondin: y'en a au moins deux assez wild pour s'embrasser pour un 20<br />
+(12:12:44 AM) mblondin: si on leur donne de la bi&egrave;re, on peut peut-&ecirc;tre optimiser<br />
+
+  &lt;Vincent&gt; Paul, c'est une vraie poup&eacute;e de chiffon.<br />
+
+  &lt;Monsieur a pr&eacute;f&eacute;r&eacute; rester anonyme&gt; Mathieu est un champion du PDDADM (pognage de derri&egrave;re &agrave; deux mains).<br />
+
+  (2008-09-09 17:04:31) AtnNn: query mblondin <br />
+(2008-09-09 17:04:37) pkhuong: AtnNn: no.<br />
+(2008-09-09 17:04:41) AtnNn: :)<br />
+(2008-09-09 17:05:01) pkhuong: /nick PLBot<br />
+(2008-09-09 17:05:16) AtnNn: pkhuong: no.<br />
+
+  Sam: L'informatique a commenc&eacute; avec C<br />
+
+  [Dans le local de l'asso]<br />
+S&eacute;bastien: Est-ce que le squatteur squatte toujours la place?<br />
+[Frank pointe le squatteur du doigt]<br />
+S&eacute;bastien: Fail<br />
+
+  (06/09/2008 00:05:26) lamblinp: Tiens, j'ai un spammer qui manque de coh&eacute;rence<br />
+(00:05:36) lamblinp: Subject: All Your Breast Enlargement Info From Top Breast Enlargement Sites.<br />
+(00:05:47) lamblinp: [...] Impress the ladies with the new tool in your pants,<br />
+(00:06:04) DoubleV: une boule c'est une boule<br />
+(00:06:08) DoubleV: :x<br />
+(00:07:09) lamblinp: j'aimerais pas jouer au billard avec toi<br />
+
+  Mathieu: Et l&agrave;, il va retourner le cheval et le mettre par l'arri&egrave;re...<br />
+
+  Paul :<br />
+Mon OS X est un meilleur unix que son Windows.<br />
+Vincent :<br />
+Mon chien est un meilleur chien que ton coloc.<br />
+
+  Sam :<br />
+C'est comme le theoreme de Godel...<br />
+Arnaud :<br />
+C'est comme le C++, il essaie d'etre incoherent. Il essaie d'etre complet.<br />
+(Arnaud aussi est incoherent)<br />
+
+
+  Sur la todo list de Tom :<br />
+- Moins glander<br />
+- Moins travailler<br />
+
+  Burger : Que ma blonde couche avec une autre fille ou qu'elle mange un bol de cr&egrave;me glac&eacute;e, c'est pareil.<br />
+
+  David : Avenir, l'annonceur qui tient ses promesses.<br />
+Burger : Te rases-tu les couilles ?<br />
+
+  Burger : C'est comme le film &quot;Bienvenue chez les 'stie !&quot;<br />
+
+  Christopher : La derni&egrave;re fois j'ai bais&eacute; une fille.<br />
+
+  David : Elle fait un post-doc &agrave; Rennes<br />
+Pascal : &quot;&Agrave; Caribous&quot; en version locale<br />
+
+  Burger : Marc a french&eacute; son fr&egrave;re.<br />
+
+  &lt;DoubleV&gt; Tolarian: http://ca.youtube.com/watch?v=3KANI2dpXLw =&gt; Tu connais les muppets?<br />
+[lien mythique]<br />
+
+  &lt;Etienne&gt; Marc m'envoie un mail &quot;Tu viens !&quot;, je r&eacute;ponds : &quot;Non !&quot;<br />
+
+  &lt;Adrien&gt; Je sais que tu manichonnes quelque chose...<br />
+
+  &lt;Joker&gt; Schemers are pathetics...<br />
+[...]<br />
+&lt;Adrien&gt; Mais, tu sais ce que sont les schemers... Les schemers sont des fourbes !<br />
+
+  &lt;Vincent&gt; Faudrait que je me fasse pousser une paire de gosses.<br />
+
+  [..fitb..]<br />
+&lt;lamblinp (&agrave; Adrien)&gt; Toi, si t'avais pas autant de quotes sur dirobash, j'aurais ajout&eacute; &ccedil;a<br />
+
+  &lt;lamblinp&gt; J'en avais un gros...<br />
+
+  15:53 &lt;+pkhuong&gt; lemoinem: que pensez-vous (toi pis frank) re biere/bouffe (w/ Axioplase)?<br />
+15:55 &lt;+Axioplase&gt; pkhuong: et lamblinp <br />
+15:57 &lt;+lamblinp&gt; pkhuong: juste pour &ecirc;tre s&ucirc;r, tu es en train de parler &agrave; tes colocs par IRC ?<br />
+15:57 &lt;+pkhuong&gt; oui<br />
+
+  (2008-08-06 23:10:58) TollyWork: Hostopia is down/slow/timing out, we seem to be under a DDOS attack....<br />
+(2008-08-06 23:11:01) TollyWork: Woops wrong window<br />
+
+  (12:07:49 AM) pkhuong: bon, sur ce<br />
+(12:07:58 AM) pkhuong: bonne nuit. J'ai un bus a pogner dans 6h<br />
+(12:08:06 AM) mblondin: bonne nuit<br />
+(12:08:10 AM) Larose: salut<br />
+(12:08:12 AM) Tolarian: Gnite pkhuong<br />
+(12:08:23 AM) mblondin: endors toi pas avec tes &eacute;couteurs<br />
+
+  (2008-08-04 23:05:26) Tolarian: T&lt;as /t/ d/connect/ encore^<br />
+(2008-08-04 23:05:29) Tolarian: Argh clavier<br />
+
+  &lt;David H.&gt; Fais attention, il conjugue tout ce qui bouge.<br />
+&lt;Mathieu&gt; M&ecirc;me &quot;&agrave;&quot;...<br />
+
+  &lt;Adrien&gt; Y a des limites &agrave; ce que je veux bien montrer.<br />
+
+  &lt;Pascal&gt; Aux jeux olympiques, il y a d&eacute;j&agrave; eu du saut en largeur &agrave; cheval.<br />
+&lt;David&gt; [r&eacute;f&eacute;rence n&eacute;cessaire]<br />
+
+  &lt;Adrien&gt; Une chose qui m'impressionne, c'est les boules.<br />
+
+  &lt;Adrien, &agrave; David&gt; Elle est forte, ta banane ?<br />
+
+  &lt;Adrien&gt; J'ai jamais utilis&eacute; coq de ma vie. &Agrave; part la mienne, &eacute;videmment.<br />
+
+  &lt;Adrien&gt; L'avantage d'avoir une t&ecirc;te de bite, c'est qu'on ne te prend pas pour un con.<br />
+
+  Vincent: J'aime les grosses saucisses.<br />
+
+  Vincent: J'aime les grosses<br />
+
+  David H: Le Sobe rose, &ccedil;a fout la chiasse.<br />
+Vincent: C'est pas purement fonctionnel.<br />
+Adrien: Il y a des effets de bord.<br />
+Paul: &Ccedil;a prendrait une monade Sobe rose.<br />
+Marius: Laule.<br />
+
+  &lt;Adrien&gt; Aaah! Connexion de merde!<br />
+
+  &lt;Marius&gt; Adrien... mais il est fou, Adrien.<br />
+
+
+  Commentaires sur la validit&eacute; de la pl&eacute;thysmographie p&eacute;nienne pour distinguer les homosexuels des h&eacute;t&eacute;rosexuels. Apr&egrave;s que Mme X* eu fait une affirmation &eacute;hont&eacute;e, Mlle Y* demande des preuves irr&eacute;futables :<br />
+- D'apr&egrave;s les r&eacute;f&eacute;rences 16, 17  et 18<br />
+- Qui sont Slashdot, Wikipedia, et &laquo; correspondance personnelle &raquo;.<br />
+<br />
+(*) noms modifi&eacute;s en &eacute;change de l'anonymat des lecteurs de ce site.<br />
+
+  &lt;Marius&gt; Arr&ecirc;te d'enculer ma chaise!<br />
+
+  David H: Ouah, on est 5 &agrave; travailler sur ton probl&egrave;me !<br />
+David S: On est des vrais employ&eacute;s de la ville.<br />
+David H: Ah, non pas Marius.<br />
+David S: Ouais, il y a Marius qui mange, moi qui bois, Vincent qui supervise et Adrien qui travaille.<br />
+Adrien: Arr&ecirc;te d'enculer ma table.<br />
+
+  David H. : Et j'ai pas fini de la l&eacute;cher.<br />
+
+  Adrien : Maintenant, je n'utilise plus de condoms, j'utilise juste mon sourire.<br />
+
+  au ltp :<br />
+&lt;Vincent&gt; Voil&agrave;, je t'ai envoy&eacute; le papier<br />
+10min plus tard<br />
+&lt;Mathieu&gt; Je l'ai toujours pas re&ccedil;u<br />
+&lt;Vincent&gt; ah, right, je l'ai envoy&eacute; &agrave; moi m&ecirc;me... attends, je te le forward.<br />
+10min plus tard<br />
+&lt;Mathieu&gt; Heu... Vincent, tu m'as bien forward le mail... par contre t'as oubli&eacute; l'attachement... :-D<br />
+&lt;Paul&gt; &ccedil;a c'est une s&eacute;rie de lose !<br />
+
+  &lt;Catherine&gt; Oui. Oui, c'est la grosseur qui compte.<br />
+
+  &lt;Adrien&gt; Putain, y fait chier &agrave; pas vouloir monter ma cl&eacute; USB, lui.<br />
+&lt;David&gt; Lui qui?<br />
+&lt;Adrien&gt; Luiquipedia.<br />
+
+  jean: LOL CAWK<br />
+paul: CAWK SAWK<br />
+pierre: CAWK FAWK SAWK									<br />
+y'a que le score de dr&ocirc;le NDLR<br />
+
+  &lt;Adrien 2007&gt; There's no such thing as free Ingrid Betancourt.<br />
+
+  Pendant une recherche de logement:<br />
+&lt;Adrien&gt; D'ailleurs j'ai une visite ce soir ; &ccedil;a m'&eacute;tonne, partout o&ugrave; je t&eacute;l&eacute;phone, c'est que des Indiens qui me r&eacute;pondent.<br />
+&lt;David&gt; &Ccedil;a doit &ecirc;tre un centre d'appel.<br />
+
+  &lt;David&gt; Va donc voir sur http://lastmeasure.zoy.org/.<br />
+&lt;Adrien&gt; (Y va, sans avoir install&eacute; NoScript.)<br />
+
+  &lt;Adrien&gt; Ouais, y a &eacute;crit &laquo; Th&eacute; p&ecirc;che Lipton &raquo;.<br />
+&lt;David&gt; Et non pas &laquo; Th&eacute; p&ecirc;che AFP &raquo;.<br />
+
+  David H. : Chaque demi-pouce compte.<br />
+
+  Vincent &agrave; Olivier :<br />
+As-tu une grosse bite ?<br />
+
+  14:06 &lt;+Axioplase&gt; Val est une monade \o/<br />
+14:06 &lt;+Axioplase&gt; &lt;/phrase_al&eacute;atoire&gt;<br />
+14:07 &lt;+pkhuong&gt; Axioplase: erh... pas certain...<br />
+14:07 &lt;+pkhuong&gt; ou si oui, c'est un peu hairy<br />
+14:07 &lt;+pkhuong&gt; le lift est pas nice<br />
+14:10 &lt;+Axioplase&gt; pkhuong: Ben, Val est u conteneur, et getVal est le runMonad :D<br />
+14:19 &lt;+AtnNn&gt; un ADT c'est pas une monade<br />
+14:23 &lt;+lamblinp&gt; mais quand il y a marqu&eacute; monade, je lis monade !<br />
+14:24 &lt;+AtnNn&gt; et si il y a marqu&eacute; monade, jolie monade?<br />
+14:34 &lt;+lamblinp&gt; et pour ne pas qu'elle s'enfuie, je lie monade<br />
+14:36 &lt;+lamblinp&gt; si elle n'est pas sage, au lit monade !<br />
+14:36 &lt;+lamblinp&gt; une atteinte &agrave; sa r&eacute;putation salit monade<br />
+14:40 &lt;+Axioplase&gt; Jolie blague. Mon adversaire est &agrave; la hauteur de sa r&eacute;putation<br />
+14:41 &lt;+Axioplase&gt; et un habitant du d&eacute;sert avec bind, return et la loi de composition, c'est un monade ou un nomade?<br />
+
+  Putain de plantage d'ostie de marde.<br />
+- Adrien, sur #gambit, en croyant etre sur #diro<br />
+
+  (10:17:43 AM) AtnNn: moi j'aurai ma premi&egrave;re session sans conflits cet automne<br />
+(10:30:56 AM) lemoinem: AtnNn: pourquoi ? t'as qu'un seul cours ?<br />
+
+  &lt;Adrien&gt; C'est du jus de pipe qui m'a saut&eacute; sur le doigt.<br />
+
+  &lt;Pat&gt; Nan, mais &ccedil;a c'est parce que t'as un mot de trois mots<br />
+
+  &lt;Marius&gt; Putain, chuis d&eacute;&ccedil;u... Dans mon s&eacute;minaire multidisciplinaire sur la communication scientifique &eacute;crite, y'a que des moches !!<br />
+
+  &Eacute;tienne au baby-foot :<br />
+C'est rentr&eacute; dans le petit trou derri&egrave;re le joueur.<br />
+
+  Pascal: Mais non au fait je suis en informatique quantique, je suis au 2e &eacute;tage<br />
+Marc: Ah, le labo n'est pas au 5e &eacute;tage ?<br />
+Pascal: En fait, il est aux deux en m&ecirc;me temps !<br />
+
+  &lt;Marius&gt; Nan, mais les profs, ils te disent des trucs, mais en fait c'est vrai...<br />
+
+  &lt;Gab&gt; Non, c'est faux, j'ai check&eacute; sur Internet l'autre fois...<br />
+
+  (2008-06-10 20:16:30) Arthur_Rainbow: J'ai un gros doute pour le devoir d'introduction &agrave; l'informatique th&eacute;orique. J'esp&egrave;re que ma question rentre pas dans le cadre du plagiat, mais: quelqu'un sait si dans &quot;z&eacute;ro ou deux lettre(s)&quot; il faut mettre un s &agrave; la fin?<br />
+(2008-06-10 20:17:38) lemoinem: oui, entre parenth&egrave;ses<br />
+(2008-06-10 20:17:59) lemoinem: (paske y'en a soit 0 (singulier) soit 2 (pluriel))<br />
+
+  &lt;Hubert&gt; Tu pourrais te nourrir par intra-veineuse...<br />
+&lt;Arthur&gt; Si c'est pour m&ecirc;me ne pas profiter du go&ucirc;t...<br />
+&lt;Hubert&gt; Bah, y'a du go&ucirc;t maintenant...<br />
+&lt;Arthur&gt; &ccedil;a ne passe m&ecirc;me pas par les papilles gustatives, j'aurais du mal &agrave; voir comment...<br />
+&lt;Hubert&gt; C'est les globules...<br />
+&lt;Arthur&gt; Les globules ?<br />
+&lt;Hubert&gt; Bah oui, les globules gustatifs...<br />
+
+  &lt;Mathieu&gt; Bon app&eacute;tit!<br />
+&lt;David H.&gt; Manger, c'est Mal.<br />
+
+  (2008-06-09 19:38:41) Arthur_Rainbow: Ginei_Morioka tu es qui? Je me souviens pas t'avoir jamais entendu parler, et t'es tout le temps l&agrave;? <br />
+(2008-06-09 19:39:25) pkhuong: c'est le bot.<br />
+(2008-06-09 19:39:35) ***Arthur_Rainbow se sent vraiment b&ecirc;te<br />
+
+  &lt;David H.&gt; Et c'est pour &ccedil;a qu'on n'a jamais vu un ninja nu.<br />
+
+
+  (3:41:11 PM) TollyWork: Quand tu sort du m&eacute;tro, vas vers les bus <br />
+(3:41:59 PM) TollyWork: Le 39 se red au carrefour &agrave; partir de momorency<br />
+(3:42:25 PM) TollyWork: 42 also<br />
+(3:42:50 PM) TollyWork: 50, 66 also<br />
+(3:42:59 PM) TollyWork: NOT 66<br />
+(3:43:19 PM) TollyWork: Alors tu peux prendre soit le 39, 42 ou le 50 pour te rendre au carrefour<br />
+(3:43:23 PM) TollyWork: It ez<br />
+(3:43:36 PM) AtnNn: la 66 se rends si tu es arm&eacute;<br />
+(3:45:38 PM) Larose: arme ?<br />
+(3:47:03 PM) AtnNn: les chauffeurs d'autobus r&eacute;pondent docilement au terrorisme<br />
+
+  (2008-06-04 15:13:42) Geister [n=Geister@modemcable156.119-20-96.mc.videotron.ca] entered the room.<br />
+(2008-06-04 15:13:42) mode (+v Geister ) by ChanServ<br />
+(2008-06-04 15:18:24) Geister is now known as C<br />
+(2008-06-04 15:18:34) C: I R C!<br />
+(2008-06-04 15:18:40) C left the room (quit: &quot;C ya.&quot;).<br />
+
+  &lt;Gab&gt; J'ai &eacute;puis&eacute; toutes les particules &quot;b&quot; de ma carte wireless, fait que maintenant elle fonctionne plus qu'en &quot;a&quot;, &quot;g&quot; ou &quot;n&quot;... Faut qu'j'aille acheter d'autres particules pour refaire le plein...<br />
+
+  &lt;David H.&gt; Je crois que je ne suis pas en train de l'inventer.<br />
+
+  &Agrave; l'asso, encore:<br />
+&lt;Gab&gt; On fait quoi?<br />
+&lt;lemoinem&gt; bli<br />
+&lt;Gab&gt; bli ?<br />
+&lt;lemoinem&gt; bah oui... on fait bli<br />
+
+  &Agrave; l'asso:<br />
+&lt;Phil&gt; L'oxyg&egrave;ne fait des interf&eacute;rences avec les particules de wi-fi, c'est pour cela que ca fonctionne mieux dans les montagnes.<br />
+
+  &lt;Catherine&gt; Une photo avec un chat dans un journal ? Je croyais qu'il n'y en avait que sur Internet !<br />
+
+  15:45 &lt;+irvan&gt; humm, Axioplase, t'as eu un probl&egrave;me de touche qui fesaient contact sans que tu le veuille sur le clavier de ton xo?<br />
+15:45 &lt;+Axioplase&gt; irvan: ?<br />
+15:46 &lt;+Axioplase&gt; j'ai pas de xo, j'en sais rien<br />
+15:46 &lt;+irvan&gt; ha, d&eacute;sol&eacute;, je pensait que t'en avait un<br />
+15:47 &lt;+lemoinem&gt; au fait, je peux savoir qui t'es ? :p<br />
+15:48 &lt;+irvan&gt; ben voyons, t'est capable de deviner &ccedil;a tout seul<br />
+15:49 &lt;+lemoinem&gt; Marc tr&egrave;s certainement<br />
+15:49 &lt;+Axioplase&gt; irvan: deja que tu me prend pour qq1 d'autre, pourquoi lui devrait savoir qui tu es?<br />
+15:49 &lt;+lemoinem&gt; lol<br />
+15:49 &lt;+lemoinem&gt; Axioplase: 1, irvan: 0<br />
+
+  C: Je les retrouve plus, ces chocolats en forme d'anus.<br />
+
+  &lt;Adrien&gt; &Agrave; d&eacute;faut d'&ecirc;tre agr&eacute;able, l'utile tout court serait d&eacute;j&agrave; bien utile.<br />
+
+  &lt;Arthur&gt; Je sais pas si &ccedil;a se trouve ici, du jus de carottes.<br />
+&lt;Mathieu&gt; Du jus de carottes ? Tu les presses toi-m&ecirc;me !<br />
+
+  Apr&egrave;s une soir&eacute;e arros&eacute;e, sur le chemin du retour :<br />
+&lt;Paul&gt; Est-ce que je vais te fourrer ?<br />
+&lt;Andr&eacute;e-Anne&gt; Non !<br />
+&lt;Paul&gt; Justement !<br />
+&lt;Andr&eacute;e-Anne&gt; J'esp&egrave;re bien !<br />
+
+  (2008-05-07 15:40:27) Tolarian: Question d'ordre g&eacute;n&eacute;rale: Les frais technos, quand on fait la demande de les enlever, on les paie quand m&ecirc;me ou on soustrait les frais du montant &agrave; payer?<br />
+
+  DavidH@LTP<br />
+Si c'est court, c'est que &ccedil;a va vite<br />
+
+  DavidH@LTP<br />
+&quot;Etienne, on rit pas avec toi, on rit de toi&quot;.<br />
+
+  Vincent :<br />
+Le volume de la musique est toujours inversemment proportionnel a sa qualit&eacute;<br />
+
+  En revenant de Jean-Coutu:<br />
+Frank: On est all&eacute;s &agrave; Jean-Coutu manger<br />
+Paul: Vous &ecirc;tes all&eacute;s mater vous voulez dire...<br />
+Frank: Mather ou Mater?<br />
+
+  Vincent &agrave; Arnaud : t'es un peu plus &quot;tr&egrave;s grand&quot; que moi<br />
+
+  * Faour is now known as Habs<br />
+[...]<br />
+* Habs is now known as Douglas_Eck<br />
+[...]<br />
+* Douglas_Eck is now known as Nadia_El-Mabrouk<br />
+[...]<br />
+* Nadia_El-Mabrouk is now known as Mathieu-Lemoine<br />
+&lt;Mathieu-Lemoine&gt; pkhuong,<br />
+&lt;Mathieu-Lemoine&gt; faudra me rapeller le contenu de lexam pcq g manker la reunion avec doug<br />
+&lt;Mathieu-Lemoine&gt; :P<br />
+&lt;networkdump&gt; orthographe failure pour lemoine :(<br />
+* blondin is now known as Faour<br />
+&lt;Faour&gt; lolllllllllllllllll<br />
+&lt;Mathieu-Lemoine&gt; hahahhahahahaha<br />
+* Mathieu-Lemoine is now known as blondin<br />
+&lt;Faour&gt; pff<br />
+&lt;Faour&gt; c'est mblondin<br />
+blondin is now known as mblondin<br />
+* Quits (mblondin(n=ayman@bas2-montreal03-1279438470.dsl.bell.ca)) (Nick collision from services.)<br />
+&lt;networkdump&gt; Arthur_Rainbow, t'vois faut pas se fier &agrave; IRC<br />
+&lt;Faour&gt; haha le con<br />
+&lt;DoubleV&gt; hahahahaha<br />
+&lt;Faour&gt; je l'ai ghost&eacute;<br />
+* Faour is now known as mblondin<br />
+&lt;networkdump&gt; trop bien.<br />
+
+  [Frank arrivant en short et en t-shirt]<br />
+Frank: Il faisait tellement chaud hier, aujourd'hui je me g&acirc;te<br />
+Philippe: Non, tu nous g&acirc;tes...<br />
+
+  Marius: OH PUTAIN!<br />
+Mathieu: On ne dit pas &quot;Putain&quot;, on dit &quot;Bonjour mademoiselle&quot;<br />
+[Ou &quot;Maman travaille&quot; (&eacute;ventuellement &quot;Maman travaille tard le soir&quot;)...]<br />
+
+  22:41 &lt;+lamblinp&gt; je sais pas si je suis clair<br />
+22:41 -!- lamblinp is now known as clair<br />
+22:41 &lt;+clair&gt; voil&agrave;, &ccedil;a devrait aller mieux<br />
+
+  Paul : Les fran&ccedil;ais sont en mode manuel par defaut.<br />
+Mathieu : C'est des valeurs par d&eacute;faut, &ccedil;a se change !<br />
+
+  Henrik &agrave; Vincent : Juste une phrase : You need to get laid !!!<br />
+Vincent : Merci, mais tu m'int&eacute;resse pas !<br />
+
+  &lt;Faour&gt; lemoinem, c kan jvais avoir ma note !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br />
+&lt;Faour&gt; lemoinem, ???????????????????????????????????????????????????????????????<br />
+&lt;lamblinp&gt; Faour: t'as un probl&egrave;me de clavier on dirait<br />
+&lt;lemoinem&gt; Nan.... j'pense pas que ce soit un probl&egrave;me de clavier...<br />
+
+  Mathieu : &ccedil;a vous ferait mal au cul de mettre les c&eacute;dilles ?<br />
+Paul : t'as-tu vu la forme que &ccedil;a a ?<br />
+
+  Vincent : &ccedil;a suit-tu son cours comme un saumon ou comme un poisson mort ?<br />
+Mathieu : Plut&ocirc;t comme un saumon...<br />
+Henrik : Tu vas &agrave; contre-sens !?<br />
+Paul : Oubliez pas qu'il a du mal &agrave; diff&eacute;rencier l'avant et l'arri&egrave;re...<br />
+
+  Hubert : Les lapins, ca mange vraiment leur marde. Les chiens, c'est juste pour attirer l'attention.<br />
+
+  Mathieu : J'ai de la misere &agrave; diff&eacute;rencier l'avant de l'arri&egrave;re.<br />
+Paul : Je me demande ce que ta blonde en pense ?<br />
+
+  Marius: Si seulement il y avait une commande emacs pour manger...<br />
+Paul: Y'en a une!<br />
+
+
+  (2008-04-07 17:52:48) Faour: lemoinem,<br />
+(2008-04-07 17:52:50) Faour: t la ?<br />
+(2008-04-07 17:54:14) lemoinem: non<br />
+
+  Gab : Paul, tu regardes quoi ?<br />
+Mathieu : Il regarde un truc de gay<br />
+[rires]<br />
+Mathieu : C'est tellement vrai en plus... Hein Paul !?<br />
+[Pas de r&eacute;action]<br />
+
+  Vincent: Hey ! Tu viens manger avec nous au Nickels ?<br />
+&Eacute;tienne: Non, je n'ai pas de cinq sous.<br />
+
+  Emilie :<br />
+Pour un h&eacute;t&eacute;ro, il est vraiment gay<br />
+
+  AtnNn :<br />
+On code en C avec classe(s)<br />
+
+  Vincent :<br />
+93,7 % des statistiques sont sorties de mon cul<br />
+
+  Julie :<br />
+Rael, il a r&eacute;ussi dans la vie, il est cool : il a dit 3/4 conneries puis maintenant il fait des gang bangs pis il est multi-millionnaire...<br />
+
+  Vincent :<br />
+On devait trouver 15, on a trouv&eacute; 14, c'est bon modulo 1...<br />
+
+  Juan : &quot;Quelqu'un connait un bon password ?&quot;<br />
+
+  21:31 &lt;+AtnNn&gt; hey you<br />
+21:32 &lt;+networkdump&gt; is there any body out there.<br />
+21:32 &lt;+networkdump&gt; anybody&amp;<br />
+21:32 &lt;+AtnNn&gt; no, there's no one, we are trapped inside<br />
+21:32 &lt;+pkhuong&gt; ... quote d'une des tounes de britney, ca.<br />
+21:33 &lt;+networkdump&gt; pkhuong, une toune de pink floyd surtout &agrave; la base.<br />
+21:33 &lt;+pkhuong&gt; non, juste le &quot;hello ... is there anybody out there&quot; ;)<br />
+21:34 &lt;+AtnNn&gt; non, britney chante &quot;I don't want any pudding&quot;<br />
+
+  (2008-03-15 17:20:33) DoubleV: lemoinem: bouh!<br />
+(2008-03-15 17:21:15) DoubleV: t'as vu? On a un nouvel ami<br />
+(2008-03-15 17:21:17) DoubleV: Ginei_Morioka!<br />
+(2008-03-15 17:22:09) DoubleV: Mais en vrai c'est un loup-garou<br />
+(2008-03-15 17:22:39) DoubleV: http://myanimelist.net/character.php?id=3865<br />
+(2008-03-15 17:23:43) lemoinem: sans d&eacute;conner...<br />
+(2008-03-15 17:24:17) Ginei_Morioka: c'est vrai, c'est pas comme si c'&eacute;tait le logger que je viens de configurer :P<br />
+
+  T'as juste &agrave; faire Ctrl+Alt+PrintScreen+B<br />
+
+  Mathieu : Julie, dis une connerie, faut alimenter la DB<br />
+
+  &Agrave; peu de choses pr&egrave;s oui, ya seulement la marque et les composantes qui diff&egrave;rent...<br />
+
+  Julie @ Gab : T'as des genoux partout !<br />
+Gab : Ah, d&eacute;sol&eacute;, j'm'excuse...<br />
+Julie : C'est bon, j't'excuse, mais recommence plus<br />
+
+  &lt;+o3u&gt; http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9067858&amp;intsrc=hm_list<br />
+&lt;+Tolarian&gt; Ouais j'avais appris :)<br />
+&lt;+DoubleV&gt; que?<br />
+&lt;+Tolarian&gt; Les SSD de Intel<br />
+&lt;+DoubleV&gt; Oh<br />
+&lt;+o3u&gt; ca avance vite tout ca<br />
+&lt;+networkdump&gt; j'crois pas que &ccedil;a l'a des pattes :(<br />
+&lt;+o3u&gt; j'm'attendais pas a 160gb si tot quoi<br />
+
+  Mardi, avant la d&eacute;mo de IFT1025<br />
+(17:38:21) ::: &lt;+DoubleV&gt; paul<br />
+(17:38:23) ::: &lt;+DoubleV&gt; t'es en retard? :P<br />
+(17:38:24) quit (pkhuong(n=pkhuong@x-132-204-253-15.xtpr.umontreal.ca)) ()<br />
+
+  [Larose au t&eacute;l&eacute;phone]<br />
+Peux-tu allumer l'ordinateur dans ma chambre STP? Le gros piton bleu &agrave; l'avant. Merci<br />
+Lemoine: Sys Admin &agrave; distance...<br />
+
+  12:33 &lt;Faour&gt; vous pouvez pas juste donner des points a tout le monde comme cadeau de noel ?<br />
+12:33 &lt;Faour&gt; ca marche pas comme ca ?<br />
+12:34 &lt;pkhuong&gt;	C'est pas noel.<br />
+
+  Dixit Julie:<br />
+Je peux rep&eacute;rer les taxis sur un rayon de 360 degr&eacute;s.<br />
+
+  (2008-02-27 11:19:54) Faour: si g pas le gout de faire mon exam jfais koi ?<br />
+(2008-02-27 11:20:07) lemoinem: tu le fais pas<br />
+(2008-02-27 11:20:39) lemoinem: ou casse toi une jambe<br />
+(2008-02-27 11:20:40) DoubleV: Casse toi une jambe!!<br />
+(2008-02-27 11:21:07) lemoinem: y'a de l'echo...<br />
+
+  Dans le local d'asso,<br />
+Julie : J'ai bais&eacute; le prof...<br />
+
+  [...]<br />
+&lt;TollyWork&gt; Comment je fais pour ouvrir un.zip?<br />
+&lt;pkhuong&gt; TollyWork: unzip<br />
+&lt;pkhuong&gt; ;)<br />
+&lt;lamblinp&gt; pkhuong: et pour ouvrir deux.zip, c'est deuxzip ?<br />
+&lt;pkhuong&gt; lamblinp: (:<br />
+
+  &lt;networkdump&gt; &quot;Look, ascii-porn is outdated.&quot;<br />
+&lt;TollyWork&gt; (&gt;^_^(&gt;0_0)&gt;<br />
+&lt;lemoinem&gt; ?<br />
+&lt;DoubleV&gt; ASCII pr0n Tolarian?<br />
+&lt;TollyWork&gt; Yup<br />
+&lt;TollyWork&gt; Surprise buttsecks<br />
+
+  (2008-02-23 17:33:52) Faour: tu sais o moins chui ki :D ?<br />
+(2008-02-23 17:34:12) lemoinem: bah quand m&ecirc;me l&agrave;... /whois pawaa ;)<br />
+(2008-02-23 17:34:41) Faour: ah putainnnnnnnnnnnnnnnn<br />
+(2008-02-23 17:34:46) Faour: j'avais pas fais attention<br />
+(2008-02-23 17:34:49) lemoinem: pwned :p<br />
+
+  hamstercat [n=Mathieu@modemcable229.69-56-74.mc.videotron.ca] entered the room.<br />
+mode (+v hamstercat ) by ChanServ<br />
+pkhuong: merde... un autre mathieu<br />
+
+  bighouse: hello ladies<br />
+AtnNn: you need glasses<br />
+bighouse: ou plus de testosterone<br />
+
+  nicolas: c toi alors mathieu<br />
+lemoinem: moi ?<br />
+Larose [n=mathieu@modemcable041.111-56-74.mc.videotron.ca] entered the room.<br />
+mode (+v Larose ) by ChanServ<br />
+nicolas: ouais!<br />
+lemoinem: nan, spas moi<br />
+nicolas: mais tu savais cetait quoi le bug!<br />
+lemoinem: bah o&eacute;... quand t'as un BOUH! qui s'affiche dans la console puis peut plus rien faire apr&egrave;s...<br />
+lemoinem: &ccedil;a sent le coup du .bashrc avec<br />
+lemoinem: echo 'BOUH !'<br />
+lemoinem: sleep 60<br />
+lemoinem: cat /dev/zero &gt; /dev/null<br />
+lemoinem: &agrave; la fin ^^<br />
+hamstercat: c'est en plein ca lol<br />
+lemoinem: ah... coup de chance ^^<br />
+nicolas: qui a fait ca alors?<br />
+
+  DoubleV: http://dirobash.gotnoob.com/ =&gt; Il faut remplir la DB!<br />
+
+  Vincent dans l'Asso:<br />
+L'Internet rend les gens brillants plus brillants et les gens stupides plus bruyants.<br />
+
+
+  &lt;Michaael&gt; Paul<br />
+&lt;Michaael&gt; Si tu voulais te voir en chemise: http://www.iro.umontreal.ca/~echo/BoursiersDIRO2007-2008/Pages/7.html<br />
+&lt;AtnNn&gt; La photo n'est pas tr&egrave;s bonne :\<br />
+&lt;Michaael&gt; Y'en a aucune de bonne<br />
+&lt;AtnNn&gt; en voila une:<br />
+&lt;AtnNn&gt; http://www.indofacts.com/gramsabha/images/maid.gif<br />
+&lt;Michaael&gt; wtf<br />
+&lt;AtnNn&gt; c'est une image de bonne<br />
+&lt;Michaael&gt; omg, je suis lent<br />
+&lt;DoubleV&gt; Avoir une base de donn&eacute;es de quotes, celle-ci serait dedans<br />
+&lt;AtnNn&gt; oui, elle est bonne<br />
+
+
